@@ -107,7 +107,7 @@ with st.expander("1. Missing Values", expanded=False):
         if st.button("Apply – Drop Columns", key="mv_apply_drop_cols"):
             new_df, entry = drop_missing_cols(df, threshold=threshold)
             _commit(new_df, entry)
-            st.success(f"Dropped columns: {entry['params']['cols_dropped']}")
+            st.toast(f"Dropped columns: {entry['params']['cols_dropped']}", icon="✅")
             st.rerun()
 
     else:
@@ -132,7 +132,7 @@ with st.expander("1. Missing Values", expanded=False):
                 st.session_state.df_history.append(st.session_state.df.copy())
                 st.session_state.transform_log.append(entry)
             st.session_state.df = current_df
-            st.success(f"Filled missing values in: {fill_cols}")
+            st.toast(f"Filled missing values in: {fill_cols}", icon="✅")
             st.rerun()
 
 # ---------------------------------------------------------------------------
@@ -156,7 +156,7 @@ with st.expander("2. Duplicate Detection", expanded=False):
     if st.button("Remove Duplicates", key="dup_apply"):
         new_df, entry = drop_duplicates(df, subset=subset_for_check, keep=keep_opt)
         _commit(new_df, entry)
-        st.success(f"Removed {entry['params']['rows_dropped']} duplicate rows.")
+        st.toast(f"Removed {entry['params']['rows_dropped']} duplicate rows.", icon="✅")
         st.rerun()
 
 # ---------------------------------------------------------------------------
@@ -196,7 +196,7 @@ with st.expander("3. Type Conversion", expanded=False):
                     "Int64"
                 )
             _commit(new_df, entry)
-            st.success(f"Converted '{tc_col}' to {target_type}.")
+            st.toast(f"Converted '{tc_col}' to {target_type}.", icon="✅")
             st.rerun()
         except Exception as e:
             st.error(f"Conversion failed: {e}")
@@ -236,7 +236,7 @@ with st.expander("4. Categorical Tools", expanded=False):
                 if ops:
                     new_df, entry = standardize_categorical(df, cat_col, ops)
                     _commit(new_df, entry)
-                    st.success(f"Applied: {ops}")
+                    st.toast(f"Applied: {ops}", icon="✅")
                     st.rerun()
                 else:
                     st.warning("Select at least one operation.")
@@ -251,7 +251,7 @@ with st.expander("4. Categorical Tools", expanded=False):
                 if mapping_dict:
                     new_df, entry = map_values(df, cat_col, mapping_dict)
                     _commit(new_df, entry)
-                    st.success(f"Mapped {len(mapping_dict)} value(s).")
+                    st.toast(f"Mapped {len(mapping_dict)} value(s).", icon="✅")
                     st.rerun()
                 else:
                     st.info("No changes detected in the mapping table.")
@@ -271,7 +271,7 @@ with st.expander("4. Categorical Tools", expanded=False):
                     df, cat_col, threshold=rare_thresh, replacement=rare_replacement
                 )
                 _commit(new_df, entry)
-                st.success(f"Grouped {len(rare_preview)} rare categories → '{rare_replacement}'.")
+                st.toast(f"Grouped {len(rare_preview)} rare categories → '{rare_replacement}'.", icon="✅")
                 st.rerun()
 
 # ---------------------------------------------------------------------------
@@ -326,7 +326,7 @@ with st.expander("5. Numeric Cleaning", expanded=False):
             elif nc_action == "Cap (winsorize)":
                 new_df, entry = cap_outliers_iqr(df, num_col)
                 _commit(new_df, entry)
-                st.success(f"Capped outliers in '{num_col}'.")
+                st.toast(f"Capped outliers in '{num_col}'.", icon="✅")
                 st.rerun()
             else:
                 m = "iqr" if method == "IQR" else "zscore"
@@ -334,7 +334,7 @@ with st.expander("5. Numeric Cleaning", expanded=False):
                     df, num_col, method=m, zscore_threshold=zscore_thresh
                 )
                 _commit(new_df, entry)
-                st.success(f"Removed {entry['params']['rows_dropped']} outlier rows.")
+                st.toast(f"Removed {entry['params']['rows_dropped']} outlier rows.", icon="✅")
                 st.rerun()
 
 # ---------------------------------------------------------------------------
@@ -372,7 +372,7 @@ with st.expander("6. Normalization / Scaling", expanded=False):
             after_stats.columns = ["After Min", "After Max", "After Mean", "After Std"]
             st.write("**After stats**")
             st.dataframe(after_stats.round(4), use_container_width=True)
-            st.success(f"Normalized {scale_cols} using {scale_method}.")
+            st.toast(f"Normalized {scale_cols} using {scale_method}.", icon="✅")
             st.rerun()
 
 # ---------------------------------------------------------------------------
@@ -394,7 +394,7 @@ with st.expander("7. Column Operations", expanded=False):
                 else:
                     new_df, entry = rename_column(df, old_col, new_col_name)
                     _commit(new_df, entry)
-                    st.success(f"Renamed '{old_col}' → '{new_col_name}'.")
+                    st.toast(f"Renamed '{old_col}' → '{new_col_name}'.", icon="✅")
                     st.rerun()
             else:
                 st.warning("Enter a different name.")
@@ -407,7 +407,7 @@ with st.expander("7. Column Operations", expanded=False):
             if drop_cols_sel and confirm_drop:
                 new_df, entry = drop_columns(df, drop_cols_sel)
                 _commit(new_df, entry)
-                st.success(f"Dropped: {drop_cols_sel}")
+                st.toast(f"Dropped: {drop_cols_sel}", icon="✅")
                 st.rerun()
             elif not drop_cols_sel:
                 st.warning("Select columns to drop.")
@@ -425,7 +425,7 @@ with st.expander("7. Column Operations", expanded=False):
                 try:
                     new_df, entry = create_column(df, new_col_label, formula)
                     _commit(new_df, entry)
-                    st.success(f"Created column '{new_col_label}'.")
+                    st.toast(f"Created column '{new_col_label}'.", icon="✅")
                     st.rerun()
                 except Exception as e:
                     st.error(f"Formula error: {e}")
@@ -461,7 +461,7 @@ with st.expander("7. Column Operations", expanded=False):
                     df, bin_col_sel, bins=n_bins, labels=bin_labels, strategy=bin_strategy
                 )
                 _commit(new_df, entry)
-                st.success(f"Binned '{bin_col_sel}' into {n_bins} bins.")
+                st.toast(f"Binned '{bin_col_sel}' into {n_bins} bins.", icon="✅")
                 st.rerun()
             except Exception as e:
                 st.error(f"Binning error: {e}")
