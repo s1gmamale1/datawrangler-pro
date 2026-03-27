@@ -194,7 +194,7 @@ def normalize_minmax(df: pd.DataFrame, col: str):
     col_min = new_df[col].min()
     col_max = new_df[col].max()
     denom = col_max - col_min
-    new_df[col] = (new_df[col] - col_min) / denom if denom != 0 else 0.0
+    new_df[col] = (new_df[col] - col_min) / denom if (not pd.isna(denom) and denom != 0) else 0.0
     return new_df, {
         "operation": "normalize_minmax",
         "column": col,
@@ -207,7 +207,7 @@ def normalize_zscore(df: pd.DataFrame, col: str):
     new_df = df.copy()
     mean = new_df[col].mean()
     std = new_df[col].std(ddof=0)
-    new_df[col] = (new_df[col] - mean) / std if std != 0 else 0.0
+    new_df[col] = (new_df[col] - mean) / std if (not pd.isna(std) and std != 0) else 0.0
     return new_df, {
         "operation": "normalize_zscore",
         "column": col,
