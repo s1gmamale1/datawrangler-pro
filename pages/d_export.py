@@ -86,7 +86,7 @@ else:
     st.dataframe(report_df, use_container_width=True, hide_index=True)
 
     report_csv = report_df.to_csv(index=False).encode("utf-8")
-    report_json = json.dumps(transform_log, indent=2).encode("utf-8")
+    report_json = json.dumps(transform_log, indent=2, default=str).encode("utf-8")
 
     dl1, dl2 = st.columns(2)
     with dl1:

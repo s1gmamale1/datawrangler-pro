@@ -238,15 +238,14 @@ with left:
     generate = st.button("Generate Chart", type="primary", use_container_width=True)
 
 with right:
-    fig = None
-    if generate or st.session_state.get("last_cfg") == cfg:
-        fig = build_chart(chart_df, cfg)
-        if fig:
-            st.session_state["last_cfg"] = cfg
-            st.session_state["last_fig"] = fig
+    if generate:
+        st.session_state["last_cfg"] = dict(cfg)
 
-    if "last_fig" in st.session_state and st.session_state["last_fig"] is not None:
-        st.plotly_chart(st.session_state["last_fig"], use_container_width=True, key=f"main_{chart_type}")
+    active_cfg = st.session_state.get("last_cfg")
+    if active_cfg:
+        fig = build_chart(chart_df, active_cfg)
+        if fig:
+            st.plotly_chart(fig, use_container_width=True, key=f"main_{active_cfg.get('chart_type','chart')}")
 
         if st.button("Save Chart", use_container_width=True):
             st.session_state.saved_charts.append(
