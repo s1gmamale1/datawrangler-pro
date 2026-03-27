@@ -246,7 +246,7 @@ with right:
             st.session_state["last_fig"] = fig
 
     if "last_fig" in st.session_state and st.session_state["last_fig"] is not None:
-        st.plotly_chart(st.session_state["last_fig"], use_container_width=True)
+        st.plotly_chart(st.session_state["last_fig"], use_container_width=True, key="main_chart")
 
         if st.button("Save Chart", use_container_width=True):
             st.session_state.saved_charts.append(
@@ -279,7 +279,7 @@ if st.session_state.saved_charts:
             st.caption(f"Chart {i + 1} — {saved['cfg']['chart_type']}")
             fig_saved = build_chart(saved["chart_df"], saved["cfg"])
             if fig_saved:
-                st.plotly_chart(fig_saved, use_container_width=True)
+                st.plotly_chart(fig_saved, use_container_width=True, key=f"saved_chart_{i}")
 
     if st.button("Clear saved charts"):
         st.session_state.saved_charts = []
