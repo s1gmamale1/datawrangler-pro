@@ -1,0 +1,1201 @@
+order_id,date,region,country,product_category,product_name,units_sold,unit_price,discount_pct,revenue,sales_rep,customer_segment
+ORD-00460,2024-10-02,Asia pacific,australia,Electronics,Wireless Headphones,4,283.28,0.4189,658.46,Alice Johnson,Enterprise
+ORD-00458,2023-08-30,middle east,turkey,Hardware,Network Switch,5,165.73,0.438,465.7,Grace Kim,Startup
+ORD-01023,2024-01-19,europe,italy,Electronics,Laptop Pro 15,11,352.27,0.0328,3747.87,Jack Wilson,Enterprise
+ORD-00142,2023-05-08,Asia pacific,australia,Electronics,Webcam HD,34,$1668.07,0.3807,35123.22,Eva Martinez,Enterprise
+ORD-00669,2023-12-02,europe,UK,Services,Integration Service,1,409.18,0.2669,299.97,Eva Martinez,SMB
+ORD-01012,2023-05-04,middle east,UAE,Services,Audit Report,14,$352.97,0.2717,3598.95,Iris Chen,Enterprise
+ORD-00152,2023-11-14,Asia pacific,Japan,Services,Consulting Package,16,140.97,0.0189,2212.89,Iris Chen,Government
+ORD-00831,2024-12-16,europe,italy,Accessories,Keyboard Mechanical,4,2620.49,0.0014,10467.29,Grace Kim,SMB
+ORD-00751,2024-08-02,LATIN AMERICA,colombia,Electronics,4K Monitor,5,1487.08,0.2969,5227.83,Jack Wilson,Education
+ORD-00047,2023-10-06,LATIN AMERICA,CHILE,Accessories,Cable Kit,8,$831.04,0.1286,5793.35,Frank Brown,Startup
+ORD-01133,2024-12-16,LATIN AMERICA,Argentina,Accessories,Desk Mat XL,2105,1040.68,0.3091,,David Lee,Government
+ORD-00129,2024-03-28,ASIA PACIFIC,South Korea,Accessories,Desk Mat XL,13,1885.37,0.0307,23757.36,Eva Martinez,Startup
+ORD-00035,2023-08-22,north america,UNITED STATES,Software,Analytics Dashboard,23,1386.3,0.3579,20473.29,David Lee,Enterprise
+ORD-00281,2023-06-03,LATIN AMERICA,brazil,Electronics,Laptop Pro 15,13,$46.73,,507.98,Carol White,Enterprise
+ORD-00595,2023-10-04,North America,UNITED STATES,Electronics,Laptop Pro 15,27,2075.33,0.1335,,Jack Wilson,Education
+ORD-00722,2024-01-22,LATIN AMERICA,CHILE,Hardware,SSD 2TB,3,2447.08,0.063,6878.74,Iris Chen,SMB
+ORD-01129,2023-08-28,middle east,ISRAEL,Accessories,Desk Mat XL,11,$1209.44,0.418,7742.83,Iris Chen,Enterprise
+ORD-00400,2024-11-09,LATIN AMERICA,brazil,Hardware,Network Switch,32,1536.12,,38046.62,David Lee,Education
+ORD-00695,2023-09-29,north america,United States,Services,Training Bundle,19,2175.03,,32957.14,Frank Brown,SMB
+ORD-00110,2024-12-30,middle east,turkey,Electronics,Laptop Pro 15,11,2543.41,0.0486,26617.8,Henry Davis,Enterprise
+ORD-00670,2023-01-22,EUROPE,italy,Hardware,Network Switch,29,1138.18,,24534.27,Alice Johnson,Education
+ORD-00888,2023-05-14,Asia pacific,australia,Services,Training Bundle,9,343.46,,2141.23,Frank Brown,Startup
+ORD-00475,2024-06-07,LATIN AMERICA,Argentina,Hardware,Server Rack,45,2830.6,0.4136,74693.87,Iris Chen,Education
+ORD-00325,2024-01-17,europe,Germany,Services,Training Bundle,5,157.37,0.1209,691.72,Alice Johnson,Startup
+ORD-00545,2024-03-03,europe,SPAIN,Software,Analytics Dashboard,1,572.79,0.416,334.51,Carol White,Startup
+ORD-00052,2023-07-06,north america,UNITED STATES,Accessories,Docking Station,8,260.99,0.3901,1273.42,Alice Johnson,Startup
+ORD-00805,2023-11-05,ASIA PACIFIC,China,Electronics,4K Monitor,8,$1113.24,0.0984,8029.58,Jack Wilson,Government
+ORD-01125,2023-02-02,North America,canada,Accessories,Desk Mat XL,45,2322.48,0.2105,82511.91,Bob Smith,Education
+ORD-00842,2023-11-20,North America,Canada,Accessories,Docking Station,20,$328.68,0.3836,4051.97,Carol White,Startup
+ORD-00187,2024-08-23,LATIN AMERICA,Argentina,Accessories,Desk Mat XL,17,2091.54,0.2771,25703.56,David Lee,SMB
+ORD-00319,2024-06-13,LATIN AMERICA,colombia,Hardware,Server Rack,15,$2563.27,0.257,28567.64,Jack Wilson,Education
+ORD-00141,2023-06-15,LATIN AMERICA,CHILE,Accessories,Cable Kit,14,852.49,0.2374,9101.52,David Lee,Education
+ORD-00944,2023-04-27,Asia pacific,australia,Hardware,Server Rack,11,1381.38,0.3889,9285.77,Grace Kim,Startup
+ORD-00970,2023-11-26,Asia pacific,australia,Electronics,Laptop Pro 15,3,42.58,0.2094,,David Lee,Education
+ORD-00064,2024-07-17,europe,germany,Software,Security Suite,4,1113.36,0.1547,3764.49,Frank Brown,Startup
+ORD-01014,2024-10-13,LATIN AMERICA,brazil,Hardware,GPU Unit,7,2579.34,0.1946,14541.8,Alice Johnson,SMB
+ORD-00757,2023-08-31,middle east,Saudi Arabia,Electronics,Webcam HD,18,$1028.99,0.1501,15741.69,Bob Smith,Education
+ORD-00811,2024-12-13,North America,Canada,Software,Cloud Storage,10,2753.85,0.3607,17605.36,David Lee,Education
+ORD-00099,2024-02-11,EUROPE,italy,Electronics,Wireless Headphones,12,684.58,0.3035,5721.72,Iris Chen,Startup
+ORD-00190,2024-02-11,LATIN AMERICA,brazil,Electronics,Wireless Headphones,3,2514.43,0.0164,7419.58,Henry Davis,SMB
+ORD-00621,2023-12-31,North America,UNITED STATES,Software,Security Suite,6,825.27,0.4104,2919.48,Alice Johnson,Startup
+ORD-00221,2024-12-15,europe,Germany,Electronics,USB Hub,77,1611.85,0.226,96063.04,Grace Kim,SMB
+ORD-00976,2024-09-24,europe,UK,Services,Integration Service,2,2901.78,0.1683,4826.82,Bob Smith,Enterprise
+ORD-00408,2024-06-13,Asia pacific,China,Accessories,Keyboard Mechanical,10,449.12,0.4151,2626.9,Grace Kim,Education
+ORD-01068,2024-03-12,LATIN AMERICA,CHILE,Services,Training Bundle,30,1557.85,0.2287,36047.09,Eva Martinez,Startup
+ORD-00250,2024-11-20,europe,SPAIN,Services,Audit Report,16,1062.42,0.0776,15679.62,Eva Martinez,Education
+ORD-00335,2024-06-13,middle east,ISRAEL,Hardware,SSD 2TB,26,2857.03,0.0848,67983.6,David Lee,Enterprise
+ORD-00532,2024-12-07,europe,Germany,Electronics,Webcam HD,3,2116.98,0.2833,,Henry Davis,Education
+ORD-00682,2023-05-07,north america,UNITED STATES,Hardware,GPU Unit,4,1484.03,0.3901,3620.44,Frank Brown,Enterprise
+ORD-00340,2023-07-19,ASIA PACIFIC,Japan,Services,Consulting Package,7,1754.88,0.032,11891.07,Iris Chen,Enterprise
+ORD-00558,2024-01-27,europe,italy,Hardware,Network Switch,8,1309.85,0.3588,6719.01,Frank Brown,Education
+ORD-00654,2023-11-04,europe,SPAIN,Electronics,USB Hub,5,1392.83,,4624.89,Grace Kim,Government
+ORD-00114,2023-05-14,Asia pacific,INDIA,Electronics,Laptop Pro 15,87,$288.75,0.3325,16768.43,Iris Chen,Enterprise
+ORD-00375,2024-11-22,Asia pacific,Japan,Hardware,Network Switch,68,106.59,0.0461,6913.98,Iris Chen,SMB
+ORD-00217,2024-12-02,middle east,Saudi Arabia,Software,Security Suite,6,1713.66,0.2478,7734.09,Frank Brown,Startup
+ORD-00813,2023-03-22,LATIN AMERICA,Argentina,Electronics,Wireless Headphones,38,2495.34,0.1063,84743.24,Grace Kim,Government
+ORD-00368,2024-02-29,LATIN AMERICA,Brazil,Services,Support Plan,12,2346.44,0.0485,26791.65,Alice Johnson,Education
+ORD-01106,2023-05-31,ASIA PACIFIC,China,Software,CRM Suite,5,$2967.36,0.3615,9473.3,Carol White,SMB
+ORD-01086,2024-06-23,North America,mexico,Services,Support Plan,17,$753.61,0.3805,7936.64,Bob Smith,Education
+ORD-00998,2024-08-26,middle east,uae,Services,Audit Report,20,2731.87,0.149,46496.43,Grace Kim,Startup
+ORD-00084,2023-11-02,Asia pacific,Japan,Hardware,RAM 32GB,8,2365.27,0.0012,18899.45,Jack Wilson,Education
+ORD-00010,2024-10-04,europe,UK,Software,Analytics Dashboard,18,$281.81,0.0493,4822.5,Carol White,Government
+ORD-01096,2024-07-22,ASIA PACIFIC,South Korea,Services,Training Bundle,11,714.85,0.2173,6154.64,Bob Smith,Enterprise
+ORD-00054,2024-10-29,ASIA PACIFIC,Japan,Accessories,Keyboard Mechanical,19,1056.37,0.3516,13014.06,Alice Johnson,Enterprise
+ORD-00926,2024-05-10,LATIN AMERICA,Brazil,Software,Security Suite,3,$1714.66,0.4439,2860.57,Alice Johnson,Enterprise
+ORD-00337,2024-05-02,north america,canada,Accessories,Mouse Ergonomic,6,2142.96,0.2872,9165.01,Frank Brown,Education
+ORD-00253,2023-01-10,ASIA PACIFIC,australia,Software,Analytics Dashboard,66,$1358.48,0.1616,75170.68,Henry Davis,SMB
+ORD-01017,2024-03-31,ASIA PACIFIC,Japan,Accessories,Cable Kit,3280,111.9,0.2957,258500.64,Alice Johnson,Startup
+ORD-00566,2024-03-17,EUROPE,italy,Software,Cloud Storage,8,$1939.98,,11743.86,David Lee,Education
+ORD-00786,2024-02-05,Asia pacific,australia,Accessories,Docking Station,28,1725.89,0.1716,40032.36,Bob Smith,Education
+ORD-00263,2023-05-14,europe,France,Services,Support Plan,0,975.36,0.2463,0.0,Jack Wilson,Government
+ORD-00782,2024-08-24,ASIA PACIFIC,South Korea,Software,Project Manager,4,2172.76,0.1052,7776.74,Iris Chen,Government
+ORD-00834,2024-05-02,ASIA PACIFIC,China,Accessories,Cable Kit,6,$1841.64,0.1926,,Bob Smith,Government
+ORD-00832,2024-09-25,north america,canada,Electronics,USB Hub,5,2100.79,0.1658,8762.4,Henry Davis,Education
+ORD-00643,2024-11-06,ASIA PACIFIC,INDIA,Software,Security Suite,9,$1467.48,0.3038,9194.94,Iris Chen,Education
+ORD-00879,2023-07-23,LATIN AMERICA,CHILE,Electronics,Wireless Headphones,12,2234.32,0.0721,24878.71,Henry Davis,Startup
+ORD-00173,2024-04-23,LATIN AMERICA,Argentina,Hardware,GPU Unit,11,577.59,0.4482,3505.86,Henry Davis,Startup
+ORD-00279,2024-08-13,Asia pacific,australia,Electronics,Laptop Pro 15,12,1293.67,0.1183,13687.55,Bob Smith,Government
+ORD-01091,2023-01-18,LATIN AMERICA,colombia,Accessories,Desk Mat XL,11,2723.91,0.1101,26664.08,Henry Davis,Government
+ORD-00552,2024-07-31,North America,mexico,Hardware,Network Switch,10,2769.35,0.3271,18634.96,Eva Martinez,Enterprise
+ORD-00206,2023-02-19,north america,Canada,Software,CRM Suite,5,110.38,0.3165,377.22,David Lee,Enterprise
+ORD-01021,2023-06-12,Asia pacific,australia,Accessories,Docking Station,18,1856.24,,,David Lee,Enterprise
+ORD-00531,2024-04-27,LATIN AMERICA,Argentina,Electronics,4K Monitor,20,1022.82,,19259.7,Alice Johnson,Enterprise
+ORD-00611,2023-10-12,ASIA PACIFIC,australia,Electronics,4K Monitor,20,1927.51,0.1,34695.18,David Lee,Enterprise
+ORD-00055,2023-08-12,LATIN AMERICA,Argentina,Electronics,USB Hub,27,387.39,0.2538,7804.9,Henry Davis,Startup
+ORD-00780,2023-11-06,EUROPE,Germany,Electronics,4K Monitor,20,608.91,0.1482,,Eva Martinez,SMB
+ORD-00362,2023-08-29,North America,Canada,Hardware,SSD 2TB,41,675.88,0.1815,22681.52,Bob Smith,Government
+ORD-00624,2024-07-26,ASIA PACIFIC,INDIA,Hardware,Network Switch,35,472.11,0.0848,,Jack Wilson,Education
+ORD-00858,2024-07-05,ASIA PACIFIC,China,Accessories,Cable Kit,17,1572.76,0.1585,,Iris Chen,SMB
+ORD-01089,2023-11-16,north america,canada,Accessories,Mouse Ergonomic,9,1768.7,0.3742,9961.67,Frank Brown,Government
+ORD-01013,2024-02-19,LATIN AMERICA,Argentina,Electronics,Webcam HD,4943,$1337.0,0.0548,6246629.25,Henry Davis,SMB
+ORD-00147,2024-05-26,LATIN AMERICA,CHILE,Electronics,Laptop Pro 15,4,1920.46,,7464.44,Jack Wilson,Education
+ORD-00921,2024-03-09,EUROPE,France,Electronics,Laptop Pro 15,28,528.99,0.1784,12169.31,Henry Davis,Education
+ORD-00171,2024-02-13,North America,canada,Software,Security Suite,5,964.75,0.1554,4074.14,Carol White,Startup
+ORD-00041,2023-11-26,middle east,turkey,Accessories,Keyboard Mechanical,21,638.44,0.273,9747.06,Henry Davis,Government
+ORD-00535,2024-04-09,middle east,ISRAEL,Services,Support Plan,7,1998.88,0.3971,8435.87,Henry Davis,Enterprise
+ORD-00501,2024-08-08,LATIN AMERICA,colombia,Services,Consulting Package,25,2474.73,0.1774,50892.82,Jack Wilson,Education
+ORD-00419,2023-04-01,north america,Canada,Services,Consulting Package,31,2471.52,0.2701,55922.84,Bob Smith,Startup
+ORD-00232,2024-01-30,europe,Germany,Electronics,Laptop Pro 15,14,288.25,0.146,3446.32,Alice Johnson,Startup
+ORD-00102,2023-05-19,EUROPE,France,Electronics,Laptop Pro 15,8,$1482.94,0.3993,,Grace Kim,Government
+ORD-00490,2023-01-23,ASIA PACIFIC,South Korea,Accessories,Keyboard Mechanical,24,1506.94,0.4169,21088.72,Alice Johnson,SMB
+ORD-00427,2023-11-20,ASIA PACIFIC,Japan,Hardware,Server Rack,5,2368.07,0.3155,8104.72,Grace Kim,Startup
+ORD-00327,2024-06-12,middle east,turkey,Accessories,Keyboard Mechanical,30,642.05,,12839.72,Frank Brown,Enterprise
+ORD-00474,2023-11-06,North America,UNITED STATES,Services,Integration Service,1083,2949.03,,2449963.59,Alice Johnson,Startup
+ORD-00791,2024-04-01,middle east,uae,Software,Cloud Storage,17,1382.27,0.446,13018.22,Bob Smith,Government
+ORD-00098,2024-05-08,Asia pacific,South Korea,Hardware,GPU Unit,15,824.85,0.4113,7283.84,Eva Martinez,Startup
+ORD-00628,2023-09-17,north america,Canada,Electronics,Laptop Pro 15,11,$1545.29,0.0535,16088.79,Alice Johnson,Enterprise
+ORD-00570,2023-12-15,North America,mexico,Hardware,RAM 32GB,9,2991.07,0.1644,22494.04,Bob Smith,Government
+ORD-00949,2024-12-19,Asia pacific,South Korea,Services,Integration Service,11,1982.21,0.2853,15583.54,Jack Wilson,Enterprise
+ORD-00749,2023-07-16,ASIA PACIFIC,australia,Software,Project Manager,962,2277.67,0.3191,1491932.61,Bob Smith,Education
+ORD-01039,2024-06-23,North America,Canada,Services,Training Bundle,14,2342.81,0.2941,23153.05,Eva Martinez,Startup
+ORD-00901,2023-07-13,europe,UK,Software,Project Manager,16,552.72,0.3881,5411.35,Jack Wilson,Government
+ORD-01082,2024-05-12,middle east,ISRAEL,Services,Integration Service,9,1281.34,0.0246,11248.37,David Lee,Startup
+ORD-00598,2024-12-20,North America,Canada,Accessories,Keyboard Mechanical,5,2214.76,0.392,,David Lee,SMB
+ORD-00557,2024-06-29,North America,United States,Hardware,Server Rack,8,1397.39,0.2143,8783.43,David Lee,Government
+ORD-00698,2023-07-12,europe,UK,Electronics,Wireless Headphones,4,580.49,0.3132,1594.72,Alice Johnson,SMB
+ORD-00755,2023-08-20,europe,SPAIN,Services,Training Bundle,2394,1010.76,0.3635,1540176.88,Grace Kim,Enterprise
+ORD-00541,2024-09-22,LATIN AMERICA,Argentina,Accessories,Keyboard Mechanical,23,1986.03,0.1312,39685.65,Jack Wilson,Government
+ORD-00887,2024-09-13,north america,Canada,Electronics,Laptop Pro 15,19,2236.81,0.2124,33472.52,Bob Smith,Government
+ORD-00987,2024-08-31,North America,United States,Electronics,Webcam HD,40,1273.53,0.1812,41710.65,Eva Martinez,Education
+ORD-00971,2024-11-18,EUROPE,italy,Hardware,GPU Unit,13,660.21,0.3223,5816.52,Bob Smith,Education
+ORD-00951,2024-04-25,north america,mexico,Services,Support Plan,10,1369.33,0.088,12488.29,Bob Smith,Startup
+ORD-00180,2024-08-20,ASIA PACIFIC,South Korea,Hardware,RAM 32GB,107,1111.38,0.441,66474.97,Eva Martinez,Enterprise
+ORD-01070,2023-06-23,North America,United States,Hardware,SSD 2TB,16,870.64,0.1006,12528.86,Eva Martinez,Startup
+ORD-01117,2023-03-27,north america,UNITED STATES,Services,Consulting Package,83,2476.88,0.328,138150.46,Carol White,Government
+ORD-00668,2024-06-12,Asia pacific,Japan,Services,Support Plan,40,$948.02,0.071,35228.42,Carol White,Education
+ORD-00499,2023-01-16,North America,Canada,Services,Integration Service,6,499.71,0.1839,2446.88,Eva Martinez,Government
+ORD-00859,2023-05-18,EUROPE,germany,Electronics,Wireless Headphones,7,433.58,0.0968,2741.27,Jack Wilson,Education
+ORD-00665,2024-10-21,EUROPE,France,Hardware,Network Switch,6,489.07,0.1427,2515.68,Grace Kim,Enterprise
+ORD-00378,2024-06-10,LATIN AMERICA,Argentina,Hardware,RAM 32GB,14,2051.14,0.0782,26470.37,Bob Smith,Government
+ORD-00512,2024-12-17,EUROPE,Germany,Electronics,Webcam HD,11,492.38,,3805.41,Jack Wilson,Education
+ORD-00018,2024-08-07,north america,mexico,Electronics,USB Hub,15,2010.23,0.0595,28359.32,Jack Wilson,Government
+ORD-00604,2024-08-03,North America,mexico,Services,Audit Report,36,1595.19,0.2061,45591.17,Carol White,Startup
+ORD-00254,2024-03-30,LATIN AMERICA,colombia,Accessories,Docking Station,27,1233.3,0.3196,22656.71,Henry Davis,SMB
+ORD-00416,2023-10-10,EUROPE,France,Services,Audit Report,6,2566.37,0.1645,12865.21,Grace Kim,SMB
+ORD-00740,2024-08-23,europe,Germany,Services,Consulting Package,27,708.87,0.1211,16821.7,Bob Smith,SMB
+ORD-00510,2024-09-26,ASIA PACIFIC,INDIA,Services,Integration Service,6,1804.3,0.2463,8159.41,Iris Chen,SMB
+ORD-00508,2023-05-01,Asia pacific,Japan,Services,Training Bundle,6,2308.19,0.2819,9945.07,Carol White,SMB
+ORD-00688,2024-10-31,europe,Germany,Electronics,Wireless Headphones,9,2340.67,0.3387,13930.97,Carol White,Enterprise
+ORD-00286,2023-05-26,north america,UNITED STATES,Hardware,Server Rack,2,2949.51,0.4325,3347.69,Eva Martinez,Enterprise
+ORD-00356,2024-12-07,EUROPE,UK,Hardware,Network Switch,5,1206.74,0.3761,3764.43,Henry Davis,Government
+ORD-00793,2024-01-29,middle east,turkey,Accessories,Mouse Ergonomic,15,546.93,0.1944,6609.1,Carol White,Education
+ORD-00452,2023-10-06,middle east,turkey,Software,CRM Suite,26,875.88,0.278,16442.02,Jack Wilson,Government
+ORD-00587,2023-07-18,north america,UNITED STATES,Software,Analytics Dashboard,8,1370.41,0.0614,10290.13,Frank Brown,Startup
+ORD-00709,2023-04-17,North America,United States,Accessories,Desk Mat XL,2,2561.68,0.2719,3730.32,Alice Johnson,Government
+ORD-00326,2023-11-04,middle east,ISRAEL,Hardware,RAM 32GB,4,2057.7,0.1026,7386.32,Henry Davis,Startup
+ORD-00109,2023-08-15,EUROPE,germany,Electronics,Webcam HD,14,1092.49,0.2034,,Jack Wilson,Enterprise
+ORD-01018,2023-12-24,Asia pacific,INDIA,Services,Training Bundle,2096,1079.66,0.2264,1750631.55,Iris Chen,Government
+ORD-01053,2023-07-28,north america,canada,Software,Security Suite,18,$1525.73,0.0349,26504.68,Frank Brown,Education
+ORD-00956,2023-11-27,EUROPE,germany,Accessories,Cable Kit,29,1885.67,0.2488,41078.94,David Lee,Enterprise
+ORD-00100,2024-08-21,EUROPE,italy,Electronics,4K Monitor,10,1369.8,0.3026,9552.99,Grace Kim,Startup
+ORD-00211,2023-07-28,ASIA PACIFIC,Japan,Accessories,Cable Kit,19,1676.28,0.1093,28368.19,Frank Brown,Enterprise
+ORD-00205,2023-04-26,europe,France,Software,Project Manager,4,834.18,0.3263,2247.95,Alice Johnson,Government
+ORD-00680,2023-06-04,middle east,uae,Hardware,GPU Unit,33,2679.08,0.4476,48837.49,Iris Chen,Government
+ORD-01055,2023-01-27,ASIA PACIFIC,australia,Accessories,Keyboard Mechanical,7,143.38,0.4103,591.86,Bob Smith,Education
+ORD-00852,2024-06-05,europe,UK,Services,Training Bundle,1755,257.07,0.301,315359.34,David Lee,Enterprise
+ORD-00734,2023-07-30,ASIA PACIFIC,South Korea,Electronics,Laptop Pro 15,3,1600.25,0.1237,4206.9,David Lee,Education
+ORD-00240,2024-05-05,middle east,Saudi Arabia,Hardware,Network Switch,24,$2369.33,0.4458,31513.98,Jack Wilson,Government
+ORD-01051,2023-02-09,ASIA PACIFIC,China,Software,Analytics Dashboard,7,$1857.66,0.0515,12333.93,Carol White,Education
+ORD-00856,2023-05-08,Asia pacific,South Korea,Software,Analytics Dashboard,7,777.7,0.0381,5236.49,Iris Chen,Startup
+ORD-00965,2024-02-14,LATIN AMERICA,Brazil,Hardware,GPU Unit,11,1406.45,,12435.55,David Lee,Startup
+ORD-00469,2024-06-25,north america,mexico,Accessories,Cable Kit,7,$2384.8,0.2776,12059.46,Alice Johnson,Enterprise
+ORD-00264,2023-06-11,North America,United States,Electronics,Laptop Pro 15,5,$2511.73,0.4182,7306.62,Henry Davis,Government
+ORD-00964,2023-10-02,North America,United States,Software,CRM Suite,21,667.08,0.4229,8084.41,Eva Martinez,Government
+ORD-00285,2024-10-13,ASIA PACIFIC,China,Accessories,Mouse Ergonomic,67,$2797.86,0.2437,141773.44,Alice Johnson,Startup
+ORD-00024,2023-03-11,ASIA PACIFIC,South Korea,Accessories,Mouse Ergonomic,3,1528.4,0.0308,4443.98,David Lee,Government
+ORD-00833,2024-01-04,europe,germany,Software,CRM Suite,5,2873.06,0.0075,14257.56,Alice Johnson,Startup
+ORD-00229,2024-08-22,north america,mexico,Services,Integration Service,6,1663.57,0.0836,9146.97,Grace Kim,Enterprise
+ORD-00666,2023-04-13,middle east,UAE,Services,Integration Service,13,2780.22,0.1901,29272.1,Carol White,Startup
+ORD-00938,2024-05-02,europe,France,Services,Training Bundle,21,1033.84,0.0957,19632.93,Bob Smith,Startup
+ORD-00870,2024-11-24,north america,United States,Hardware,GPU Unit,60,$2426.95,0.4268,83467.66,Iris Chen,SMB
+ORD-00265,2023-04-06,north america,UNITED STATES,Software,Analytics Dashboard,9,912.57,0.3945,4973.05,Frank Brown,Startup
+ORD-00124,2024-12-27,EUROPE,italy,Electronics,Webcam HD,1437,2587.7,0.258,2759145.48,Grace Kim,Startup
+ORD-01119,2023-04-30,North America,United States,Hardware,RAM 32GB,14,2091.9,0.2084,,Bob Smith,SMB
+ORD-01084,2023-12-28,North America,Canada,Accessories,Docking Station,972,$2409.2,0.3171,1599175.88,Iris Chen,Enterprise
+ORD-01071,2024-09-04,EUROPE,France,Hardware,Network Switch,11,1660.96,0.076,16882.0,Alice Johnson,Education
+ORD-00650,2023-08-20,LATIN AMERICA,colombia,Electronics,USB Hub,21,802.8,0.2581,12507.54,Jack Wilson,Enterprise
+ORD-00271,2023-10-19,North America,Canada,Software,Security Suite,38,752.01,0.3245,19303.34,Alice Johnson,Startup
+ORD-00507,2023-06-03,Asia pacific,INDIA,Accessories,Cable Kit,7,520.94,0.3921,2216.76,Carol White,SMB
+ORD-00721,2024-08-18,EUROPE,Germany,Electronics,Webcam HD,15,2213.2,0.4423,18514.52,Jack Wilson,Education
+ORD-00453,2023-10-03,LATIN AMERICA,CHILE,Electronics,Wireless Headphones,5,1609.55,,7677.55,Carol White,Government
+ORD-00801,2023-09-13,europe,germany,Hardware,RAM 32GB,25,23.94,0.3452,391.9,Frank Brown,SMB
+ORD-00071,2024-10-02,europe,UK,Accessories,Docking Station,16,$2880.72,0.3432,30272.91,David Lee,Startup
+ORD-00526,2023-04-11,Asia pacific,China,Hardware,RAM 32GB,2,1575.64,0.0645,,Iris Chen,SMB
+ORD-00397,2024-09-13,North America,UNITED STATES,Services,Integration Service,3,923.35,0.0791,2550.94,Bob Smith,Startup
+ORD-00172,2024-01-29,EUROPE,UK,Software,Project Manager,6,1354.28,0.0228,7940.41,Jack Wilson,Government
+ORD-00779,2023-03-22,LATIN AMERICA,CHILE,Electronics,4K Monitor,11,890.6,0.246,7386.64,Eva Martinez,SMB
+ORD-00169,2024-05-24,EUROPE,Germany,Accessories,Desk Mat XL,10,2303.2,0.2875,16410.3,Iris Chen,Startup
+ORD-00549,2023-03-23,North America,United States,Electronics,USB Hub,16,1112.04,0.4328,10091.99,Carol White,Education
+ORD-00306,2023-01-02,North America,Canada,Accessories,Mouse Ergonomic,13,2204.63,0.08,26367.37,Jack Wilson,Government
+ORD-00632,2023-12-30,LATIN AMERICA,brazil,Services,Training Bundle,41,563.52,0.0483,21988.38,Grace Kim,Government
+ORD-00126,2023-08-15,EUROPE,France,Services,Audit Report,70,245.14,0.3356,11400.97,Frank Brown,SMB
+ORD-00846,2023-12-23,ASIA PACIFIC,INDIA,Hardware,Network Switch,18,1648.34,0.3051,,Grace Kim,Government
+ORD-00284,2023-09-06,EUROPE,SPAIN,Services,Consulting Package,4,881.86,0.3328,2353.51,Henry Davis,Startup
+ORD-00165,2024-10-17,North America,United States,Services,Integration Service,26,1040.09,0.3511,17547.77,Jack Wilson,SMB
+ORD-00767,2023-12-06,north america,Canada,Software,Project Manager,11,724.66,,4553.98,Grace Kim,SMB
+ORD-00493,2024-12-03,North America,UNITED STATES,Software,CRM Suite,12,1566.94,0.3927,,David Lee,Government
+ORD-00808,2023-09-07,north america,Canada,Electronics,USB Hub,8,380.92,0.1928,2459.83,Jack Wilson,Enterprise
+ORD-00043,2024-05-01,North America,United States,Software,Security Suite,11,$605.39,0.1102,5925.44,Jack Wilson,Enterprise
+ORD-00752,2024-06-19,Asia pacific,Japan,Accessories,Mouse Ergonomic,4,391.01,0.385,961.88,Eva Martinez,SMB
+ORD-00880,2024-02-14,EUROPE,italy,Services,Audit Report,31,2048.38,0.338,42036.85,Iris Chen,Government
+ORD-00410,2023-03-12,Asia pacific,South Korea,Accessories,Desk Mat XL,18,2059.91,0.2684,27126.54,David Lee,Government
+ORD-00133,2024-02-01,north america,Canada,Services,Integration Service,5,1833.31,0.4131,5379.85,Grace Kim,Startup
+ORD-01139,2024-01-29,EUROPE,UK,Electronics,Webcam HD,19,46.54,0.2586,655.59,Henry Davis,Enterprise
+ORD-00509,2024-05-20,north america,canada,Hardware,Server Rack,12,2567.67,0.0026,30731.93,David Lee,SMB
+ORD-00039,2023-11-13,europe,Germany,Hardware,GPU Unit,4,2545.56,0.1351,8806.62,Grace Kim,Startup
+ORD-01057,2024-10-07,europe,germany,Electronics,Laptop Pro 15,11,2977.03,0.449,18043.78,Iris Chen,Government
+ORD-00564,2024-11-14,middle east,ISRAEL,Services,Consulting Package,9,2768.85,0.1921,20132.59,Frank Brown,Startup
+ORD-00572,2024-05-15,EUROPE,germany,Services,Support Plan,46,587.34,,19809.33,Grace Kim,Enterprise
+ORD-00935,2023-09-27,ASIA PACIFIC,australia,Accessories,Docking Station,17,1127.3,0.2277,,Alice Johnson,Education
+ORD-00891,2024-07-27,ASIA PACIFIC,China,Accessories,Mouse Ergonomic,23,583.19,0.1136,11889.61,Frank Brown,Startup
+ORD-00878,2024-12-27,EUROPE,italy,Services,Support Plan,14,$2243.79,,18923.23,David Lee,Enterprise
+ORD-00871,2023-01-08,ASIA PACIFIC,INDIA,Accessories,Docking Station,10,1222.35,0.4099,,Grace Kim,Education
+ORD-00014,2023-03-01,North America,UNITED STATES,Electronics,Laptop Pro 15,2,2637.37,0.1384,4544.72,David Lee,Education
+ORD-00167,2024-06-30,middle east,UAE,Hardware,Network Switch,23,1657.01,0.1363,32916.67,Bob Smith,Education
+ORD-00519,2024-02-10,EUROPE,UK,Hardware,GPU Unit,13,$2303.42,0.15,25452.79,Jack Wilson,Education
+ORD-00225,2023-02-17,EUROPE,SPAIN,Electronics,Wireless Headphones,8,2605.66,0.214,16384.39,Bob Smith,Startup
+ORD-00307,2024-05-23,north america,Canada,Accessories,Desk Mat XL,33,2902.91,0.2545,71415.94,Carol White,Startup
+ORD-00876,2023-06-07,Asia pacific,INDIA,Hardware,Server Rack,51,$1481.21,0.2314,,Grace Kim,Enterprise
+ORD-00352,2023-01-03,middle east,Saudi Arabia,Electronics,USB Hub,39,631.0,0.1488,20947.18,Alice Johnson,Enterprise
+ORD-00373,2024-06-30,North America,United States,Hardware,GPU Unit,38,1716.2,0.1879,52961.59,Eva Martinez,Government
+ORD-01020,2024-06-03,europe,Germany,Services,Integration Service,17,1821.46,0.3188,21093.24,Iris Chen,Startup
+ORD-00021,2023-08-31,EUROPE,italy,Accessories,Keyboard Mechanical,39,2997.84,0.436,65940.49,Carol White,Government
+ORD-00819,2024-08-02,ASIA PACIFIC,australia,Accessories,Keyboard Mechanical,13,126.08,0.1732,1355.16,Carol White,SMB
+ORD-00072,2024-04-26,EUROPE,France,Software,Analytics Dashboard,41,478.02,0.3102,13519.27,Eva Martinez,Enterprise
+ORD-00559,2023-12-10,north america,United States,Accessories,Desk Mat XL,16,1301.03,0.3863,12775.07,Eva Martinez,Startup
+ORD-00364,2024-10-14,europe,italy,Electronics,USB Hub,16,2479.46,,22477.79,Eva Martinez,Education
+ORD-00061,2023-07-06,ASIA PACIFIC,China,Services,Audit Report,8,$1143.17,0.3829,5643.6,Henry Davis,SMB
+ORD-00351,2023-07-26,EUROPE,UK,Electronics,Laptop Pro 15,15,1830.91,0.3742,17186.75,Frank Brown,Government
+ORD-00111,2023-11-29,EUROPE,UK,Accessories,Mouse Ergonomic,2,832.29,0.2468,1253.76,Grace Kim,Education
+ORD-00005,2023-07-16,EUROPE,italy,Electronics,USB Hub,10,1889.62,0.1627,15821.79,Bob Smith,Enterprise
+ORD-00309,2023-02-19,north america,mexico,Software,Analytics Dashboard,18,1057.93,0.3242,12869.08,Grace Kim,Government
+ORD-00610,2024-02-16,ASIA PACIFIC,australia,Electronics,Webcam HD,40,426.87,0.1386,14708.23,Jack Wilson,SMB
+ORD-00837,2024-01-28,Asia pacific,Japan,Electronics,Webcam HD,42,97.36,0.1469,3488.43,Eva Martinez,SMB
+ORD-00345,2024-08-25,north america,United States,Software,Analytics Dashboard,8,1039.6,0.1726,6881.32,Eva Martinez,SMB
+ORD-01121,2023-05-16,EUROPE,germany,Software,Security Suite,29,1930.52,0.086,51170.36,Eva Martinez,Enterprise
+ORD-00290,2024-04-19,ASIA PACIFIC,INDIA,Hardware,RAM 32GB,7,1081.27,0.2034,6029.38,Eva Martinez,Enterprise
+ORD-00479,2024-06-20,europe,Germany,Software,Cloud Storage,143,1905.31,0.0244,265811.32,Alice Johnson,Startup
+ORD-00386,2024-03-21,EUROPE,France,Software,Project Manager,13,624.67,0.3954,4909.78,Bob Smith,SMB
+ORD-00774,2024-06-05,LATIN AMERICA,Brazil,Services,Audit Report,26,1530.75,0.2903,28245.71,Frank Brown,Government
+ORD-01059,2024-02-24,North America,Canada,Hardware,Network Switch,18,$2247.07,0.1085,36058.73,Frank Brown,Enterprise
+ORD-01034,2024-09-14,ASIA PACIFIC,australia,Software,CRM Suite,20,88.79,,1619.0,Grace Kim,Enterprise
+ORD-00892,2023-06-20,ASIA PACIFIC,Japan,Services,Consulting Package,18,1576.04,0.3559,,Jack Wilson,Startup
+ORD-00095,2023-08-24,north america,canada,Electronics,USB Hub,8,2500.18,0.3491,,Jack Wilson,Startup
+ORD-00096,2024-10-05,LATIN AMERICA,Argentina,Accessories,Desk Mat XL,3,2165.57,0.3773,4045.5,Bob Smith,Enterprise
+ORD-00954,2024-10-21,North America,mexico,Software,Cloud Storage,38,733.07,,,Grace Kim,Enterprise
+ORD-01134,2023-12-01,europe,italy,Software,CRM Suite,17,961.88,0.1799,13410.24,Eva Martinez,Government
+ORD-00667,2023-02-23,EUROPE,UK,Services,Audit Report,9,1647.7,0.3128,10190.69,Carol White,Government
+ORD-00732,2024-12-25,north america,UNITED STATES,Hardware,Server Rack,5,2124.54,0.3583,6816.59,Eva Martinez,Education
+ORD-00893,2024-05-21,Asia pacific,australia,Electronics,USB Hub,28,2917.69,0.3665,51753.99,Iris Chen,Education
+ORD-00485,2023-03-29,ASIA PACIFIC,South Korea,Software,Project Manager,6,2456.32,0.1682,12259.0,Bob Smith,Enterprise
+ORD-00120,2024-03-10,EUROPE,Germany,Software,Analytics Dashboard,22,$158.78,0.1994,,Henry Davis,Education
+ORD-00059,2024-03-21,europe,italy,Electronics,Webcam HD,15,1910.39,,19534.69,Carol White,Education
+ORD-00208,2024-02-28,North America,canada,Accessories,Desk Mat XL,18,2630.0,0.2346,36234.04,Eva Martinez,Startup
+ORD-00409,2024-02-25,north america,mexico,Electronics,Wireless Headphones,13,2978.39,0.0768,35745.45,Jack Wilson,SMB
+ORD-00380,2024-08-09,Asia pacific,australia,Accessories,Keyboard Mechanical,6,1879.84,0.1355,9750.73,Iris Chen,Startup
+ORD-00413,2024-05-08,north america,UNITED STATES,Accessories,Cable Kit,3,139.87,0.1033,376.26,Grace Kim,Startup
+ORD-00025,2024-06-19,EUROPE,SPAIN,Software,Cloud Storage,7,1861.94,0.2627,9609.66,Frank Brown,Startup
+ORD-01010,2023-05-05,EUROPE,UK,Accessories,Keyboard Mechanical,7,1700.67,0.3889,7274.96,Jack Wilson,Education
+ORD-00245,2023-11-23,North America,UNITED STATES,Software,Cloud Storage,4,1433.72,0.3135,3937.0,Bob Smith,Startup
+ORD-00026,2023-03-16,LATIN AMERICA,CHILE,Software,Security Suite,13,2018.34,0.1423,22504.69,Alice Johnson,Government
+ORD-00223,2024-10-31,europe,italy,Accessories,Mouse Ergonomic,21,685.3,0.3815,8901.02,Alice Johnson,Enterprise
+ORD-00884,2023-05-30,Asia pacific,China,Accessories,Mouse Ergonomic,28,$405.55,0.4457,6294.3,Grace Kim,Enterprise
+ORD-01006,2023-05-22,EUROPE,UK,Accessories,Cable Kit,16,1134.13,0.1966,14578.56,Iris Chen,Government
+ORD-01067,2024-08-25,north america,canada,Accessories,Desk Mat XL,4,1366.04,0.0795,5029.76,Eva Martinez,Enterprise
+ORD-00131,2024-08-08,europe,italy,Accessories,Docking Station,3,$2219.36,0.4091,3934.26,David Lee,Startup
+ORD-00154,2024-06-15,europe,italy,Services,Integration Service,14,568.57,0.1653,6644.2,Eva Martinez,Enterprise
+ORD-01024,2023-09-16,Asia pacific,australia,Electronics,Webcam HD,67,2966.71,0.0899,180900.19,Henry Davis,Government
+ORD-00930,2023-12-14,Asia pacific,South Korea,Accessories,Docking Station,11,2791.37,0.3534,19853.9,Eva Martinez,Startup
+ORD-00494,2023-07-31,LATIN AMERICA,brazil,Software,Project Manager,6,2730.1,0.244,12383.73,Carol White,Education
+ORD-01050,2023-09-22,north america,canada,Electronics,4K Monitor,36,1658.82,0.1982,47881.51,Eva Martinez,Startup
+ORD-00076,2024-08-12,north america,UNITED STATES,Hardware,GPU Unit,23,283.06,0.3762,4061.18,Jack Wilson,Enterprise
+ORD-00902,2023-03-13,Asia pacific,australia,Electronics,4K Monitor,8,541.42,0.2735,3146.73,Carol White,Enterprise
+ORD-01052,2023-09-21,ASIA PACIFIC,South Korea,Hardware,Server Rack,16,691.57,0.4464,6125.65,Alice Johnson,Startup
+ORD-00317,2024-12-14,north america,mexico,Services,Integration Service,21,2512.86,0.068,49181.7,Bob Smith,Enterprise
+ORD-00963,2024-06-08,north america,Canada,Accessories,Desk Mat XL,14,$586.6,0.0104,8126.99,Carol White,SMB
+ORD-00942,2024-03-05,Asia pacific,Japan,Electronics,Webcam HD,24,2261.99,0.1572,45753.72,Henry Davis,Government
+ORD-00634,2023-11-16,middle east,uae,Electronics,Laptop Pro 15,8,356.0,,2078.47,Henry Davis,SMB
+ORD-00200,2023-03-01,ASIA PACIFIC,Japan,Accessories,Cable Kit,4,1365.75,,4339.81,Iris Chen,Government
+ORD-01015,2024-11-14,Asia pacific,China,Software,Cloud Storage,48,1644.57,0.1305,68637.77,Bob Smith,Education
+ORD-00135,2023-05-13,North America,United States,Accessories,Mouse Ergonomic,5,937.58,0.298,3290.91,Jack Wilson,Enterprise
+ORD-00627,2023-01-20,middle east,Saudi Arabia,Software,Analytics Dashboard,5,1280.16,0.0503,6078.84,Henry Davis,Government
+ORD-00260,2024-12-29,Asia pacific,INDIA,Electronics,4K Monitor,22,389.39,0.1124,7603.7,Frank Brown,SMB
+ORD-00591,2023-01-06,LATIN AMERICA,CHILE,Services,Audit Report,12,2783.15,0.4112,19664.62,Grace Kim,Enterprise
+ORD-00004,2023-02-14,LATIN AMERICA,CHILE,Electronics,Laptop Pro 15,41,1083.34,0.119,39131.32,Henry Davis,Education
+ORD-00960,2023-08-01,EUROPE,France,Hardware,SSD 2TB,17,287.39,0.1626,4091.23,Grace Kim,Enterprise
+ORD-00504,2024-05-27,middle east,uae,Electronics,USB Hub,19,1396.09,0.0407,25446.11,Bob Smith,SMB
+ORD-00197,2024-01-18,North America,canada,Software,Analytics Dashboard,6,1439.75,0.445,4794.37,Grace Kim,Education
+ORD-00657,2024-05-12,LATIN AMERICA,Argentina,Hardware,Network Switch,3075,1979.42,,3751852.05,Alice Johnson,Enterprise
+ORD-00569,2023-05-05,europe,italy,Electronics,USB Hub,2,1159.42,0.3509,1505.16,Jack Wilson,Education
+ORD-00027,2023-09-08,EUROPE,Germany,Accessories,Mouse Ergonomic,4,406.04,0.031,1573.81,Frank Brown,Startup
+ORD-01104,2023-08-10,europe,UK,Accessories,Docking Station,10,615.73,0.0463,5872.22,Eva Martinez,SMB
+ORD-00456,2024-04-16,EUROPE,germany,Software,Project Manager,6,1334.44,0.0151,,Bob Smith,Education
+ORD-01111,2024-03-28,LATIN AMERICA,brazil,Accessories,Mouse Ergonomic,10,545.22,0.0048,5426.03,Frank Brown,Education
+ORD-00619,2024-01-06,ASIA PACIFIC,China,Electronics,Laptop Pro 15,17,1484.21,,18431.66,Jack Wilson,Government
+ORD-00062,2023-07-15,North America,mexico,Hardware,SSD 2TB,10,2106.53,,20968.4,Bob Smith,SMB
+ORD-01130,2024-09-03,europe,italy,Hardware,GPU Unit,15,95.37,0.4151,836.73,Iris Chen,SMB
+ORD-00994,2023-12-10,LATIN AMERICA,brazil,Accessories,Mouse Ergonomic,7,$2328.01,0.3618,10400.15,Henry Davis,Government
+ORD-00658,2024-11-04,EUROPE,UK,Accessories,Desk Mat XL,11,2702.71,0.1635,24868.99,Bob Smith,Government
+ORD-00725,2024-03-02,europe,UK,Accessories,Cable Kit,13,2989.56,0.4265,22288.66,Carol White,SMB
+ORD-00745,2023-09-25,europe,France,Accessories,Docking Station,18,961.72,,14641.61,Henry Davis,Startup
+ORD-00686,2024-08-05,north america,mexico,Electronics,USB Hub,21,981.49,0.3304,,Carol White,SMB
+ORD-00378,2024-06-10,LATIN AMERICA,Argentina,Hardware,RAM 32GB,14,2051.14,0.0782,26470.37,Bob Smith,Government
+ORD-01014,2024-10-13,LATIN AMERICA,brazil,Hardware,GPU Unit,7,2579.34,0.1946,14541.8,Alice Johnson,SMB
+ORD-00432,2024-05-04,Asia pacific,South Korea,Hardware,RAM 32GB,2,$1734.22,0.3597,2220.84,Iris Chen,Enterprise
+ORD-00849,2024-03-13,north america,mexico,Accessories,Keyboard Mechanical,7,2965.56,0.4277,11880.33,Carol White,Enterprise
+ORD-00009,2024-08-21,ASIA PACIFIC,INDIA,Services,Support Plan,8,747.41,0.1182,5272.53,Grace Kim,Education
+ORD-00489,2024-06-04,middle east,ISRAEL,Electronics,Laptop Pro 15,46,2651.36,,68189.27,Bob Smith,Startup
+ORD-00586,2024-04-27,North America,Canada,Electronics,Wireless Headphones,14,2610.95,0.0993,32923.56,Jack Wilson,Government
+ORD-01025,2023-01-25,middle east,Saudi Arabia,Software,Analytics Dashboard,48,1590.29,0.0387,73379.8,Bob Smith,SMB
+ORD-01146,2024-10-15,LATIN AMERICA,brazil,Accessories,Cable Kit,12,$986.49,0.2742,8591.93,Bob Smith,Government
+ORD-00741,2023-05-26,Asia pacific,australia,Accessories,Cable Kit,2,2540.36,0.3523,3290.78,Frank Brown,Education
+ORD-00789,2023-06-10,EUROPE,italy,Electronics,4K Monitor,11,523.75,0.1849,4695.99,Bob Smith,SMB
+ORD-00446,2024-04-23,Asia pacific,South Korea,Software,CRM Suite,20,1076.95,0.3889,13162.48,Iris Chen,Startup
+ORD-00075,2024-05-20,middle east,turkey,Electronics,Webcam HD,1,2102.19,0.2252,1628.78,Henry Davis,Enterprise
+ORD-00542,2024-03-21,LATIN AMERICA,Argentina,Hardware,SSD 2TB,4,2740.47,0.4245,6308.56,Frank Brown,Enterprise
+ORD-00058,2024-06-02,middle east,uae,Electronics,USB Hub,9,1048.13,0.1668,7859.72,Frank Brown,Enterprise
+ORD-01114,2024-01-14,ASIA PACIFIC,INDIA,Software,Project Manager,18,1946.16,0.0467,33394.94,Alice Johnson,Education
+ORD-00735,2023-12-15,ASIA PACIFIC,Japan,Accessories,Docking Station,27,1770.78,0.4202,27720.85,Grace Kim,SMB
+ORD-00298,2024-02-02,north america,UNITED STATES,Hardware,RAM 32GB,15,1459.18,0.2261,16938.89,Eva Martinez,SMB
+ORD-00844,2023-08-09,North America,mexico,Accessories,Keyboard Mechanical,16,2544.52,0.284,29150.02,Henry Davis,Startup
+ORD-00218,2023-07-08,ASIA PACIFIC,INDIA,Services,Support Plan,10,1063.0,0.2459,8016.08,Iris Chen,Enterprise
+ORD-00704,2024-06-03,North America,UNITED STATES,Services,Consulting Package,3,2181.36,0.1971,5254.24,David Lee,Education
+ORD-00645,2023-01-28,North America,United States,Electronics,USB Hub,10,2512.42,0.3339,16735.23,Frank Brown,Government
+ORD-00421,2024-12-16,north america,Canada,Services,Integration Service,3142,592.28,0.2297,1433484.98,David Lee,Education
+ORD-00359,2024-06-21,EUROPE,italy,Services,Consulting Package,15,$1968.36,0.3907,17989.83,Jack Wilson,Education
+ORD-00911,2024-12-29,middle east,ISRAEL,Electronics,4K Monitor,9,1988.57,0.3648,11368.26,Bob Smith,Enterprise
+ORD-00104,2024-12-03,middle east,UAE,Hardware,Network Switch,6,2852.15,0.0447,16347.95,Frank Brown,Education
+ORD-00523,2024-09-01,middle east,UAE,Hardware,RAM 32GB,7,2528.78,0.1753,14598.39,Bob Smith,Startup
+ORD-00678,2024-12-28,Asia pacific,australia,Software,Cloud Storage,49,1024.13,0.0403,48160.02,Iris Chen,Government
+ORD-00820,2024-01-30,europe,UK,Hardware,GPU Unit,28,1908.58,0.026,52050.79,Grace Kim,SMB
+ORD-01061,2023-12-16,Asia pacific,South Korea,Software,Project Manager,22,2001.04,0.3581,28258.29,Frank Brown,Enterprise
+ORD-00267,2024-12-13,north america,Canada,Services,Consulting Package,44,686.3,0.0042,30070.37,Frank Brown,Enterprise
+ORD-00007,2023-10-04,LATIN AMERICA,CHILE,Electronics,USB Hub,43,1607.07,0.208,,Iris Chen,SMB
+ORD-00518,2024-12-07,europe,italy,Electronics,4K Monitor,5,2420.06,0.2883,8611.78,Eva Martinez,Startup
+ORD-00794,2024-11-13,EUROPE,italy,Electronics,Wireless Headphones,4,482.21,,1462.06,Bob Smith,SMB
+ORD-00753,2024-11-20,north america,canada,Accessories,Desk Mat XL,5,$2650.46,0.1922,10705.21,Alice Johnson,Startup
+ORD-00139,2023-06-19,Asia pacific,South Korea,Services,Support Plan,23,2495.71,0.3641,36501.51,Henry Davis,Enterprise
+ORD-00164,2024-08-11,EUROPE,Germany,Hardware,RAM 32GB,6,2159.41,0.3461,8472.23,Bob Smith,SMB
+ORD-00707,2023-09-25,EUROPE,italy,Services,Training Bundle,4,1674.91,0.1615,5617.65,Frank Brown,SMB
+ORD-00527,2024-12-04,LATIN AMERICA,Brazil,Services,Integration Service,3,$1571.8,0.4196,2736.82,Jack Wilson,Enterprise
+ORD-01054,2023-12-10,North America,UNITED STATES,Electronics,Webcam HD,15,437.8,0.3547,4237.69,Grace Kim,Startup
+ORD-00044,2024-12-05,ASIA PACIFIC,INDIA,Accessories,Mouse Ergonomic,9,1158.09,0.0664,9730.74,Alice Johnson,Enterprise
+ORD-00739,2023-03-04,LATIN AMERICA,brazil,Accessories,Mouse Ergonomic,46,2259.64,0.0518,98559.17,Frank Brown,Government
+ORD-00726,2024-04-11,Asia pacific,INDIA,Services,Support Plan,10,1544.41,0.3125,10617.82,Henry Davis,Enterprise
+ORD-00320,2023-02-13,Asia pacific,Japan,Services,Support Plan,10,509.81,0.0867,4656.09,Grace Kim,Enterprise
+ORD-00770,2023-04-24,LATIN AMERICA,Brazil,Software,Security Suite,51,72.76,0.1705,3078.08,Frank Brown,SMB
+ORD-00896,2023-10-12,EUROPE,France,Software,CRM Suite,20,882.6,0.4239,10169.32,Carol White,Startup
+ORD-00719,2023-01-29,middle east,Saudi Arabia,Electronics,USB Hub,9,1568.78,0.072,13102.45,Iris Chen,Education
+ORD-00295,2024-03-12,ASIA PACIFIC,Japan,Software,Cloud Storage,16,2176.04,0.1722,28821.21,Carol White,Startup
+ORD-01136,2024-10-23,North America,mexico,Hardware,GPU Unit,26,1835.58,0.4116,28081.44,David Lee,SMB
+ORD-01004,2024-09-03,North America,Canada,Services,Integration Service,7,2713.44,0.4141,11128.63,Eva Martinez,SMB
+ORD-01038,2024-07-10,middle east,Saudi Arabia,Accessories,Cable Kit,3,$375.9,0.1126,1000.72,David Lee,Government
+ORD-00455,2023-09-14,North America,United States,Software,CRM Suite,7,1183.33,0.0817,7606.56,Grace Kim,Enterprise
+ORD-00020,2023-10-13,europe,germany,Hardware,Server Rack,3,578.71,0.1898,,Henry Davis,SMB
+ORD-00983,2024-01-30,North America,mexico,Services,Support Plan,5,325.91,0.4125,957.36,Henry Davis,Education
+ORD-00563,2023-07-09,EUROPE,Germany,Accessories,Mouse Ergonomic,24,2293.92,0.3614,35157.54,Bob Smith,SMB
+ORD-00940,2023-10-04,North America,UNITED STATES,Services,Support Plan,7,2605.37,0.3077,12625.88,Eva Martinez,SMB
+ORD-00713,2024-06-26,Asia pacific,Japan,Hardware,SSD 2TB,7,1250.87,0.1105,7788.54,Grace Kim,SMB
+ORD-01103,2023-11-10,LATIN AMERICA,CHILE,Electronics,Wireless Headphones,64,2464.05,0.263,116224.31,Frank Brown,Education
+ORD-00511,2024-09-09,north america,Canada,Software,CRM Suite,15,119.79,0.3001,1257.62,Eva Martinez,Startup
+ORD-00431,2024-08-11,north america,canada,Electronics,Webcam HD,4,953.09,0.3964,,Eva Martinez,Government
+ORD-00138,2024-06-23,Asia pacific,China,Electronics,4K Monitor,9,312.4,0.3758,1755.0,Alice Johnson,Startup
+ORD-00797,2024-04-20,europe,France,Services,Consulting Package,1739,2130.2,0.3016,2587165.39,Henry Davis,Government
+ORD-00186,2024-03-28,europe,italy,Hardware,Network Switch,21,870.0,0.1559,15421.71,Eva Martinez,Government
+ORD-00928,2023-01-25,Asia pacific,Japan,Hardware,RAM 32GB,16,1515.69,0.3488,15792.28,Jack Wilson,Government
+ORD-00398,2024-06-03,Asia pacific,South Korea,Software,Security Suite,35,1883.58,0.4014,39462.88,Alice Johnson,Education
+ORD-01138,2024-06-13,europe,germany,Services,Consulting Package,4,2865.49,0.1792,9407.98,Bob Smith,Government
+ORD-00390,2023-10-30,north america,UNITED STATES,Software,Cloud Storage,7,2242.78,0.3823,9697.56,Carol White,Startup
+ORD-01128,2024-02-13,ASIA PACIFIC,South Korea,Software,CRM Suite,6,1853.66,0.3125,7646.35,Henry Davis,SMB
+ORD-00663,2024-11-18,North America,mexico,Electronics,USB Hub,11,2220.94,0.0246,23829.35,David Lee,Startup
+ORD-00328,2023-06-27,Asia pacific,Japan,Hardware,GPU Unit,22,2343.73,0.2559,38367.33,David Lee,SMB
+ORD-00318,2024-07-02,North America,canada,Services,Audit Report,9,192.33,0.2352,1323.85,Henry Davis,Education
+ORD-00805,2023-11-05,ASIA PACIFIC,China,Electronics,4K Monitor,8,$1113.24,0.0984,8029.58,Jack Wilson,Government
+ORD-00823,2024-06-29,EUROPE,SPAIN,Software,Project Manager,76,1286.34,0.2253,75736.1,Grace Kim,Education
+ORD-00514,2023-08-03,EUROPE,UK,Services,Support Plan,5,2579.62,0.1862,10496.47,David Lee,Education
+ORD-00705,2024-11-20,North America,canada,Services,Support Plan,3,2171.75,0.1876,5292.99,Frank Brown,Government
+ORD-00769,2024-07-21,north america,United States,Software,Analytics Dashboard,7,664.64,0.0784,4287.73,David Lee,SMB
+ORD-00433,2023-01-13,North America,UNITED STATES,Software,Project Manager,9,2097.74,,13025.08,David Lee,Government
+ORD-00529,2023-06-11,LATIN AMERICA,Argentina,Hardware,SSD 2TB,14,2320.62,0.1227,28502.32,Eva Martinez,Enterprise
+ORD-00756,2023-01-25,LATIN AMERICA,Argentina,Software,Security Suite,100,$1881.71,0.216,147526.06,Jack Wilson,Startup
+ORD-00149,2023-01-21,EUROPE,SPAIN,Hardware,Server Rack,18,1636.8,0.2284,22733.19,Grace Kim,Government
+ORD-00448,2023-06-09,middle east,ISRAEL,Services,Audit Report,5,277.76,0.1855,1131.18,Eva Martinez,Enterprise
+ORD-00923,2023-03-21,LATIN AMERICA,colombia,Accessories,Keyboard Mechanical,13,559.23,0.2517,5440.13,Henry Davis,Government
+ORD-00737,2023-07-05,middle east,UAE,Software,Security Suite,14,$2039.03,0.4325,16200.09,Alice Johnson,Enterprise
+ORD-00946,2023-01-15,Asia pacific,South Korea,Services,Support Plan,5,2857.6,0.2596,,Frank Brown,Startup
+ORD-00366,2023-10-26,North America,UNITED STATES,Electronics,Laptop Pro 15,8,673.01,0.3734,3373.66,Iris Chen,Education
+ORD-00618,2023-10-22,north america,Canada,Hardware,SSD 2TB,21,2504.38,0.2942,37119.42,Grace Kim,SMB
+ORD-00612,2024-06-07,EUROPE,SPAIN,Services,Consulting Package,11,1189.32,0.2714,9531.92,Alice Johnson,Startup
+ORD-00790,2024-03-18,europe,italy,Electronics,Webcam HD,3,2598.43,0.0926,7073.45,Henry Davis,SMB
+ORD-01140,2024-04-06,ASIA PACIFIC,INDIA,Services,Consulting Package,21,783.35,0.2716,11982.43,Iris Chen,Startup
+ORD-01076,2024-05-23,Asia pacific,South Korea,Services,Support Plan,8,803.2,0.3662,,Eva Martinez,SMB
+ORD-00524,2023-11-06,North America,United States,Hardware,RAM 32GB,19,2632.37,0.3733,31344.42,David Lee,Education
+ORD-00233,2024-01-25,europe,italy,Electronics,USB Hub,12,2934.73,0.0763,32529.72,Carol White,SMB
+ORD-00592,2023-04-11,north america,UNITED STATES,Accessories,Keyboard Mechanical,8,1189.01,0.3135,6530.04,Henry Davis,Government
+ORD-00817,2024-04-25,ASIA PACIFIC,australia,Services,Training Bundle,15,$1822.01,0.0615,25649.35,David Lee,SMB
+ORD-00447,2024-03-21,ASIA PACIFIC,China,Accessories,Mouse Ergonomic,16,1375.05,0.3948,13314.88,Iris Chen,Education
+ORD-00159,2023-09-13,North America,mexico,Services,Consulting Package,4,1593.08,0.2923,4509.69,Bob Smith,Enterprise
+ORD-00316,2024-01-14,europe,italy,Services,Training Bundle,12,1636.93,0.3985,11815.36,Carol White,Government
+ORD-00257,2023-03-31,LATIN AMERICA,colombia,Electronics,Wireless Headphones,33,2997.93,0.1569,83409.31,Henry Davis,Enterprise
+ORD-01019,2023-05-24,EUROPE,France,Software,Security Suite,9,1693.8,0.3864,9353.84,Eva Martinez,Startup
+ORD-00097,2024-03-01,middle east,turkey,Electronics,USB Hub,15,402.91,0.147,5155.23,Carol White,SMB
+ORD-00455,2023-09-14,North America,United States,Software,CRM Suite,7,1183.33,0.0817,7606.56,Grace Kim,Enterprise
+ORD-01035,2024-03-24,ASIA PACIFIC,Japan,Services,Integration Service,8,1294.85,0.062,9716.55,Bob Smith,Education
+ORD-00385,2024-07-04,ASIA PACIFIC,Japan,Hardware,Network Switch,6,$256.2,0.4372,865.14,Iris Chen,Enterprise
+ORD-01047,2024-02-09,Asia pacific,Japan,Hardware,SSD 2TB,20,757.29,,12845.15,Alice Johnson,Education
+ORD-00178,2023-06-02,europe,SPAIN,Electronics,Laptop Pro 15,38,2143.63,0.2337,62421.22,Jack Wilson,Education
+ORD-00329,2024-04-20,north america,Canada,Electronics,Webcam HD,20,1087.51,0.1658,18144.02,Iris Chen,Government
+ORD-00315,2024-04-29,middle east,uae,Services,Support Plan,34,628.78,0.4397,11978.38,Bob Smith,Startup
+ORD-00358,2023-05-14,Asia pacific,South Korea,Services,Training Bundle,9,2589.09,0.3273,15675.13,Henry Davis,Government
+ORD-00348,2024-08-31,Asia pacific,Japan,Hardware,Server Rack,3,1924.55,0.2804,,Alice Johnson,Enterprise
+ORD-00464,2023-07-09,Asia pacific,INDIA,Hardware,SSD 2TB,14,1367.69,0.2277,14787.74,Alice Johnson,Education
+ORD-00299,2024-08-21,north america,mexico,Accessories,Mouse Ergonomic,3101,185.18,0.2382,437458.45,David Lee,SMB
+ORD-00814,2024-10-12,middle east,Saudi Arabia,Software,Analytics Dashboard,14,1821.49,0.2594,18885.94,David Lee,Startup
+ORD-00836,2023-09-04,EUROPE,UK,Accessories,Cable Kit,14,$1344.39,0.2982,13208.9,David Lee,SMB
+ORD-00759,2023-02-23,north america,UNITED STATES,Electronics,4K Monitor,6,$1301.19,0.0251,7611.18,Eva Martinez,Government
+ORD-00681,2024-03-22,north america,Canada,Software,CRM Suite,21,117.22,0.3177,1679.56,Bob Smith,Government
+ORD-00784,2024-11-05,north america,mexico,Software,Cloud Storage,19,923.65,,13602.5,Frank Brown,Startup
+ORD-00636,2024-12-12,ASIA PACIFIC,Japan,Services,Integration Service,3,$2032.78,0.1777,5014.66,Jack Wilson,Enterprise
+ORD-00250,2024-11-20,europe,SPAIN,Services,Audit Report,16,1062.42,0.0776,15679.62,Eva Martinez,Education
+ORD-00772,2024-10-13,EUROPE,France,Software,Analytics Dashboard,7,1140.79,0.2698,5831.03,David Lee,Enterprise
+ORD-00016,2024-06-13,europe,France,Accessories,Mouse Ergonomic,7,1202.98,0.168,7006.16,Henry Davis,Enterprise
+ORD-00160,2023-08-08,Asia pacific,INDIA,Accessories,Cable Kit,20,362.1,0.3168,4947.73,Jack Wilson,Startup
+ORD-00702,2024-09-18,ASIA PACIFIC,South Korea,Accessories,Docking Station,28,120.67,,2598.27,Henry Davis,SMB
+ORD-00588,2024-04-14,LATIN AMERICA,CHILE,Software,CRM Suite,6,188.35,0.3832,697.05,Grace Kim,SMB
+ORD-00361,2023-06-19,Asia pacific,South Korea,Accessories,Keyboard Mechanical,2085,1521.64,0.2231,2464808.01,Bob Smith,Government
+ORD-00049,2024-08-12,europe,Germany,Software,Project Manager,16,2311.68,0.0088,36661.4,Grace Kim,Government
+ORD-00633,2023-05-20,LATIN AMERICA,brazil,Software,Project Manager,10,2953.98,0.0496,28074.63,Henry Davis,Startup
+ORD-00331,2023-08-08,North America,Canada,Hardware,Server Rack,12,1165.82,0.2575,10387.46,David Lee,SMB
+ORD-01098,2024-03-04,north america,UNITED STATES,Services,Support Plan,2,1578.51,0.3934,1915.05,Grace Kim,Enterprise
+ORD-00468,2024-05-18,middle east,UAE,Hardware,Network Switch,22,221.9,0.0939,4423.4,Bob Smith,Government
+ORD-00113,2023-11-17,ASIA PACIFIC,China,Services,Training Bundle,12,1202.19,0.1406,12397.95,Eva Martinez,Startup
+ORD-00339,2023-09-24,EUROPE,France,Hardware,Network Switch,16,928.17,0.1491,12636.48,Jack Wilson,Startup
+ORD-00308,2024-10-16,EUROPE,France,Hardware,SSD 2TB,7,$2657.1,0.319,12666.4,Frank Brown,Government
+ORD-00907,2023-01-25,EUROPE,SPAIN,Hardware,Server Rack,4,2511.08,0.4105,5921.13,David Lee,Government
+ORD-00423,2024-07-26,europe,SPAIN,Software,Cloud Storage,1362,2758.33,0.3268,2529108.36,Jack Wilson,Startup
+ORD-00999,2024-04-10,middle east,Saudi Arabia,Electronics,USB Hub,7,1036.38,,5839.28,Jack Wilson,Startup
+ORD-00981,2023-07-30,middle east,ISRAEL,Electronics,4K Monitor,22,2619.88,0.3309,38565.16,Bob Smith,Enterprise
+ORD-00484,2023-06-23,europe,italy,Hardware,SSD 2TB,14,1040.12,0.3464,9517.51,Frank Brown,Education
+ORD-00761,2024-12-31,EUROPE,UK,Electronics,Webcam HD,7,$1767.55,0.0055,12304.8,Bob Smith,Education
+ORD-00821,2023-09-25,LATIN AMERICA,colombia,Electronics,4K Monitor,8,2032.5,0.2904,11538.1,Jack Wilson,Government
+ORD-00622,2023-06-21,middle east,uae,Electronics,USB Hub,17,1887.8,,23446.85,Iris Chen,Startup
+ORD-00396,2023-10-11,North America,mexico,Services,Support Plan,2816,2359.11,0.2884,4727339.38,Frank Brown,SMB
+ORD-00881,2023-02-23,Asia pacific,Japan,Electronics,Laptop Pro 15,91,$1038.91,0.308,65422.24,Frank Brown,Government
+ORD-00886,2024-03-04,north america,canada,Services,Consulting Package,53,815.04,0.158,36371.98,David Lee,Startup
+ORD-00128,2024-10-05,EUROPE,France,Hardware,Network Switch,7,467.07,0.0339,3158.65,Henry Davis,Government
+ORD-00651,2023-03-20,EUROPE,SPAIN,Hardware,SSD 2TB,53,2405.54,0.0944,115458.22,Eva Martinez,Education
+ORD-01109,2024-07-27,EUROPE,SPAIN,Software,Analytics Dashboard,7,2502.47,0.3779,10897.51,Henry Davis,Government
+ORD-00656,2024-03-22,EUROPE,France,Software,CRM Suite,12,2483.4,0.2519,22293.98,Grace Kim,Enterprise
+ORD-00579,2023-01-08,north america,Canada,Electronics,USB Hub,3,481.67,0.0363,1392.56,Carol White,Enterprise
+ORD-00450,2024-03-23,europe,UK,Accessories,Mouse Ergonomic,5,1649.14,0.397,4972.16,Grace Kim,SMB
+ORD-00238,2024-11-29,europe,UK,Services,Training Bundle,14,1695.9,0.2455,17913.79,Iris Chen,Enterprise
+ORD-00168,2024-07-31,Asia pacific,South Korea,Accessories,Mouse Ergonomic,55,1877.18,0.1519,87562.0,Alice Johnson,Enterprise
+ORD-00993,2023-01-18,north america,canada,Hardware,RAM 32GB,9,1470.03,0.0492,12579.34,Jack Wilson,Startup
+ORD-01042,2023-03-03,EUROPE,Germany,Services,Consulting Package,8,1768.83,,8005.02,Eva Martinez,Education
+ORD-00081,2023-06-12,Asia pacific,australia,Services,Integration Service,10,2919.7,0.1077,26052.48,Eva Martinez,Education
+ORD-00415,2023-11-20,LATIN AMERICA,Brazil,Electronics,USB Hub,15,1564.08,0.0924,21293.39,Grace Kim,Startup
+ORD-00931,2024-10-04,europe,Germany,Services,Support Plan,7,$1835.05,0.0686,11964.16,Henry Davis,Enterprise
+ORD-00301,2023-01-29,North America,Canada,Software,Analytics Dashboard,6,2420.56,0.4113,8549.9,Frank Brown,Education
+ORD-00620,2024-08-18,europe,UK,Services,Consulting Package,14,$2201.53,0.1168,27221.48,Alice Johnson,SMB
+ORD-00325,2024-01-17,europe,Germany,Services,Training Bundle,5,157.37,0.1209,691.72,Alice Johnson,Startup
+ORD-00472,2023-12-27,Asia pacific,China,Accessories,Cable Kit,1,1976.01,0.27,1442.49,Frank Brown,Education
+ORD-00216,2024-08-21,North America,mexico,Services,Consulting Package,22,671.6,0.1173,13042.07,Jack Wilson,Government
+ORD-00599,2024-05-12,North America,mexico,Hardware,GPU Unit,8,$838.65,0.1554,5666.59,Iris Chen,Education
+ORD-00031,2023-02-06,ASIA PACIFIC,South Korea,Services,Audit Report,1416,2835.69,0.0671,3745907.92,Frank Brown,Education
+ORD-00243,2024-01-19,EUROPE,UK,Software,Cloud Storage,18,1678.39,0.0995,27205.02,Grace Kim,Government
+ORD-00703,2024-04-29,north america,canada,Electronics,Webcam HD,6,1664.22,0.2917,7072.6,Bob Smith,Government
+ORD-00913,2023-11-23,europe,germany,Hardware,Network Switch,14,2984.36,0.1733,,Henry Davis,Government
+ORD-00961,2023-11-18,ASIA PACIFIC,Japan,Services,Consulting Package,20,1880.78,0.189,30506.25,Henry Davis,SMB
+ORD-00210,2023-08-19,North America,UNITED STATES,Services,Support Plan,265,559.79,0.1084,132263.82,Eva Martinez,SMB
+ORD-00548,2024-02-25,Asia pacific,INDIA,Accessories,Keyboard Mechanical,10,2541.93,0.2258,19679.62,Iris Chen,Education
+ORD-00748,2024-12-14,north america,UNITED STATES,Electronics,4K Monitor,6,1135.36,0.174,5626.84,Alice Johnson,Enterprise
+ORD-00919,2024-08-05,EUROPE,italy,Accessories,Mouse Ergonomic,8,$1102.07,0.0347,,Grace Kim,SMB
+ORD-00436,2023-07-20,Asia pacific,South Korea,Software,CRM Suite,12,2414.21,0.3853,17808.18,Carol White,SMB
+ORD-00028,2024-07-21,Asia pacific,INDIA,Accessories,Desk Mat XL,16,2961.82,0.0035,,Eva Martinez,Enterprise
+ORD-01064,2024-02-16,Asia pacific,Japan,Software,Cloud Storage,3,2756.67,0.1595,6950.94,Iris Chen,SMB
+ORD-00271,2023-10-19,North America,Canada,Software,Security Suite,38,752.01,0.3245,19303.34,Alice Johnson,Startup
+ORD-00123,2024-05-27,North America,United States,Electronics,Webcam HD,37,535.32,0.3167,13534.01,Iris Chen,Startup
+ORD-01090,2023-10-26,north america,mexico,Hardware,RAM 32GB,10,800.16,0.2121,6304.46,Grace Kim,Enterprise
+ORD-00463,2024-07-21,Asia pacific,South Korea,Hardware,SSD 2TB,6,833.21,,2942.06,Carol White,Enterprise
+ORD-01032,2023-03-14,LATIN AMERICA,colombia,Electronics,USB Hub,3,2112.23,0.0159,6235.94,Grace Kim,Education
+ORD-01122,2023-10-07,europe,germany,Hardware,Network Switch,31,1699.46,0.3759,32879.62,David Lee,SMB
+ORD-00644,2024-09-23,ASIA PACIFIC,INDIA,Accessories,Mouse Ergonomic,3,1180.23,0.4369,1993.76,Frank Brown,Startup
+ORD-00937,2023-07-04,ASIA PACIFIC,Japan,Hardware,RAM 32GB,5,1609.99,0.0491,7654.7,Bob Smith,Government
+ORD-00738,2023-05-04,middle east,turkey,Electronics,4K Monitor,26,2680.09,0.4237,40157.93,Alice Johnson,SMB
+ORD-00747,2024-07-05,ASIA PACIFIC,Japan,Electronics,Wireless Headphones,14,2686.84,0.3431,24709.79,Bob Smith,Enterprise
+ORD-00505,2023-07-26,Asia pacific,INDIA,Services,Training Bundle,7,544.84,0.3207,2590.77,Henry Davis,Enterprise
+ORD-00203,2023-12-23,europe,italy,Services,Integration Service,28,2892.78,0.0598,76154.17,Bob Smith,SMB
+ORD-00404,2023-08-17,Asia pacific,INDIA,Services,Training Bundle,12,$2695.69,0.1132,28686.45,Iris Chen,Government
+ORD-00565,2023-09-29,Asia pacific,Japan,Hardware,Server Rack,31,$1004.63,0.43,17751.81,Carol White,Government
+ORD-00833,2024-01-04,europe,germany,Software,CRM Suite,5,2873.06,0.0075,14257.56,Alice Johnson,Startup
+ORD-00363,2024-10-31,ASIA PACIFIC,South Korea,Services,Consulting Package,11,$1346.72,0.2238,11498.56,Alice Johnson,Enterprise
+ORD-00272,2023-09-03,LATIN AMERICA,brazil,Accessories,Docking Station,3,1181.33,0.3527,2294.02,Henry Davis,Government
+ORD-00467,2024-05-16,north america,Canada,Electronics,Webcam HD,19,105.12,0.1749,1647.96,Iris Chen,Education
+ORD-01102,2023-06-10,middle east,Saudi Arabia,Software,CRM Suite,1,$999.79,,788.93,Bob Smith,Startup
+ORD-01065,2023-12-30,middle east,UAE,Hardware,SSD 2TB,9,1853.71,0.0204,16343.05,Henry Davis,Government
+ORD-01095,2023-01-06,middle east,turkey,Hardware,SSD 2TB,21,119.15,0.2694,1828.07,Eva Martinez,SMB
+ORD-00273,2023-11-21,EUROPE,France,Services,Audit Report,30,$2667.28,0.1625,67015.41,Carol White,Government
+ORD-00278,2023-09-23,Asia pacific,Japan,Electronics,Wireless Headphones,7,499.85,0.2354,2675.3,Carol White,Startup
+ORD-01063,2023-02-04,Asia pacific,Japan,Services,Training Bundle,30,2137.02,0.0454,61199.98,Grace Kim,Enterprise
+ORD-00013,2024-06-27,EUROPE,germany,Hardware,GPU Unit,14,466.98,0.2427,4951.02,Alice Johnson,Education
+ORD-00603,2024-06-16,europe,italy,Electronics,4K Monitor,24,75.88,0.3757,1136.93,Frank Brown,Government
+ORD-00674,2024-04-06,LATIN AMERICA,colombia,Software,Project Manager,9,96.02,0.106,772.58,David Lee,Startup
+ORD-00211,2023-07-28,ASIA PACIFIC,Japan,Accessories,Cable Kit,19,1676.28,0.1093,28368.19,Frank Brown,Enterprise
+ORD-01074,2024-06-09,EUROPE,germany,Software,CRM Suite,4,1526.1,0.2838,4371.97,Bob Smith,Startup
+ORD-00962,2023-12-18,Asia pacific,australia,Electronics,Wireless Headphones,35,1897.32,0.0527,62906.59,Frank Brown,Government
+ORD-00148,2024-08-07,north america,canada,Accessories,Mouse Ergonomic,4,$880.89,0.1588,2964.02,Grace Kim,SMB
+ORD-00443,2023-08-29,ASIA PACIFIC,australia,Accessories,Docking Station,2,1247.82,0.0104,2469.69,Eva Martinez,Enterprise
+ORD-00300,2023-08-13,EUROPE,France,Software,Security Suite,20,2375.79,0.3438,31179.87,Jack Wilson,Government
+ORD-00116,2023-12-25,middle east,ISRAEL,Electronics,USB Hub,15,472.63,0.3813,4386.24,Iris Chen,Startup
+ORD-00376,2024-12-02,europe,France,Accessories,Desk Mat XL,6,150.46,0.1875,733.49,Frank Brown,Education
+ORD-00641,2023-01-19,LATIN AMERICA,CHILE,Services,Integration Service,9,1631.88,0.2432,11115.06,Alice Johnson,Government
+ORD-01010,2023-05-05,EUROPE,UK,Accessories,Keyboard Mechanical,7,1700.67,0.3889,7274.96,Jack Wilson,Education
+ORD-00675,2024-12-31,ASIA PACIFIC,Japan,Electronics,Webcam HD,3,976.5,0.3091,2023.99,Grace Kim,Government
+ORD-00473,2024-01-20,North America,mexico,Services,Integration Service,3,977.11,0.2455,,Iris Chen,Startup
+ORD-00659,2024-06-21,Asia pacific,China,Electronics,USB Hub,14,2799.47,0.373,24573.75,Eva Martinez,Government
+ORD-01083,2023-04-23,north america,mexico,Services,Integration Service,9,2628.1,0.3508,15355.46,Jack Wilson,Education
+ORD-00389,2024-03-24,north america,United States,Hardware,GPU Unit,26,2362.8,,,Grace Kim,Government
+ORD-00023,2023-11-18,ASIA PACIFIC,China,Software,Security Suite,12,184.86,0.0274,2157.54,Alice Johnson,Enterprise
+ORD-00910,2024-12-04,Asia pacific,China,Services,Audit Report,68,552.27,0.4019,,Eva Martinez,Education
+ORD-00873,2023-04-26,EUROPE,UK,Software,Cloud Storage,4,162.2,0.0767,599.04,Frank Brown,SMB
+ORD-00424,2023-06-29,North America,mexico,Software,Cloud Storage,26,1369.72,0.0021,35537.93,Grace Kim,Education
+ORD-00948,2024-01-18,North America,canada,Services,Audit Report,7,1014.11,0.2065,5632.87,Carol White,Education
+ORD-00869,2023-09-03,LATIN AMERICA,CHILE,Electronics,4K Monitor,20,$945.07,0.0358,18224.73,Bob Smith,SMB
+ORD-00649,2023-11-03,EUROPE,germany,Software,Security Suite,10,2436.25,0.075,22535.31,Frank Brown,Government
+ORD-00523,2024-09-01,middle east,UAE,Hardware,RAM 32GB,7,2528.78,0.1753,14598.39,Bob Smith,Startup
+ORD-00143,2024-04-06,Asia pacific,australia,Services,Audit Report,3,1318.03,0.0999,,Frank Brown,Enterprise
+ORD-00051,2023-06-19,ASIA PACIFIC,China,Hardware,RAM 32GB,15,1172.67,0.3592,11271.7,Henry Davis,SMB
+ORD-00672,2024-04-09,EUROPE,UK,Software,Cloud Storage,2,2158.55,,2529.82,Henry Davis,Enterprise
+ORD-00733,2024-08-06,EUROPE,germany,Accessories,Keyboard Mechanical,16,1859.92,0.0238,29050.46,Iris Chen,SMB
+ORD-00082,2024-10-25,north america,canada,Services,Consulting Package,16,$2525.79,0.4262,,Carol White,Government
+ORD-00483,2024-08-12,LATIN AMERICA,brazil,Accessories,Docking Station,3,224.21,0.1455,574.76,Bob Smith,Enterprise
+ORD-00322,2024-03-05,North America,mexico,Accessories,Cable Kit,19,46.96,,656.33,Bob Smith,Government
+ORD-00958,2023-09-09,north america,Canada,Services,Training Bundle,17,1961.03,,30430.48,Grace Kim,Startup
+ORD-00816,2023-06-29,north america,UNITED STATES,Services,Consulting Package,3,2765.37,0.0688,7725.34,Eva Martinez,Government
+ORD-01142,2023-02-19,north america,mexico,Accessories,Desk Mat XL,36,2440.37,0.2047,69869.75,Henry Davis,Startup
+ORD-00067,2023-10-27,North America,Canada,Hardware,Server Rack,11,$388.47,0.0245,4168.48,Carol White,Government
+ORD-00917,2023-09-06,North America,Canada,Hardware,RAM 32GB,19,2561.39,0.4108,28674.25,David Lee,SMB
+ORD-00899,2024-12-05,Asia pacific,australia,Electronics,USB Hub,31,2605.26,0.2625,,Grace Kim,Startup
+ORD-00744,2023-05-24,middle east,UAE,Software,Cloud Storage,12,908.9,0.0553,10303.65,Iris Chen,Startup
+ORD-00418,2023-12-13,Asia pacific,Japan,Software,Project Manager,13,$2848.23,0.2288,28555.21,Iris Chen,Education
+ORD-00715,2024-02-07,north america,canada,Electronics,Laptop Pro 15,11,1210.93,0.1953,10718.79,Alice Johnson,SMB
+ORD-00065,2024-12-07,ASIA PACIFIC,australia,Hardware,SSD 2TB,23,2166.63,0.3343,33173.49,Carol White,SMB
+ORD-00903,2024-09-09,europe,France,Services,Integration Service,12,1585.06,0.3636,12104.79,Bob Smith,Government
+ORD-00894,2023-07-08,EUROPE,France,Services,Audit Report,31,2340.31,0.1222,63684.05,Alice Johnson,SMB
+ORD-00701,2024-12-31,LATIN AMERICA,Argentina,Hardware,GPU Unit,8,1181.27,0.0462,,Grace Kim,Government
+ORD-00492,2023-10-14,middle east,UAE,Hardware,RAM 32GB,39,$2446.42,0.2497,71586.41,David Lee,SMB
+ORD-00706,2023-06-10,Asia pacific,South Korea,Software,Security Suite,19,267.7,0.078,4689.57,Jack Wilson,Government
+ORD-00796,2024-04-17,Asia pacific,australia,Software,Cloud Storage,28,89.88,,1751.58,Grace Kim,Startup
+ORD-00066,2023-07-18,LATIN AMERICA,colombia,Hardware,GPU Unit,36,1578.65,0.0452,,Eva Martinez,SMB
+ORD-00978,2023-03-18,North America,canada,Electronics,Laptop Pro 15,1,$2356.97,0.4262,1352.43,Eva Martinez,Startup
+ORD-00573,2023-02-13,middle east,turkey,Accessories,Cable Kit,15,59.08,0.152,751.5,Grace Kim,Enterprise
+ORD-00968,2024-10-22,EUROPE,italy,Software,CRM Suite,51,766.65,0.2717,28475.91,Iris Chen,Startup
+ORD-00297,2024-06-22,europe,SPAIN,Services,Consulting Package,25,1155.21,0.2892,20528.08,David Lee,Education
+ORD-00420,2024-06-17,LATIN AMERICA,CHILE,Electronics,USB Hub,12,1159.12,0.2763,10066.26,Eva Martinez,Education
+ORD-00439,2023-05-05,North America,mexico,Hardware,SSD 2TB,3,2796.21,0.0089,8313.97,Frank Brown,Education
+ORD-00262,2024-04-14,middle east,ISRAEL,Services,Integration Service,11,17.38,0.3297,128.15,Frank Brown,Enterprise
+ORD-00699,2024-04-19,ASIA PACIFIC,China,Software,Project Manager,25,2575.98,0.0387,61907.24,Carol White,Government
+ORD-00282,2024-01-17,europe,France,Hardware,Network Switch,20,2163.65,0.035,41758.44,Bob Smith,Education
+ORD-00795,2023-11-30,ASIA PACIFIC,INDIA,Accessories,Keyboard Mechanical,5,$238.83,0.3449,782.29,Grace Kim,Government
+ORD-00318,2024-07-02,North America,canada,Services,Audit Report,9,192.33,0.2352,1323.85,Henry Davis,Education
+ORD-00189,2023-03-02,Asia pacific,INDIA,Services,Integration Service,6,2270.16,0.1284,11872.03,Bob Smith,Education
+ORD-00889,2023-04-19,North America,canada,Accessories,Docking Station,19,1954.23,0.1728,30714.24,Carol White,Education
+ORD-00252,2023-06-27,Asia pacific,South Korea,Services,Integration Service,25,1910.14,0.2904,33885.88,Iris Chen,SMB
+ORD-00700,2023-01-21,europe,Germany,Electronics,Wireless Headphones,10,2218.95,0.2183,17345.53,Henry Davis,Education
+ORD-00515,2024-12-24,north america,United States,Accessories,Docking Station,7,1456.14,0.4203,5908.87,Eva Martinez,Government
+ORD-00596,2023-02-22,LATIN AMERICA,Brazil,Accessories,Desk Mat XL,8,173.88,,968.72,Bob Smith,Government
+ORD-00488,2023-01-09,middle east,Saudi Arabia,Electronics,4K Monitor,5,2092.6,0.2092,,Bob Smith,Government
+ORD-00274,2023-03-11,europe,UK,Accessories,Mouse Ergonomic,12,2863.8,0.0075,34107.86,Alice Johnson,Startup
+ORD-00953,2024-01-19,europe,germany,Software,CRM Suite,4,$1249.51,0.069,4653.18,Iris Chen,Education
+ORD-01077,2023-02-09,LATIN AMERICA,Brazil,Accessories,Mouse Ergonomic,1351,1477.16,0.3195,1358035.17,Grace Kim,Startup
+ORD-00449,2024-05-03,north america,canada,Software,Security Suite,8,1609.94,0.2214,10027.99,Eva Martinez,Enterprise
+ORD-00412,2024-05-08,Asia pacific,INDIA,Accessories,Docking Station,4,2353.76,0.0529,8916.98,Carol White,Education
+ORD-01075,2023-02-06,north america,UNITED STATES,Electronics,USB Hub,27,2525.87,0.3949,41266.91,Alice Johnson,SMB
+ORD-00723,2024-03-11,EUROPE,UK,Accessories,Docking Station,4,2337.85,0.0659,8735.14,Grace Kim,Enterprise
+ORD-00927,2023-11-19,North America,United States,Hardware,Server Rack,7,2257.51,0.2251,12245.41,Grace Kim,Startup
+ORD-00722,2024-01-22,LATIN AMERICA,CHILE,Hardware,SSD 2TB,3,2447.08,0.063,6878.74,Iris Chen,SMB
+ORD-00150,2024-11-03,north america,UNITED STATES,Hardware,SSD 2TB,15,$1077.7,0.1085,14411.54,Bob Smith,Education
+ORD-00219,2023-01-10,north america,United States,Electronics,Laptop Pro 15,8,2529.2,0.3182,13795.27,David Lee,Education
+ORD-00240,2024-05-05,middle east,Saudi Arabia,Hardware,Network Switch,24,$2369.33,0.4458,31513.98,Jack Wilson,Government
+ORD-01092,2024-01-14,North America,canada,Electronics,Webcam HD,11,2925.81,0.1045,28820.69,Henry Davis,Education
+ORD-00193,2024-02-20,north america,mexico,Hardware,GPU Unit,14,587.54,0.2874,5861.53,Grace Kim,Education
+ORD-00192,2024-10-25,ASIA PACIFIC,China,Accessories,Cable Kit,24,2428.34,0.329,39105.99,Eva Martinez,SMB
+ORD-00692,2024-12-01,EUROPE,UK,Services,Integration Service,30,2406.61,0.4429,40221.67,Eva Martinez,SMB
+ORD-00661,2024-05-17,Asia pacific,Japan,Software,Analytics Dashboard,7,1324.02,0.2653,6809.3,Iris Chen,Startup
+ORD-00929,2023-08-26,ASIA PACIFIC,South Korea,Electronics,4K Monitor,42,$2050.29,0.2817,61854.38,David Lee,SMB
+ORD-01116,2023-06-23,middle east,Saudi Arabia,Accessories,Keyboard Mechanical,16,2019.24,0.404,,Jack Wilson,Startup
+ORD-00883,2023-04-16,middle east,UAE,Hardware,Network Switch,8,1293.18,0.3522,,Iris Chen,Education
+ORD-00934,2024-02-23,middle east,turkey,Software,CRM Suite,2,1469.88,0.129,2560.53,Jack Wilson,SMB
+ORD-00714,2023-01-31,Asia pacific,INDIA,Services,Integration Service,16,2855.99,0.307,31667.22,Henry Davis,SMB
+ORD-00583,2023-08-03,Asia pacific,INDIA,Services,Support Plan,20,$2768.78,0.1639,46299.54,Grace Kim,Startup
+ORD-01016,2023-06-01,ASIA PACIFIC,australia,Hardware,RAM 32GB,14,2401.56,0.3661,21312.88,Alice Johnson,Startup
+ORD-00324,2024-02-17,North America,UNITED STATES,Hardware,RAM 32GB,64,1720.34,0.0775,101568.87,Carol White,Education
+ORD-00925,2023-11-13,North America,United States,Software,Security Suite,31,328.32,0.0049,10128.05,David Lee,Education
+ORD-00857,2024-06-15,North America,canada,Software,Project Manager,6,1977.89,,11620.5,Eva Martinez,Education
+ORD-00664,2024-02-07,europe,UK,Hardware,Server Rack,7,716.77,0.0035,4999.83,Eva Martinez,Startup
+ORD-00438,2024-05-02,middle east,uae,Accessories,Keyboard Mechanical,4,$2074.71,0.3662,,Bob Smith,Government
+ORD-00895,2023-08-14,LATIN AMERICA,brazil,Electronics,USB Hub,36,2126.17,0.1365,66094.12,Eva Martinez,Startup
+ORD-00840,2023-04-29,LATIN AMERICA,CHILE,Electronics,4K Monitor,10,276.52,0.4217,1599.12,Jack Wilson,Startup
+ORD-00342,2023-01-05,Asia pacific,australia,Software,CRM Suite,14,1896.78,0.2855,18973.49,Henry Davis,Startup
+ORD-00003,2023-12-15,LATIN AMERICA,colombia,Accessories,Desk Mat XL,20,29.42,0.3142,403.52,Eva Martinez,SMB
+ORD-00230,2024-02-03,middle east,Saudi Arabia,Electronics,Laptop Pro 15,20,1146.19,0.0694,21332.89,Frank Brown,Startup
+ORD-00652,2024-07-14,middle east,turkey,Accessories,Desk Mat XL,30,1212.87,0.204,28963.34,Carol White,Enterprise
+ORD-00963,2024-06-08,north america,Canada,Accessories,Desk Mat XL,14,$586.6,0.0104,8126.99,Carol White,SMB
+ORD-00077,2024-08-22,middle east,uae,Electronics,Wireless Headphones,13,1958.0,0.0817,23374.41,Grace Kim,Government
+ORD-01107,2024-11-11,ASIA PACIFIC,Japan,Hardware,Server Rack,19,166.04,0.1979,2530.43,Henry Davis,Startup
+ORD-00372,2023-12-20,middle east,uae,Hardware,GPU Unit,18,610.65,0.1308,9553.99,Carol White,SMB
+ORD-00181,2024-09-26,ASIA PACIFIC,australia,Accessories,Docking Station,20,163.54,0.2359,2499.22,Grace Kim,SMB
+ORD-00717,2024-09-25,middle east,uae,Accessories,Mouse Ergonomic,13,1344.1,0.245,13192.34,Henry Davis,Startup
+ORD-00578,2024-03-25,North America,United States,Electronics,4K Monitor,22,1251.3,0.249,20673.98,David Lee,Education
+ORD-01147,2023-03-23,EUROPE,UK,Hardware,RAM 32GB,5,559.94,0.3247,1890.64,Grace Kim,Enterprise
+ORD-00991,2024-11-28,Asia pacific,South Korea,Accessories,Cable Kit,14,2559.16,0.0766,33083.8,Bob Smith,SMB
+ORD-01026,2024-11-29,north america,Canada,Electronics,4K Monitor,17,1709.19,0.1533,24601.91,Iris Chen,Government
+ORD-01011,2024-10-17,north america,Canada,Accessories,Mouse Ergonomic,34,2902.15,0.4028,58927.58,Carol White,Startup
+ORD-00653,2024-10-15,Asia pacific,South Korea,Services,Support Plan,9,2473.47,0.1206,19576.53,Iris Chen,Education
+ORD-00590,2023-01-15,EUROPE,italy,Accessories,Cable Kit,6,657.15,,3121.99,Grace Kim,SMB
+ORD-00778,2023-01-26,North America,UNITED STATES,Services,Integration Service,9,1108.85,0.1229,8753.15,Carol White,Government
+ORD-00819,2024-08-02,ASIA PACIFIC,australia,Accessories,Keyboard Mechanical,13,126.08,0.1732,1355.16,Carol White,SMB
+ORD-00966,2023-07-30,Asia pacific,China,Hardware,RAM 32GB,38,2381.52,0.0745,83755.68,Henry Davis,Government
+ORD-00890,2024-09-25,EUROPE,Germany,Accessories,Mouse Ergonomic,29,$1342.84,0.4238,22438.59,Frank Brown,Startup
+ORD-00038,2024-07-05,EUROPE,italy,Accessories,Mouse Ergonomic,2,$2129.26,0.4165,2484.85,David Lee,Startup
+ORD-00354,2024-11-24,middle east,ISRAEL,Services,Consulting Package,10,$532.35,0.1308,4627.19,Frank Brown,Government
+ORD-01099,2024-01-16,middle east,UAE,Services,Training Bundle,25,2641.87,,56463.37,Jack Wilson,SMB
+ORD-00237,2024-08-12,ASIA PACIFIC,australia,Software,Project Manager,2,881.42,0.221,1373.25,David Lee,Startup
+ORD-00936,2023-03-16,north america,Canada,Accessories,Keyboard Mechanical,8,324.83,0.2566,1931.83,David Lee,Government
+ORD-00500,2024-12-05,LATIN AMERICA,Argentina,Software,CRM Suite,4,2864.54,0.2777,8276.23,Frank Brown,Government
+ORD-00554,2023-04-25,Asia pacific,South Korea,Electronics,4K Monitor,14,1851.23,0.1156,22921.19,Jack Wilson,SMB
+ORD-00056,2023-11-15,North America,Canada,Accessories,Docking Station,25,2157.88,0.0737,49971.11,Bob Smith,Education
+ORD-00303,2023-11-28,ASIA PACIFIC,Japan,Hardware,GPU Unit,22,400.15,0.4135,5163.14,Alice Johnson,Enterprise
+ORD-00287,2023-04-08,north america,Canada,Accessories,Cable Kit,10,1123.74,0.0382,10808.13,Iris Chen,SMB
+ORD-00975,2024-05-20,EUROPE,italy,Hardware,SSD 2TB,8,$1044.01,0.3486,5440.54,Jack Wilson,Enterprise
+ORD-00220,2023-01-17,ASIA PACIFIC,australia,Electronics,USB Hub,13,2802.36,0.2967,25621.7,Alice Johnson,Education
+ORD-00642,2024-11-06,EUROPE,italy,Services,Training Bundle,46,$1333.23,0.0796,56446.83,Eva Martinez,SMB
+ORD-00388,2024-10-18,europe,italy,Services,Integration Service,54,60.49,0.2407,2480.22,Jack Wilson,Enterprise
+ORD-00743,2024-10-09,north america,United States,Services,Training Bundle,7,2520.06,0.1581,,David Lee,Education
+ORD-00391,2024-07-14,North America,United States,Accessories,Docking Station,5,134.89,0.1773,554.87,Bob Smith,Startup
+ORD-00353,2023-09-20,EUROPE,SPAIN,Services,Support Plan,24,$2340.77,0.3256,37886.77,David Lee,Government
+ORD-00194,2023-09-25,North America,United States,Services,Consulting Package,4,430.42,0.1116,1529.54,Grace Kim,SMB
+ORD-00236,2023-11-25,North America,UNITED STATES,Hardware,RAM 32GB,20,2579.92,0.0613,48435.42,Jack Wilson,SMB
+ORD-00997,2023-07-18,ASIA PACIFIC,Japan,Software,Cloud Storage,51,2920.13,0.335,99036.21,Grace Kim,Enterprise
+ORD-00481,2023-02-20,EUROPE,France,Services,Training Bundle,10,452.55,0.2141,3556.59,Iris Chen,Government
+ORD-00568,2024-12-25,north america,United States,Services,Training Bundle,5,996.18,0.0017,4972.43,Henry Davis,Government
+ORD-00117,2024-09-20,EUROPE,UK,Accessories,Mouse Ergonomic,11,2537.0,0.3683,17628.85,Iris Chen,Enterprise
+ORD-00955,2024-12-28,europe,France,Services,Support Plan,11,961.18,0.1039,9474.45,Carol White,Education
+ORD-00967,2024-08-03,ASIA PACIFIC,INDIA,Accessories,Desk Mat XL,7,1872.49,0.1932,10575.07,Frank Brown,Startup
+ORD-01110,2024-11-17,middle east,UAE,Accessories,Cable Kit,56,542.25,0.3849,18678.13,Frank Brown,Government
+ORD-00771,2024-09-30,middle east,turkey,Software,Security Suite,21,1986.11,0.4397,23369.17,Grace Kim,Enterprise
+ORD-00783,2024-03-25,ASIA PACIFIC,australia,Electronics,4K Monitor,16,1292.08,0.188,16786.7,Henry Davis,Education
+ORD-00121,2024-11-25,ASIA PACIFIC,INDIA,Hardware,Network Switch,22,350.3,0.1275,,Jack Wilson,Government
+ORD-00896,2023-10-12,EUROPE,France,Software,CRM Suite,20,882.6,0.4239,10169.32,Carol White,Startup
+ORD-01000,2023-10-24,middle east,UAE,Electronics,Webcam HD,19,449.91,0.2354,6536.02,Jack Wilson,Education
+ORD-00779,2023-03-22,LATIN AMERICA,CHILE,Electronics,4K Monitor,11,890.6,0.246,7386.64,Eva Martinez,SMB
+ORD-00063,2023-04-06,europe,italy,Accessories,Mouse Ergonomic,5,1941.24,0.3568,6243.03,Eva Martinez,SMB
+ORD-00914,2024-07-16,ASIA PACIFIC,INDIA,Accessories,Desk Mat XL,43,2832.64,0.1724,100804.59,Henry Davis,Education
+ORD-00454,2024-01-16,north america,Canada,Electronics,Wireless Headphones,2579,1032.31,0.3598,1704422.06,Henry Davis,Enterprise
+ORD-00516,2024-06-16,North America,mexico,Accessories,Docking Station,22,1068.01,0.2532,17546.98,Henry Davis,Government
+ORD-00571,2023-04-20,middle east,Saudi Arabia,Software,Cloud Storage,12,1158.64,,9550.44,Frank Brown,Government
+ORD-00224,2024-03-20,europe,italy,Services,Audit Report,3,1913.87,0.0372,5528.02,Frank Brown,Education
+ORD-00614,2024-02-29,LATIN AMERICA,colombia,Services,Integration Service,4,2418.95,0.1907,7830.62,Carol White,Education
+ORD-00222,2024-02-11,EUROPE,Germany,Accessories,Mouse Ergonomic,2,1863.13,0.1595,3131.92,Bob Smith,Startup
+ORD-00758,2024-12-11,ASIA PACIFIC,Japan,Services,Audit Report,14,2923.82,,33982.98,Bob Smith,SMB
+ORD-00800,2023-02-18,ASIA PACIFIC,australia,Software,Analytics Dashboard,12,2679.13,0.1989,,Iris Chen,Enterprise
+ORD-00466,2023-02-14,Asia pacific,South Korea,Hardware,SSD 2TB,10,$972.84,0.2965,6843.93,Carol White,SMB
+ORD-00053,2024-03-07,europe,UK,Software,Project Manager,7,2286.07,0.3384,10587.25,Eva Martinez,Enterprise
+ORD-00236,2023-11-25,North America,UNITED STATES,Hardware,RAM 32GB,20,2579.92,0.0613,48435.42,Jack Wilson,SMB
+ORD-00486,2024-07-04,LATIN AMERICA,brazil,Software,Security Suite,1711,922.29,0.1493,1342437.09,David Lee,SMB
+ORD-01144,2023-04-25,middle east,Saudi Arabia,Hardware,SSD 2TB,13,1345.83,0.016,17215.86,Frank Brown,Enterprise
+ORD-00922,2024-06-18,middle east,uae,Accessories,Desk Mat XL,5,1276.76,,3588.33,Grace Kim,SMB
+ORD-00156,2023-12-28,ASIA PACIFIC,South Korea,Services,Support Plan,6,$1061.12,0.3915,3874.15,Jack Wilson,Government
+ORD-00841,2024-02-02,Asia pacific,australia,Services,Audit Report,11,939.28,0.0854,9449.72,Grace Kim,Startup
+ORD-00601,2023-10-10,ASIA PACIFIC,Japan,Electronics,Webcam HD,22,872.22,,,Bob Smith,SMB
+ORD-00882,2024-06-07,north america,UNITED STATES,Services,Training Bundle,7,257.01,0.2779,1299.11,Carol White,SMB
+ORD-00249,2024-06-24,EUROPE,SPAIN,Software,Security Suite,50,1378.07,0.3882,,Frank Brown,Education
+ORD-00442,2024-09-11,europe,Germany,Electronics,Wireless Headphones,11,947.3,,7088.93,Grace Kim,Startup
+ORD-00985,2024-04-08,ASIA PACIFIC,Japan,Electronics,Wireless Headphones,4575,$569.21,0.2978,1828624.12,Frank Brown,Startup
+ORD-00337,2024-05-02,north america,canada,Accessories,Mouse Ergonomic,6,2142.96,0.2872,9165.01,Frank Brown,Education
+ORD-00543,2023-02-24,north america,canada,Accessories,Cable Kit,18,$2558.98,0.4055,27383.64,Alice Johnson,Education
+ORD-00118,2023-05-27,middle east,UAE,Software,Security Suite,4,933.85,0.0027,3725.31,Jack Wilson,Government
+ORD-00730,2023-05-22,middle east,uae,Services,Training Bundle,6,1430.92,0.2726,6245.11,Iris Chen,Government
+ORD-00629,2023-12-26,middle east,UAE,Electronics,Laptop Pro 15,12,624.14,0.0832,6866.54,Alice Johnson,Enterprise
+ORD-00893,2024-05-21,Asia pacific,australia,Electronics,USB Hub,28,2917.69,0.3665,51753.99,Iris Chen,Education
+ORD-00165,2024-10-17,North America,United States,Services,Integration Service,26,1040.09,0.3511,17547.77,Jack Wilson,SMB
+ORD-00292,2023-09-13,north america,mexico,Hardware,Network Switch,8,1219.12,0.3366,6470.11,Bob Smith,Government
+ORD-01045,2023-04-22,north america,mexico,Accessories,Cable Kit,10,2350.0,0.3386,15542.9,Iris Chen,Government
+ORD-00382,2024-09-25,europe,Germany,Hardware,Network Switch,7,1993.36,0.1321,12110.26,Iris Chen,Government
+ORD-00818,2024-02-09,LATIN AMERICA,Brazil,Electronics,USB Hub,24,1129.02,0.1871,,Frank Brown,Government
+ORD-00201,2023-12-19,middle east,UAE,Services,Training Bundle,16,2239.95,0.0204,,Bob Smith,Education
+ORD-00597,2024-12-27,North America,UNITED STATES,Accessories,Keyboard Mechanical,9,534.04,0.0302,4661.21,David Lee,SMB
+ORD-00986,2023-02-24,EUROPE,SPAIN,Electronics,4K Monitor,4,460.34,0.2286,1420.43,Henry Davis,Startup
+ORD-01141,2024-11-21,ASIA PACIFIC,australia,Accessories,Desk Mat XL,9,544.72,0.3418,3226.81,Bob Smith,SMB
+ORD-01007,2024-07-26,North America,canada,Hardware,RAM 32GB,24,1404.98,0.2076,,Alice Johnson,Government
+ORD-00697,2024-09-25,Asia pacific,INDIA,Services,Integration Service,15,2897.74,0.219,33947.02,Jack Wilson,Startup
+ORD-00506,2024-12-25,middle east,ISRAEL,Software,CRM Suite,8,2121.61,0.0384,16321.12,Grace Kim,Education
+ORD-00349,2023-07-30,north america,United States,Electronics,Webcam HD,6,379.54,0.3158,1558.09,Alice Johnson,Startup
+ORD-00993,2023-01-18,north america,canada,Hardware,RAM 32GB,9,1470.03,0.0492,12579.34,Jack Wilson,Startup
+ORD-00341,2024-02-24,europe,SPAIN,Hardware,RAM 32GB,6,2564.17,0.0901,,Jack Wilson,Government
+ORD-00616,2023-07-24,north america,UNITED STATES,Hardware,RAM 32GB,13,1391.73,0.4117,10643.81,Carol White,Government
+ORD-00155,2023-12-02,europe,Germany,Services,Audit Report,15,549.55,0.0462,7862.41,Eva Martinez,Startup
+ORD-01145,2023-10-09,europe,France,Software,CRM Suite,10,386.89,0.2221,3009.62,Frank Brown,Government
+ORD-00768,2023-07-19,europe,France,Electronics,4K Monitor,3731,$99.74,0.1308,323455.34,Jack Wilson,Startup
+ORD-01036,2023-08-21,North America,mexico,Software,Security Suite,42,183.18,0.2649,5655.54,Grace Kim,Education
+ORD-00288,2023-11-19,europe,Germany,Accessories,Docking Station,19,1990.7,0.1313,32857.1,Grace Kim,Startup
+ORD-00323,2023-04-14,Asia pacific,China,Accessories,Docking Station,6,$2894.84,0.0475,16544.01,Eva Martinez,Education
+ORD-00826,2023-08-06,Asia pacific,australia,Software,Analytics Dashboard,38,554.12,0.2028,16786.29,Carol White,SMB
+ORD-00825,2023-10-23,north america,Canada,Services,Consulting Package,8,2323.48,0.1876,15100.76,Grace Kim,SMB
+ORD-00802,2023-08-14,LATIN AMERICA,Brazil,Electronics,Webcam HD,919,1017.97,0.301,,Bob Smith,SMB
+ORD-00083,2024-01-28,middle east,uae,Hardware,RAM 32GB,39,2940.92,0.2481,86239.83,David Lee,Education
+ORD-00799,2024-11-24,EUROPE,France,Hardware,Server Rack,12,$1178.63,0.3436,9283.83,Eva Martinez,SMB
+ORD-00465,2024-06-20,North America,canada,Software,Security Suite,11,1978.28,,,Henry Davis,Education
+ORD-01027,2023-03-10,LATIN AMERICA,Argentina,Accessories,Cable Kit,12,1075.88,0.384,7952.9,Henry Davis,Government
+ORD-00762,2023-09-06,LATIN AMERICA,brazil,Software,Cloud Storage,13,1268.8,,13193.87,Carol White,Enterprise
+ORD-00390,2023-10-30,north america,UNITED STATES,Software,Cloud Storage,7,2242.78,0.3823,9697.56,Carol White,Startup
+ORD-00885,2023-12-11,LATIN AMERICA,Brazil,Electronics,Webcam HD,21,926.26,0.1041,17426.56,Grace Kim,Government
+ORD-00334,2024-05-08,EUROPE,Germany,Accessories,Desk Mat XL,7,1785.37,0.308,8648.33,Bob Smith,Startup
+ORD-00011,2023-01-12,EUROPE,italy,Services,Audit Report,8,1592.04,0.3874,7802.27,Bob Smith,Education
+ORD-00471,2024-12-20,Asia pacific,South Korea,Accessories,Cable Kit,9,2301.18,0.3035,14424.95,Grace Kim,Enterprise
+ORD-00033,2023-06-16,EUROPE,UK,Accessories,Cable Kit,12,2250.93,0.1065,24134.47,Carol White,Government
+ORD-01150,2024-04-18,middle east,ISRAEL,Electronics,Webcam HD,6,2348.32,0.1236,12348.41,Jack Wilson,Startup
+ORD-00414,2024-07-10,EUROPE,italy,Software,Security Suite,33,705.2,0.1275,20304.47,Grace Kim,Startup
+ORD-00581,2023-08-30,Asia pacific,INDIA,Accessories,Keyboard Mechanical,15,2349.91,0.0021,35174.63,David Lee,Enterprise
+ORD-00383,2023-02-10,north america,United States,Hardware,RAM 32GB,2,1930.36,0.1097,3437.2,Frank Brown,Government
+ORD-00829,2024-01-20,north america,mexico,Electronics,USB Hub,8,135.15,0.3563,,Jack Wilson,Education
+ORD-00898,2023-12-31,middle east,Saudi Arabia,Services,Audit Report,13,2955.92,,38246.35,David Lee,Startup
+ORD-00810,2023-01-25,Asia pacific,australia,Hardware,Server Rack,5,2932.92,0.1298,12761.13,David Lee,Startup
+ORD-00841,2024-02-02,Asia pacific,australia,Services,Audit Report,11,939.28,0.0854,9449.72,Grace Kim,Startup
+ORD-01143,2023-12-12,north america,United States,Services,Integration Service,10,2668.6,0.1135,23657.14,Eva Martinez,Enterprise
+ORD-00379,2024-04-22,north america,UNITED STATES,Hardware,GPU Unit,70,491.17,0.0025,34295.95,Carol White,Enterprise
+ORD-00090,2023-02-27,EUROPE,germany,Electronics,Webcam HD,18,$905.39,0.146,13917.66,Eva Martinez,Startup
+ORD-00798,2023-06-15,EUROPE,Germany,Accessories,Mouse Ergonomic,21,1318.78,0.1256,24215.97,Carol White,Enterprise
+ORD-00602,2023-05-16,ASIA PACIFIC,China,Software,Cloud Storage,5,77.83,,269.64,Henry Davis,Startup
+ORD-00214,2023-11-26,EUROPE,germany,Services,Support Plan,20,2114.26,,37731.08,Eva Martinez,Government
+ORD-00333,2024-06-17,middle east,ISRAEL,Services,Integration Service,12,1382.39,0.136,14332.62,Jack Wilson,Government
+ORD-00134,2024-11-03,north america,mexico,Electronics,4K Monitor,17,2038.34,0.3257,,Jack Wilson,SMB
+ORD-00347,2023-05-15,ASIA PACIFIC,australia,Software,Analytics Dashboard,3,2755.42,0.1028,7416.49,David Lee,Enterprise
+ORD-00862,2023-03-21,Asia pacific,INDIA,Software,Security Suite,3,$1306.54,0.2716,2855.05,Eva Martinez,Enterprise
+ORD-00008,2024-08-03,North America,United States,Software,CRM Suite,22,$1209.47,0.4109,15674.97,Frank Brown,SMB
+ORD-01135,2024-09-15,europe,SPAIN,Electronics,4K Monitor,10,2223.87,0.0998,,Carol White,SMB
+ORD-00321,2024-02-02,europe,France,Software,Cloud Storage,13,2733.3,0.0302,,Iris Chen,Government
+ORD-01048,2024-08-05,middle east,ISRAEL,Hardware,SSD 2TB,3,2432.67,0.0559,6890.05,Frank Brown,Startup
+ORD-00188,2023-05-21,north america,canada,Software,Analytics Dashboard,11,1245.76,0.0452,13083.97,Alice Johnson,Education
+ORD-00982,2023-12-15,ASIA PACIFIC,Japan,Software,CRM Suite,17,1409.76,0.2194,18707.8,David Lee,Education
+ORD-00553,2023-10-21,ASIA PACIFIC,South Korea,Software,Cloud Storage,31,2971.18,0.2809,66233.84,Henry Davis,Enterprise
+ORD-00305,2024-05-13,EUROPE,UK,Hardware,SSD 2TB,11,480.93,0.3563,,Frank Brown,SMB
+ORD-00032,2024-01-02,Asia pacific,INDIA,Software,CRM Suite,53,2697.94,0.3873,87610.48,David Lee,SMB
+ORD-00838,2023-12-07,middle east,turkey,Electronics,Wireless Headphones,5,1904.3,0.358,6112.8,David Lee,Education
+ORD-00685,2024-04-09,North America,canada,Electronics,4K Monitor,4,252.37,0.2968,709.87,Eva Martinez,Education
+ORD-00816,2023-06-29,north america,UNITED STATES,Services,Consulting Package,3,2765.37,0.0688,7725.34,Eva Martinez,Government
+ORD-00241,2023-04-22,europe,SPAIN,Electronics,4K Monitor,6,2438.76,0.4115,8611.26,David Lee,Startup
+ORD-01003,2023-08-13,Asia pacific,Japan,Hardware,Network Switch,12,598.2,,6917.82,Alice Johnson,Government
+ORD-00175,2024-02-17,ASIA PACIFIC,australia,Accessories,Keyboard Mechanical,15,1298.46,0.3274,13100.16,Frank Brown,Enterprise
+ORD-00246,2023-09-07,north america,United States,Electronics,4K Monitor,9,2034.64,0.4428,10203.31,Iris Chen,SMB
+ORD-00057,2024-10-04,north america,mexico,Accessories,Cable Kit,6,$2147.88,0.3108,8881.91,David Lee,Enterprise
+ORD-00631,2024-07-04,EUROPE,SPAIN,Electronics,USB Hub,3,582.72,0.4057,1038.93,Alice Johnson,Enterprise
+ORD-00584,2023-01-30,North America,canada,Services,Consulting Package,74,166.84,0.0711,11468.35,Henry Davis,Education
+ORD-01029,2023-06-11,North America,United States,Software,Security Suite,19,761.62,0.0306,14027.97,Eva Martinez,Enterprise
+ORD-00146,2024-03-09,north america,United States,Electronics,4K Monitor,22,457.05,0.274,7300.0,Bob Smith,Startup
+ORD-00091,2023-03-22,North America,UNITED STATES,Software,Analytics Dashboard,13,1702.11,0.0765,,Jack Wilson,Government
+ORD-01118,2023-01-04,north america,mexico,Accessories,Mouse Ergonomic,11,1233.65,0.379,8427.06,Eva Martinez,Startup
+ORD-00393,2024-07-16,EUROPE,France,Accessories,Keyboard Mechanical,4,2797.78,0.2076,8867.84,Bob Smith,Startup
+ORD-00683,2023-08-06,LATIN AMERICA,CHILE,Software,Analytics Dashboard,8,2469.48,0.2984,13860.7,Jack Wilson,Enterprise
+ORD-00311,2024-01-20,ASIA PACIFIC,Japan,Electronics,4K Monitor,2939,$2855.46,0.0765,7750193.87,Carol White,Enterprise
+ORD-00360,2024-05-08,LATIN AMERICA,CHILE,Accessories,Docking Station,6,1858.52,0.327,7504.7,Frank Brown,Government
+ORD-00094,2023-01-23,europe,italy,Electronics,Wireless Headphones,9,1083.28,0.3147,6681.35,Grace Kim,Startup
+ORD-00957,2023-03-22,EUROPE,Germany,Services,Consulting Package,16,$1783.92,0.3184,19454.72,Jack Wilson,Government
+ORD-01028,2023-02-22,europe,Germany,Accessories,Keyboard Mechanical,13,$1556.56,0.2244,15694.48,Jack Wilson,Education
+ORD-00377,2024-10-10,north america,United States,Hardware,Network Switch,24,2344.96,0.3735,35258.82,Frank Brown,Education
+ORD-00244,2023-05-26,Asia pacific,australia,Electronics,Webcam HD,24,1253.76,0.0522,28519.53,Frank Brown,Startup
+ORD-01080,2024-02-12,North America,Canada,Services,Consulting Package,24,2869.37,0.1564,58094.41,Carol White,Government
+ORD-00088,2024-10-27,europe,germany,Software,CRM Suite,15,2907.91,0.3117,30022.72,Bob Smith,Startup
+ORD-00215,2024-04-25,ASIA PACIFIC,South Korea,Hardware,SSD 2TB,9,1543.31,0.0444,13273.08,Frank Brown,SMB
+ORD-00445,2023-10-18,EUROPE,UK,Accessories,Mouse Ergonomic,4,2795.44,0.1032,10027.8,Henry Davis,SMB
+ORD-00174,2023-02-21,ASIA PACIFIC,Japan,Electronics,Webcam HD,16,2900.38,0.1588,39036.79,Eva Martinez,Government
+ORD-00426,2024-04-16,ASIA PACIFIC,INDIA,Accessories,Cable Kit,36,2274.84,0.2065,64983.08,Jack Wilson,Enterprise
+ORD-00144,2023-11-23,europe,Germany,Services,Audit Report,14,$1164.63,0.101,14658.03,Bob Smith,Startup
+ORD-00119,2024-01-14,EUROPE,France,Electronics,Laptop Pro 15,30,653.24,0.1534,16590.99,Eva Martinez,Startup
+ORD-00120,2024-03-10,EUROPE,Germany,Software,Analytics Dashboard,22,$158.78,0.1994,,Henry Davis,Education
+ORD-00916,2023-04-23,LATIN AMERICA,CHILE,Electronics,Wireless Headphones,15,61.28,0.4309,523.12,Alice Johnson,Startup
+ORD-00875,2023-04-20,north america,UNITED STATES,Accessories,Cable Kit,11,27.6,0.1343,262.83,Alice Johnson,Startup
+ORD-00001,2023-03-31,EUROPE,Germany,Hardware,Network Switch,18,2212.04,0.4015,23830.31,Jack Wilson,Government
+ORD-00395,2024-08-21,middle east,uae,Electronics,Wireless Headphones,31,1357.42,0.1376,36289.81,Carol White,Education
+ORD-00402,2024-01-05,north america,Canada,Services,Support Plan,7,$1114.6,0.093,7076.6,Grace Kim,Government
+ORD-00405,2023-08-24,North America,mexico,Services,Integration Service,8,29.72,0.198,190.68,Bob Smith,Education
+ORD-00843,2024-12-20,LATIN AMERICA,colombia,Services,Support Plan,4,446.14,0.3606,1141.05,Alice Johnson,Education
+ORD-00854,2024-06-26,North America,United States,Accessories,Mouse Ergonomic,31,2105.21,0.3679,,Henry Davis,Enterprise
+ORD-00163,2024-04-23,LATIN AMERICA,Brazil,Software,Analytics Dashboard,30,1487.12,0.2575,33125.6,Iris Chen,SMB
+ORD-00115,2023-02-22,North America,United States,Services,Training Bundle,10,2823.97,0.4121,16602.12,Eva Martinez,Education
+ORD-00671,2024-09-06,LATIN AMERICA,Brazil,Services,Support Plan,33,$2556.96,0.2781,60913.69,Eva Martinez,SMB
+ORD-00151,2024-04-20,North America,Canada,Electronics,4K Monitor,14,2442.38,0.3506,22205.14,Henry Davis,SMB
+ORD-00324,2024-02-17,North America,UNITED STATES,Hardware,RAM 32GB,64,1720.34,0.0775,101568.87,Carol White,Education
+ORD-00792,2023-10-22,LATIN AMERICA,brazil,Hardware,GPU Unit,14,1386.0,0.3318,,Henry Davis,Startup
+ORD-00124,2024-12-27,EUROPE,italy,Electronics,Webcam HD,1437,2587.7,0.258,2759145.48,Grace Kim,Startup
+ORD-00369,2023-02-19,EUROPE,italy,Services,Audit Report,13,412.55,0.2387,4082.97,Iris Chen,Government
+ORD-00544,2024-01-27,North America,United States,Hardware,Server Rack,38,2109.63,0.1432,68686.18,Grace Kim,Government
+ORD-00478,2023-12-09,EUROPE,SPAIN,Hardware,Server Rack,15,$1733.08,0.0252,25341.1,Frank Brown,Government
+ORD-01132,2023-07-28,ASIA PACIFIC,Japan,Software,Analytics Dashboard,17,$910.82,0.1063,13838.0,Grace Kim,Enterprise
+ORD-00533,2024-04-21,North America,mexico,Hardware,Network Switch,11,2015.89,0.4382,12457.8,Jack Wilson,SMB
+ORD-00626,2023-05-12,ASIA PACIFIC,South Korea,Accessories,Desk Mat XL,8,921.0,0.0534,6974.55,Carol White,SMB
+ORD-00977,2023-06-24,LATIN AMERICA,Brazil,Electronics,Wireless Headphones,8,975.34,0.1961,6272.61,Bob Smith,SMB
+ORD-00513,2024-01-24,Asia pacific,INDIA,Accessories,Desk Mat XL,10,288.44,0.1659,,Bob Smith,Government
+ORD-00807,2024-06-07,North America,Canada,Hardware,RAM 32GB,14,62.76,0.202,701.15,David Lee,Education
+ORD-00073,2024-08-26,LATIN AMERICA,CHILE,Hardware,RAM 32GB,11,707.93,0.3561,5014.2,David Lee,Government
+ORD-00259,2023-10-01,North America,canada,Hardware,GPU Unit,17,977.71,0.1302,14457.01,Iris Chen,Enterprise
+ORD-00625,2024-12-08,EUROPE,italy,Services,Consulting Package,43,$402.37,0.1567,14590.7,Frank Brown,SMB
+ORD-00235,2023-12-07,LATIN AMERICA,colombia,Accessories,Docking Station,67,329.84,0.427,12662.89,Jack Wilson,Government
+ORD-00136,2024-12-02,middle east,uae,Services,Training Bundle,42,2013.64,0.3324,56460.85,Iris Chen,Enterprise
+ORD-00617,2024-04-19,middle east,uae,Services,Consulting Package,13,912.95,0.2223,9230.02,David Lee,Enterprise
+ORD-00517,2023-05-01,Asia pacific,South Korea,Software,Security Suite,18,$14.72,0.2815,,David Lee,Education
+ORD-01062,2023-07-04,EUROPE,italy,Services,Audit Report,1,1732.27,0.3477,1129.96,Henry Davis,Enterprise
+ORD-00803,2023-08-01,Asia pacific,Japan,Services,Audit Report,13,988.14,0.0853,11750.07,Iris Chen,Government
+ORD-00810,2023-01-25,Asia pacific,australia,Hardware,Server Rack,5,2932.92,0.1298,12761.13,David Lee,Startup
+ORD-00593,2023-09-02,LATIN AMERICA,Brazil,Accessories,Keyboard Mechanical,17,1225.78,0.1613,17477.05,Bob Smith,Enterprise
+ORD-01072,2024-03-31,LATIN AMERICA,Brazil,Services,Consulting Package,17,852.68,0.1919,11713.86,Iris Chen,SMB
+ORD-00502,2024-07-04,north america,canada,Electronics,Webcam HD,56,2634.51,0.1106,131215.46,Grace Kim,Enterprise
+ORD-00539,2023-04-10,LATIN AMERICA,Argentina,Electronics,USB Hub,27,351.82,,8108.47,Henry Davis,SMB
+ORD-00637,2024-03-10,Asia pacific,Japan,Hardware,Network Switch,23,1788.92,0.0552,38873.95,Henry Davis,Startup
+ORD-00729,2023-02-15,middle east,ISRAEL,Software,Analytics Dashboard,7,1471.48,0.1569,8684.23,Grace Kim,Government
+ORD-00582,2023-02-24,EUROPE,SPAIN,Hardware,GPU Unit,8,1398.0,0.0936,10137.18,David Lee,Enterprise
+ORD-00344,2023-11-26,europe,italy,Services,Consulting Package,8,606.24,0.0063,4819.37,Iris Chen,SMB
+ORD-01078,2023-11-04,europe,germany,Accessories,Mouse Ergonomic,8,1457.85,0.081,,David Lee,Startup
+ORD-00864,2023-05-07,middle east,UAE,Electronics,Webcam HD,51,674.44,0.3522,22282.01,Carol White,Education
+ORD-00294,2023-12-06,middle east,UAE,Electronics,Laptop Pro 15,24,1941.49,0.0414,44666.7,Bob Smith,Enterprise
+ORD-00365,2024-09-26,LATIN AMERICA,colombia,Hardware,SSD 2TB,21,2451.59,0.1494,43791.77,Jack Wilson,Government
+ORD-00861,2023-10-03,ASIA PACIFIC,Japan,Hardware,RAM 32GB,14,438.29,0.2833,4397.71,David Lee,Startup
+ORD-00660,2023-08-30,EUROPE,France,Accessories,Keyboard Mechanical,10,947.09,0.3318,6328.46,Grace Kim,SMB
+ORD-00015,2024-07-16,EUROPE,Germany,Services,Consulting Package,3,1602.78,0.2969,3380.74,Carol White,Startup
+ORD-00687,2023-09-19,north america,mexico,Hardware,Server Rack,10,1645.99,0.0416,15775.17,Carol White,SMB
+ORD-00087,2024-04-12,north america,Canada,Accessories,Docking Station,25,310.08,0.0449,7403.94,Alice Johnson,SMB
+ORD-00371,2023-05-17,europe,italy,Accessories,Mouse Ergonomic,12,2891.13,,27623.01,Carol White,Government
+ORD-00166,2024-12-27,Asia pacific,INDIA,Accessories,Keyboard Mechanical,16,1559.12,0.0729,23127.36,David Lee,Startup
+ORD-00132,2023-03-28,ASIA PACIFIC,South Korea,Software,CRM Suite,12,2434.78,0.4421,16300.37,Iris Chen,SMB
+ORD-00336,2024-03-04,europe,germany,Hardware,Network Switch,10,1969.64,0.1167,17397.83,Grace Kim,Government
+ORD-00060,2023-09-09,middle east,uae,Accessories,Cable Kit,26,2478.94,0.145,55106.84,Bob Smith,Startup
+ORD-00710,2024-06-03,ASIA PACIFIC,Japan,Electronics,USB Hub,47,$2576.57,0.2531,90448.69,Bob Smith,SMB
+ORD-00677,2024-07-26,north america,mexico,Accessories,Docking Station,5,2932.79,0.0595,13791.44,Alice Johnson,Education
+ORD-00355,2024-03-24,EUROPE,Germany,Electronics,Laptop Pro 15,11,1993.42,0.1609,18399.47,Jack Wilson,Startup
+ORD-00969,2023-08-09,europe,Germany,Electronics,Wireless Headphones,11,1293.86,0.1104,12661.2,Frank Brown,Startup
+ORD-00425,2024-07-04,EUROPE,SPAIN,Electronics,USB Hub,20,2841.57,0.4305,32365.48,Jack Wilson,Startup
+ORD-00293,2024-02-15,EUROPE,France,Electronics,Laptop Pro 15,7,2345.06,0.0892,14951.16,Frank Brown,Enterprise
+ORD-00042,2023-10-18,ASIA PACIFIC,China,Accessories,Cable Kit,13,2879.89,0.2965,26338.03,Iris Chen,Education
+ORD-00330,2024-08-23,EUROPE,germany,Electronics,Wireless Headphones,20,1786.18,0.3917,21730.67,Iris Chen,Startup
+ORD-00615,2024-08-27,EUROPE,France,Software,Security Suite,86,2603.89,,217261.29,Grace Kim,Enterprise
+ORD-00430,2023-05-03,middle east,Saudi Arabia,Software,Analytics Dashboard,2,2510.63,0.3505,3261.31,Bob Smith,Government
+ORD-00080,2023-02-22,ASIA PACIFIC,INDIA,Electronics,Wireless Headphones,2,1871.67,0.1989,2998.79,David Lee,Startup
+ORD-00694,2023-07-03,middle east,ISRAEL,Hardware,GPU Unit,19,$1515.29,0.2977,20219.58,Carol White,Government
+ORD-00029,2023-12-18,Asia pacific,australia,Electronics,Laptop Pro 15,7,474.78,0.0948,3008.4,David Lee,Startup
+ORD-00708,2024-05-13,Asia pacific,South Korea,Electronics,Laptop Pro 15,49,350.76,0.2529,12840.59,Eva Martinez,Startup
+ORD-00906,2023-05-07,Asia pacific,australia,Hardware,RAM 32GB,12,177.06,0.2824,1524.7,Alice Johnson,Enterprise
+ORD-00900,2023-06-09,LATIN AMERICA,colombia,Software,Security Suite,6,1749.16,0.3388,6939.27,Henry Davis,SMB
+ORD-00255,2024-04-13,EUROPE,SPAIN,Electronics,Wireless Headphones,3,831.8,0.0757,2306.5,Jack Wilson,Government
+ORD-00161,2023-03-31,ASIA PACIFIC,China,Electronics,Wireless Headphones,5,1361.6,0.2003,5444.36,Frank Brown,Startup
+ORD-00459,2024-12-08,north america,Canada,Hardware,GPU Unit,7,$2369.53,,16273.22,Henry Davis,Education
+ORD-00384,2024-06-10,EUROPE,italy,Hardware,GPU Unit,7,83.86,0.3467,383.5,Iris Chen,Government
+ORD-00314,2023-01-04,middle east,Saudi Arabia,Electronics,Laptop Pro 15,23,1653.48,0.0245,37098.3,Grace Kim,Enterprise
+ORD-00085,2023-11-26,ASIA PACIFIC,China,Services,Audit Report,6,1003.99,0.1697,5001.68,David Lee,SMB
+ORD-00575,2023-11-11,ASIA PACIFIC,South Korea,Electronics,Wireless Headphones,23,400.3,0.0225,8999.74,Bob Smith,Government
+ORD-00763,2024-07-08,north america,Canada,Hardware,GPU Unit,94,2879.62,0.14,232788.48,Carol White,SMB
+ORD-00137,2024-05-12,europe,SPAIN,Hardware,Server Rack,6,548.98,0.4265,1889.04,David Lee,SMB
+ORD-00112,2024-07-18,middle east,turkey,Accessories,Docking Station,11,$2381.35,0.2946,,David Lee,Government
+ORD-00195,2023-08-30,ASIA PACIFIC,australia,Hardware,SSD 2TB,13,1722.89,0.1618,,Alice Johnson,Enterprise
+ORD-00853,2024-08-08,ASIA PACIFIC,australia,Electronics,USB Hub,7,1457.72,0.1951,8213.23,Carol White,Enterprise
+ORD-00179,2023-12-11,Asia pacific,australia,Accessories,Desk Mat XL,9,2971.93,0.1347,23144.5,Iris Chen,Education
+ORD-00556,2024-10-14,Asia pacific,South Korea,Software,Project Manager,8,1244.7,0.2973,6997.21,Carol White,SMB
+ORD-00724,2024-08-25,EUROPE,Germany,Services,Support Plan,22,1344.02,0.2368,22566.63,Iris Chen,Education
+ORD-00996,2024-11-06,ASIA PACIFIC,Japan,Hardware,GPU Unit,9,71.96,0.3853,398.1,Carol White,Startup
+ORD-00497,2024-09-18,europe,UK,Services,Training Bundle,5,571.91,0.0118,2825.81,Jack Wilson,Startup
+ORD-00867,2023-10-01,Asia pacific,australia,Electronics,USB Hub,15,1976.1,0.2554,,Alice Johnson,Startup
+ORD-00806,2024-12-14,EUROPE,germany,Accessories,Docking Station,9,2877.5,0.4416,14461.16,Grace Kim,SMB
+ORD-00130,2023-03-20,north america,mexico,Accessories,Keyboard Mechanical,8,$1361.21,0.3743,6813.67,Bob Smith,Education
+ORD-00716,2023-11-18,north america,canada,Hardware,RAM 32GB,29,2045.79,0.1369,51205.92,Frank Brown,Enterprise
+ORD-00338,2024-07-26,middle east,Saudi Arabia,Accessories,Mouse Ergonomic,9,1417.62,0.3263,8595.46,Carol White,Startup
+ORD-01139,2024-01-29,EUROPE,UK,Electronics,Webcam HD,19,46.54,0.2586,655.59,Henry Davis,Enterprise
+ORD-00609,2023-10-24,North America,Canada,Electronics,USB Hub,2,1000.52,,1574.22,Jack Wilson,SMB
+ORD-00125,2024-01-06,EUROPE,italy,Electronics,4K Monitor,19,2843.36,0.3103,37260.24,Bob Smith,Government
+ORD-00196,2024-12-07,ASIA PACIFIC,australia,Software,Project Manager,16,2770.08,0.3464,28968.39,Bob Smith,Startup
+ORD-00227,2023-05-24,Asia pacific,South Korea,Software,Cloud Storage,12,1173.57,0.1493,11980.27,Bob Smith,Education
+ORD-00690,2024-01-13,ASIA PACIFIC,INDIA,Services,Integration Service,17,$1805.01,0.1901,24851.92,Jack Wilson,SMB
+ORD-00269,2023-12-26,Asia pacific,INDIA,Software,Analytics Dashboard,8,1694.23,,12552.21,David Lee,SMB
+ORD-00153,2023-10-07,ASIA PACIFIC,australia,Electronics,Wireless Headphones,7,$2587.78,0.2951,12768.88,Bob Smith,Startup
+ORD-00585,2023-11-30,EUROPE,Germany,Software,Project Manager,14,984.65,0.3046,9586.16,David Lee,Enterprise
+ORD-00104,2024-12-03,middle east,UAE,Hardware,Network Switch,6,2852.15,0.0447,16347.95,Frank Brown,Education
+ORD-00594,2023-05-22,ASIA PACIFIC,australia,Software,Project Manager,15,$2244.38,0.2047,26774.33,Grace Kim,SMB
+ORD-01101,2024-04-26,North America,Canada,Software,Cloud Storage,27,1426.86,0.0807,35416.23,Bob Smith,Enterprise
+ORD-00787,2023-06-25,europe,France,Services,Consulting Package,23,2886.19,,57281.35,Bob Smith,Education
+ORD-01124,2024-11-29,north america,canada,Services,Support Plan,4,639.87,0.1561,2159.95,Eva Martinez,SMB
+ORD-00777,2024-08-20,North America,mexico,Accessories,Keyboard Mechanical,6,261.23,,1319.42,Alice Johnson,Government
+ORD-00908,2023-04-26,europe,France,Hardware,SSD 2TB,22,2638.17,0.3979,34945.73,Henry Davis,SMB
+ORD-00850,2024-03-20,EUROPE,UK,Services,Support Plan,7,360.86,0.1523,2141.31,Carol White,Government
+ORD-00228,2024-09-01,North America,United States,Electronics,Webcam HD,5,237.28,0.2762,858.72,Grace Kim,Startup
+ORD-01123,2024-06-19,middle east,ISRAEL,Services,Training Bundle,20,1071.9,,13986.15,Henry Davis,SMB
+ORD-00302,2024-09-08,Asia pacific,South Korea,Software,Project Manager,7,$534.9,0.0253,3649.57,David Lee,Enterprise
+ORD-00855,2023-11-18,EUROPE,France,Electronics,Wireless Headphones,37,$2088.69,0.2013,61724.76,Bob Smith,Enterprise
+ORD-00276,2023-12-01,Asia pacific,australia,Electronics,4K Monitor,17,2763.56,0.0699,43696.58,Grace Kim,Education
+ORD-00127,2024-10-22,EUROPE,SPAIN,Electronics,USB Hub,5,2718.7,0.3273,,Carol White,SMB
+ORD-00406,2024-02-29,middle east,Saudi Arabia,Software,Analytics Dashboard,20,1810.03,0.2975,25430.92,Frank Brown,Enterprise
+ORD-00776,2024-01-22,north america,Canada,Software,Analytics Dashboard,3,710.8,0.1913,1724.47,Jack Wilson,SMB
+ORD-00822,2023-04-05,Asia pacific,australia,Software,Cloud Storage,37,1991.18,0.0525,69805.79,Grace Kim,Government
+ORD-00712,2024-04-30,North America,Canada,Electronics,Wireless Headphones,11,1253.08,0.1104,12262.14,Frank Brown,Startup
+ORD-00766,2023-02-13,North America,canada,Accessories,Desk Mat XL,6,1261.89,0.2044,,Henry Davis,SMB
+ORD-00684,2024-11-28,Asia pacific,INDIA,Electronics,Wireless Headphones,18,2033.95,0.0117,36182.75,Bob Smith,Government
+ORD-00750,2024-09-12,middle east,Saudi Arabia,Software,Project Manager,3,120.01,0.3168,245.97,David Lee,Enterprise
+ORD-01126,2023-02-04,Asia pacific,INDIA,Software,Project Manager,4,1123.12,0.2648,3302.87,Frank Brown,Enterprise
+ORD-00037,2023-12-20,north america,United States,Hardware,Network Switch,14,$2950.81,0.2685,30219.25,Frank Brown,Government
+ORD-00140,2023-09-02,europe,UK,Software,Project Manager,4,2259.64,0.1053,8086.8,Eva Martinez,Government
+ORD-00304,2024-11-09,Asia pacific,South Korea,Software,CRM Suite,19,2583.39,0.1681,40833.32,Grace Kim,Education
+ORD-00268,2023-11-17,europe,germany,Software,Project Manager,3,1155.37,0.0461,3306.32,Frank Brown,Startup
+ORD-00835,2023-02-02,middle east,uae,Software,Analytics Dashboard,11,2629.93,,19599.55,Carol White,Government
+ORD-00534,2023-08-26,EUROPE,germany,Services,Consulting Package,4,2056.58,0.2094,6503.73,David Lee,SMB
+ORD-00546,2023-05-20,Asia pacific,China,Electronics,Laptop Pro 15,6,440.54,0.2961,1860.58,Bob Smith,SMB
+ORD-00213,2023-01-16,LATIN AMERICA,brazil,Accessories,Mouse Ergonomic,26,2609.72,0.4307,38628.55,David Lee,SMB
+ORD-00897,2023-11-29,north america,Canada,Software,Cloud Storage,10,1949.44,0.4375,10965.6,Bob Smith,Education
+ORD-00469,2024-06-25,north america,mexico,Accessories,Cable Kit,7,$2384.8,0.2776,12059.46,Alice Johnson,Enterprise
+ORD-00199,2024-03-28,EUROPE,Germany,Accessories,Docking Station,12,1614.6,0.3845,11925.44,Bob Smith,SMB
+ORD-00868,2023-10-10,LATIN AMERICA,brazil,Services,Integration Service,15,2958.87,0.226,34352.48,Grace Kim,Education
+ORD-00673,2024-09-06,LATIN AMERICA,Argentina,Software,Security Suite,9,1487.55,,,David Lee,Startup
+ORD-00528,2023-11-16,North America,UNITED STATES,Electronics,Laptop Pro 15,12,1980.35,0.2599,17587.88,David Lee,Startup
+ORD-00676,2024-09-12,middle east,UAE,Electronics,USB Hub,6,1005.25,0.4087,3566.43,Jack Wilson,Enterprise
+ORD-01056,2024-08-19,LATIN AMERICA,CHILE,Accessories,Docking Station,7,2141.38,0.1705,12433.92,Alice Johnson,SMB
+ORD-00815,2024-03-19,ASIA PACIFIC,Japan,Hardware,RAM 32GB,27,1417.42,0.2742,27776.61,Carol White,Government
+ORD-00242,2024-03-16,Asia pacific,South Korea,Electronics,USB Hub,11,2035.63,0.3387,14807.78,Bob Smith,Enterprise
+ORD-00343,2024-10-10,LATIN AMERICA,Argentina,Accessories,Mouse Ergonomic,14,$2293.06,0.2765,23226.4,Grace Kim,Government
+ORD-00550,2024-11-10,middle east,turkey,Accessories,Keyboard Mechanical,7,1834.1,0.2838,9195.08,Bob Smith,Education
+ORD-00387,2024-08-11,north america,UNITED STATES,Hardware,Server Rack,16,172.25,0.2511,2063.97,David Lee,Startup
+ORD-01105,2024-08-29,middle east,uae,Electronics,Wireless Headphones,29,1766.07,0.1486,,Jack Wilson,Startup
+ORD-00207,2023-10-24,europe,italy,Software,Cloud Storage,18,$2592.54,0.2268,36081.93,David Lee,Education
+ORD-00296,2024-10-24,LATIN AMERICA,Argentina,Hardware,SSD 2TB,6,454.4,0.2776,1969.55,Eva Martinez,Government
+ORD-00696,2024-02-09,LATIN AMERICA,Argentina,Electronics,USB Hub,9,2023.48,0.0081,18063.81,Bob Smith,Enterprise
+ORD-01041,2024-12-16,middle east,uae,Software,CRM Suite,46,2450.97,0.4401,63125.71,Henry Davis,Government
+ORD-00074,2023-11-11,EUROPE,SPAIN,Software,Analytics Dashboard,42,$2481.62,0.0747,96442.21,Jack Wilson,Education
+ORD-00606,2023-06-07,Asia pacific,South Korea,Hardware,Network Switch,54,2519.59,0.2999,95254.11,Carol White,SMB
+ORD-00105,2024-11-09,North America,United States,Services,Training Bundle,10,375.25,0.2046,2984.74,David Lee,Education
+ORD-00952,2024-11-05,ASIA PACIFIC,INDIA,Services,Consulting Package,16,2348.76,0.1204,33055.51,Eva Martinez,Startup
+ORD-01049,2024-07-23,Asia pacific,INDIA,Services,Consulting Package,39,1404.64,0.2161,42942.79,David Lee,Government
+ORD-00601,2023-10-10,ASIA PACIFIC,Japan,Electronics,Webcam HD,22,872.22,,,Bob Smith,SMB
+ORD-00017,2023-03-02,LATIN AMERICA,Argentina,Electronics,4K Monitor,2685,$1769.43,0.3185,3237751.67,David Lee,Enterprise
+ORD-00440,2024-05-14,LATIN AMERICA,brazil,Accessories,Docking Station,11,2343.11,,17967.2,Henry Davis,Enterprise
+ORD-00092,2024-04-21,LATIN AMERICA,colombia,Accessories,Mouse Ergonomic,26,1917.32,0.3001,34890.24,Eva Martinez,Education
+ORD-00089,2023-08-21,europe,UK,Services,Audit Report,7,214.57,0.4144,879.57,Bob Smith,Government
+ORD-01040,2023-05-21,EUROPE,Germany,Hardware,RAM 32GB,28,1869.39,0.0916,47548.31,Iris Chen,SMB
+ORD-00909,2023-03-28,EUROPE,France,Electronics,4K Monitor,20,$1850.92,0.4155,21637.25,Alice Johnson,Education
+ORD-00451,2024-09-19,Asia pacific,INDIA,Services,Support Plan,11,1272.49,0.344,9182.29,Eva Martinez,Startup
+ORD-00718,2023-05-10,europe,France,Hardware,Server Rack,13,1010.12,0.333,8758.75,Iris Chen,Education
+ORD-00103,2024-05-16,North America,canada,Services,Audit Report,9,472.01,,4058.63,Jack Wilson,Government
+ORD-00239,2024-11-20,ASIA PACIFIC,China,Services,Training Bundle,7,216.77,0.3578,974.47,Henry Davis,SMB
+ORD-01043,2024-03-17,europe,italy,Electronics,Webcam HD,28,142.79,0.083,3666.28,Iris Chen,Enterprise
+ORD-00943,2023-03-21,Asia pacific,INDIA,Hardware,GPU Unit,20,39.69,0.2687,580.51,Jack Wilson,Education
+ORD-00247,2024-10-17,Asia pacific,australia,Accessories,Cable Kit,8,703.24,0.083,5158.97,Grace Kim,Government
+ORD-00939,2024-09-07,ASIA PACIFIC,Japan,Accessories,Mouse Ergonomic,14,445.08,0.2557,4637.82,Grace Kim,Enterprise
+ORD-00984,2024-10-25,LATIN AMERICA,colombia,Software,CRM Suite,11,500.94,0.3914,3353.59,Bob Smith,SMB
+ORD-00158,2024-09-11,north america,Canada,Electronics,Wireless Headphones,17,1105.31,0.2553,13993.11,Carol White,Government
+ORD-00480,2024-09-01,Asia pacific,australia,Accessories,Mouse Ergonomic,29,2024.16,0.437,33048.46,Jack Wilson,Education
+ORD-00839,2024-07-29,EUROPE,germany,Hardware,RAM 32GB,26,2231.46,0.2943,40943.27,Grace Kim,SMB
+ORD-00646,2023-11-16,EUROPE,italy,Hardware,SSD 2TB,9,178.77,0.1056,1439.03,Jack Wilson,Enterprise
+ORD-00006,2023-06-16,LATIN AMERICA,CHILE,Electronics,Wireless Headphones,10,1146.57,0.3753,7162.62,Frank Brown,Startup
+ORD-01079,2023-10-22,ASIA PACIFIC,INDIA,Services,Audit Report,40,$1448.06,0.0506,54991.53,Grace Kim,Government
+ORD-00872,2024-06-20,North America,Canada,Accessories,Docking Station,6,1351.46,0.4186,4714.43,David Lee,SMB
+ORD-00019,2023-02-25,LATIN AMERICA,colombia,Services,Support Plan,5,1980.35,0.185,8069.93,Bob Smith,Enterprise
+ORD-00973,2023-01-19,EUROPE,Germany,Services,Support Plan,23,1777.59,0.0096,,Jack Wilson,Enterprise
+ORD-00122,2023-05-21,middle east,UAE,Software,Project Manager,5,173.79,0.4254,499.3,Eva Martinez,Startup
+ORD-00947,2024-02-28,north america,mexico,Hardware,GPU Unit,3,382.98,0.4496,632.38,Grace Kim,Startup
+ORD-00662,2023-05-29,EUROPE,UK,Accessories,Cable Kit,7,746.57,0.3529,3381.74,Frank Brown,Government
+ORD-00972,2023-02-17,europe,germany,Services,Training Bundle,7,$602.46,0.2223,3279.73,Eva Martinez,Government
+ORD-00275,2024-12-19,LATIN AMERICA,Brazil,Electronics,Webcam HD,5,1889.42,0.1869,7681.44,Grace Kim,Enterprise
+ORD-00434,2024-09-19,EUROPE,UK,Hardware,GPU Unit,21,569.58,0.1212,10511.48,Frank Brown,Startup
+ORD-00812,2023-07-17,europe,SPAIN,Hardware,Network Switch,8,28.06,,217.41,Alice Johnson,SMB
+ORD-01131,2024-04-14,Asia pacific,China,Hardware,Server Rack,15,934.72,0.3607,8963.5,Grace Kim,SMB
+ORD-00312,2024-09-13,EUROPE,UK,Accessories,Docking Station,29,2116.46,0.2941,43326.26,Grace Kim,SMB
+ORD-01115,2023-03-05,Asia pacific,China,Software,CRM Suite,13,$2538.94,0.2869,23536.74,Frank Brown,Enterprise
+ORD-01127,2024-01-02,North America,United States,Software,Project Manager,15,1016.64,0.0842,13965.58,Eva Martinez,SMB
+ORD-00781,2024-02-20,Asia pacific,South Korea,Hardware,Server Rack,14,852.71,0.4486,6582.58,Jack Wilson,Enterprise
+ORD-00547,2024-01-29,europe,italy,Accessories,Cable Kit,19,1368.63,0.369,16408.51,Frank Brown,SMB
+ORD-00182,2023-07-28,LATIN AMERICA,Brazil,Accessories,Keyboard Mechanical,6,1328.7,0.1858,,Grace Kim,Education
+ORD-00185,2023-05-05,LATIN AMERICA,colombia,Hardware,RAM 32GB,10,2801.75,0.1231,24568.55,Jack Wilson,Education
+ORD-00407,2023-05-11,ASIA PACIFIC,INDIA,Services,Support Plan,5,1945.3,0.1097,8659.5,Jack Wilson,Education
+ORD-00720,2024-10-04,middle east,Saudi Arabia,Hardware,RAM 32GB,11,$340.21,0.1678,3114.35,Iris Chen,Startup
+ORD-00979,2024-08-21,europe,UK,Software,Analytics Dashboard,3,368.5,0.0666,,Grace Kim,Government
+ORD-00607,2023-02-05,EUROPE,Germany,Hardware,GPU Unit,6,788.61,0.2531,3534.08,Frank Brown,Startup
+ORD-00693,2024-02-27,europe,UK,Accessories,Keyboard Mechanical,5,2752.72,0.2298,10600.72,Bob Smith,Government
+ORD-00521,2024-06-17,Asia pacific,INDIA,Accessories,Desk Mat XL,3,2444.35,0.0252,7148.26,Eva Martinez,Education
+ORD-00866,2024-08-31,Asia pacific,australia,Services,Support Plan,8,2226.47,0.2393,13549.41,Grace Kim,Government
+ORD-00381,2024-03-01,EUROPE,germany,Hardware,GPU Unit,6,$559.76,0.2273,2595.16,Iris Chen,Education
+ORD-00411,2023-06-03,europe,France,Electronics,Laptop Pro 15,21,2580.17,0.1889,43948.29,Jack Wilson,Enterprise
+ORD-00635,2024-01-12,europe,UK,Services,Support Plan,5,2685.31,0.4226,7752.49,Carol White,Enterprise
+ORD-00370,2024-09-12,ASIA PACIFIC,South Korea,Software,Cloud Storage,6,$2447.57,0.2959,10340.0,Frank Brown,Education
+ORD-01073,2023-10-13,ASIA PACIFIC,australia,Electronics,Laptop Pro 15,12,1302.47,,9549.71,Bob Smith,Startup
+ORD-01087,2023-02-04,europe,italy,Electronics,Wireless Headphones,27,82.48,0.3096,1537.49,Eva Martinez,Enterprise
+ORD-00428,2023-07-02,north america,mexico,Software,Security Suite,21,2024.35,0.0342,41057.46,Henry Davis,Startup
+ORD-00877,2023-07-06,ASIA PACIFIC,Japan,Software,Security Suite,8,1192.11,0.1928,7698.17,Iris Chen,Startup
+ORD-00079,2024-06-10,europe,SPAIN,Electronics,Webcam HD,13,$764.66,0.3476,6485.23,Alice Johnson,Education
+ORD-00863,2023-10-07,EUROPE,germany,Accessories,Cable Kit,42,1924.12,0.1501,68683.0,Carol White,SMB
+ORD-00574,2023-05-25,LATIN AMERICA,brazil,Services,Audit Report,10,1742.23,0.0166,17133.09,Henry Davis,Enterprise
+ORD-00547,2024-01-29,europe,italy,Accessories,Cable Kit,19,1368.63,0.369,16408.51,Frank Brown,SMB
+ORD-00638,2023-05-31,middle east,turkey,Hardware,RAM 32GB,12,2850.91,0.2301,26338.99,Henry Davis,Enterprise
+ORD-00608,2024-05-26,Asia pacific,australia,Services,Audit Report,4,1605.58,0.0112,6350.39,Carol White,Government
+ORD-01058,2024-08-12,EUROPE,SPAIN,Electronics,USB Hub,31,1578.09,0.1211,42996.48,Eva Martinez,SMB
+ORD-00069,2023-11-08,europe,italy,Electronics,USB Hub,16,170.28,,2034.37,Bob Smith,SMB
+ORD-00860,2024-01-26,LATIN AMERICA,brazil,Hardware,SSD 2TB,20,$1870.71,0.1147,33122.79,Carol White,Government
+ORD-01085,2023-08-23,north america,canada,Software,Security Suite,16,2955.79,0.178,38874.55,Eva Martinez,SMB
+ORD-01149,2024-09-11,ASIA PACIFIC,China,Services,Training Bundle,43,2337.13,0.3021,70136.57,Grace Kim,SMB
+ORD-00417,2024-08-14,europe,SPAIN,Accessories,Cable Kit,42,1681.68,0.4448,39214.09,Frank Brown,Government
+ORD-01022,2023-08-31,EUROPE,italy,Services,Training Bundle,7,2944.16,,13814.29,Bob Smith,SMB
+ORD-00562,2023-08-11,LATIN AMERICA,CHILE,Hardware,Network Switch,64,$1861.99,0.2674,87302.01,Jack Wilson,Enterprise
+ORD-00904,2023-03-27,europe,Germany,Electronics,Laptop Pro 15,33,$1936.99,,56774.34,Eva Martinez,SMB
+ORD-00068,2024-05-04,EUROPE,Germany,Accessories,Desk Mat XL,27,1326.99,0.0231,35001.09,Bob Smith,Enterprise
+ORD-00537,2024-08-27,EUROPE,italy,Electronics,4K Monitor,6,222.05,0.2074,1055.98,Grace Kim,SMB
+ORD-00078,2024-12-11,EUROPE,italy,Hardware,RAM 32GB,9,2013.69,0.1484,15433.73,Henry Davis,Startup
+ORD-00106,2024-07-21,north america,United States,Hardware,Network Switch,16,2363.05,0.3734,23690.99,David Lee,Education
+ORD-00597,2024-12-27,North America,UNITED STATES,Accessories,Keyboard Mechanical,9,534.04,0.0302,4661.21,David Lee,SMB
+ORD-01046,2024-01-26,middle east,uae,Services,Integration Service,24,1709.22,0.0731,38022.62,Henry Davis,SMB
+ORD-00959,2024-04-15,north america,mexico,Electronics,Wireless Headphones,19,1918.77,0.0465,34761.4,Jack Wilson,Enterprise
+ORD-00639,2023-03-11,EUROPE,UK,Services,Integration Service,4,$2827.77,0.332,7555.8,Henry Davis,Enterprise
+ORD-00560,2023-07-19,EUROPE,UK,Accessories,Cable Kit,8,2029.11,0.3024,,Iris Chen,Startup
+ORD-00847,2023-05-15,EUROPE,SPAIN,Hardware,SSD 2TB,15,593.32,0.1772,7322.76,Frank Brown,Education
+ORD-00689,2024-01-12,middle east,turkey,Services,Training Bundle,21,1814.5,0.0433,36454.58,Iris Chen,SMB
+ORD-00691,2024-12-03,europe,germany,Services,Consulting Package,9,1031.81,0.1009,8349.3,Carol White,Government
+ORD-00827,2023-04-22,north america,Canada,Software,Security Suite,43,2616.12,0.4108,66280.97,Carol White,Enterprise
+ORD-01112,2023-01-14,LATIN AMERICA,Brazil,Accessories,Desk Mat XL,14,2734.0,0.2263,29614.14,Jack Wilson,Startup
+ORD-01046,2024-01-26,middle east,uae,Services,Integration Service,24,1709.22,0.0731,38022.62,Henry Davis,SMB
+ORD-01113,2024-08-08,north america,mexico,Services,Integration Service,24,2089.53,0.2814,,Alice Johnson,Government
+ORD-00736,2023-10-20,europe,Germany,Accessories,Desk Mat XL,17,282.16,0.2438,3627.28,Carol White,SMB
+ORD-01009,2023-03-28,europe,France,Services,Consulting Package,28,2291.35,,39931.81,Alice Johnson,Startup
+ORD-00437,2023-11-20,ASIA PACIFIC,Japan,Software,Project Manager,44,2986.72,0.2327,100835.25,Henry Davis,Startup
+ORD-00491,2023-11-06,middle east,ISRAEL,Services,Integration Service,12,64.92,0.1599,654.47,David Lee,Education
+ORD-00291,2023-09-12,EUROPE,France,Hardware,GPU Unit,10,2509.41,0.041,24065.24,Frank Brown,Government
+ORD-00830,2023-11-19,middle east,turkey,Services,Training Bundle,9,1016.28,0.1544,7734.3,David Lee,Startup
+ORD-01094,2023-08-27,LATIN AMERICA,Brazil,Software,Project Manager,12,1425.8,0.255,12746.65,Alice Johnson,Government
+ORD-00070,2024-03-29,EUROPE,SPAIN,Services,Audit Report,7,1859.06,0.1712,10785.52,Eva Martinez,Education
+ORD-00809,2024-09-04,north america,Canada,Hardware,RAM 32GB,33,463.49,0.0171,15033.62,Henry Davis,Startup
+ORD-00012,2023-09-27,middle east,ISRAEL,Electronics,4K Monitor,8,1366.62,0.3941,6624.28,Iris Chen,SMB
+ORD-00145,2024-04-25,Asia pacific,China,Electronics,4K Monitor,14,1422.63,0.3415,13115.23,Henry Davis,Education
+ORD-00918,2024-12-19,north america,Canada,Electronics,Wireless Headphones,14,88.77,0.1673,,Bob Smith,Education
+ORD-00640,2024-06-16,Asia pacific,INDIA,Accessories,Desk Mat XL,4,$1869.67,0.0344,7221.41,Henry Davis,Government
+ORD-00177,2023-05-28,EUROPE,France,Electronics,Webcam HD,12,2960.49,0.1645,29681.87,David Lee,Education
+ORD-00995,2023-12-08,North America,canada,Hardware,RAM 32GB,5,1381.65,0.1355,5972.18,Iris Chen,Education
+ORD-00441,2023-12-12,europe,SPAIN,Hardware,RAM 32GB,16,443.09,0.3635,4512.43,Grace Kim,Education
+ORD-00522,2023-12-29,North America,canada,Accessories,Keyboard Mechanical,18,2059.61,0.3996,22258.62,Bob Smith,SMB
+ORD-01005,2023-07-24,europe,germany,Hardware,GPU Unit,21,2305.29,0.1873,,Eva Martinez,Startup
+ORD-00144,2023-11-23,europe,Germany,Services,Audit Report,14,$1164.63,0.101,14658.03,Bob Smith,Startup
+ORD-00754,2023-08-18,europe,italy,Hardware,Server Rack,28,1405.08,0.3416,25902.93,Alice Johnson,Startup
+ORD-00520,2023-02-06,north america,Canada,Software,Security Suite,22,2767.61,0.2135,47887.96,Carol White,Government
+ORD-00823,2024-06-29,EUROPE,SPAIN,Software,Project Manager,76,1286.34,0.2253,75736.1,Grace Kim,Education
+ORD-00429,2023-07-24,North America,Canada,Accessories,Desk Mat XL,28,2241.0,0.0856,,David Lee,SMB
+ORD-00613,2024-04-01,europe,France,Services,Training Bundle,15,46.44,,600.05,Iris Chen,Enterprise
+ORD-01033,2024-10-27,EUROPE,SPAIN,Services,Support Plan,16,$134.8,0.2284,1664.19,Frank Brown,Government
+ORD-00157,2023-05-27,middle east,UAE,Electronics,Webcam HD,54,2405.27,0.4288,74190.07,Jack Wilson,Government
+ORD-00540,2024-05-21,middle east,turkey,Electronics,USB Hub,7,2444.05,0.1705,14191.38,Alice Johnson,Enterprise
+ORD-00462,2024-07-09,north america,UNITED STATES,Hardware,Network Switch,12,128.06,0.2516,1150.08,Henry Davis,SMB
+ORD-00577,2023-02-16,europe,UK,Electronics,USB Hub,14,971.54,0.096,12295.81,Jack Wilson,SMB
+ORD-00256,2023-02-12,EUROPE,SPAIN,Electronics,4K Monitor,8,2471.61,0.3702,,Henry Davis,Education
+ORD-00980,2024-05-09,EUROPE,SPAIN,Accessories,Mouse Ergonomic,22,1987.18,,37383.23,David Lee,Enterprise
+ORD-01007,2024-07-26,North America,canada,Hardware,RAM 32GB,24,1404.98,0.2076,,Alice Johnson,Government
+ORD-00561,2023-04-17,Asia pacific,australia,Accessories,Keyboard Mechanical,15,$2496.74,0.044,35803.25,Henry Davis,Startup
+ORD-00209,2024-10-20,north america,canada,Accessories,Mouse Ergonomic,18,1287.32,0.4375,13034.11,Grace Kim,Education
+ORD-00911,2024-12-29,middle east,ISRAEL,Electronics,4K Monitor,9,1988.57,0.3648,11368.26,Bob Smith,Enterprise
+ORD-00002,2024-12-19,north america,United States,Electronics,Wireless Headphones,10,1810.03,0.3222,12268.38,Iris Chen,Government
+ORD-00270,2024-01-29,europe,SPAIN,Services,Support Plan,13,310.38,0.2653,2964.47,Frank Brown,Government
+ORD-00266,2024-11-02,EUROPE,UK,Software,CRM Suite,4,923.46,0.1054,3304.51,Bob Smith,Enterprise
+ORD-00915,2024-12-11,ASIA PACIFIC,South Korea,Accessories,Mouse Ergonomic,11,1747.07,0.26,14221.15,David Lee,Enterprise
+ORD-00231,2024-03-17,EUROPE,Germany,Electronics,4K Monitor,6,$2286.42,0.0393,13179.38,Henry Davis,Education
+ORD-00809,2024-09-04,north america,Canada,Hardware,RAM 32GB,33,463.49,0.0171,15033.62,Henry Davis,Startup
+ORD-01089,2023-11-16,north america,canada,Accessories,Mouse Ergonomic,9,1768.7,0.3742,9961.67,Frank Brown,Government
+ORD-00865,2024-09-14,middle east,uae,Services,Consulting Package,7,2104.35,0.2482,11074.35,Bob Smith,Enterprise
+ORD-00874,2023-08-11,EUROPE,UK,Hardware,RAM 32GB,6,647.06,0.256,2888.48,Eva Martinez,Education
+ORD-01066,2024-06-05,ASIA PACIFIC,INDIA,Hardware,RAM 32GB,4,2202.98,0.2653,6474.12,Bob Smith,SMB
+ORD-00399,2023-06-02,europe,SPAIN,Software,CRM Suite,11,1634.96,,14164.64,Frank Brown,Government
+ORD-01088,2024-05-31,europe,germany,Services,Support Plan,14,2631.09,0.0344,35568.13,Grace Kim,Enterprise
+ORD-00046,2024-05-01,North America,UNITED STATES,Accessories,Docking Station,6,2721.49,0.0716,15159.79,Henry Davis,Startup
+ORD-00162,2024-10-15,EUROPE,SPAIN,Accessories,Desk Mat XL,22,2555.56,0.4173,32760.75,Carol White,Startup
+ORD-00992,2023-09-28,Asia pacific,australia,Services,Support Plan,2,2001.42,0.0094,3965.21,Bob Smith,SMB
+ORD-00728,2024-08-26,EUROPE,UK,Hardware,SSD 2TB,16,1462.91,,21908.54,Grace Kim,Enterprise
+ORD-00630,2024-06-01,Asia pacific,australia,Accessories,Desk Mat XL,29,2566.85,0.2758,53908.47,Jack Wilson,Enterprise
+ORD-00289,2023-06-09,North America,UNITED STATES,Hardware,Network Switch,15,616.1,0.2631,6810.06,Bob Smith,SMB
+ORD-01060,2024-03-04,North America,canada,Accessories,Keyboard Mechanical,9,1963.45,0.202,,David Lee,Education
+ORD-00239,2024-11-20,ASIA PACIFIC,China,Services,Training Bundle,7,216.77,0.3578,974.47,Henry Davis,SMB
+ORD-00576,2023-07-27,Asia pacific,South Korea,Electronics,Laptop Pro 15,2,1788.97,0.0284,3476.33,Grace Kim,Startup
+ORD-00851,2024-01-20,LATIN AMERICA,Brazil,Electronics,Wireless Headphones,7,915.03,0.0776,5908.17,Bob Smith,Government
+ORD-00912,2023-03-10,Asia pacific,China,Hardware,Network Switch,14,2166.81,0.2153,23804.14,Bob Smith,Education
+ORD-01081,2023-03-04,ASIA PACIFIC,South Korea,Services,Support Plan,2994,1527.38,0.3523,2961916.37,Iris Chen,Startup
+ORD-00933,2024-04-16,middle east,Saudi Arabia,Electronics,4K Monitor,3,$1066.56,0.3198,2176.42,Eva Martinez,Government
+ORD-00248,2024-12-21,north america,canada,Software,Project Manager,7,1172.61,0.0926,7448.18,Bob Smith,Education
+ORD-00477,2023-06-27,EUROPE,SPAIN,Services,Audit Report,19,2205.45,0.3568,26952.36,Henry Davis,Education
+ORD-00086,2024-11-10,europe,France,Services,Consulting Package,8,1424.19,0.1716,9438.39,Carol White,Government
+ORD-00470,2024-06-22,middle east,UAE,Software,Cloud Storage,7,2178.25,0.0853,13947.12,David Lee,Education
+ORD-00226,2024-02-12,north america,Canada,Hardware,Server Rack,29,1765.23,0.3207,34774.5,Bob Smith,Startup
+ORD-00775,2024-08-18,ASIA PACIFIC,China,Hardware,SSD 2TB,20,1455.05,0.2132,22896.67,Grace Kim,Education
+ORD-00332,2023-01-09,LATIN AMERICA,CHILE,Services,Audit Report,872,1427.54,0.0779,1147843.8,David Lee,Startup
+ORD-00234,2023-03-20,middle east,ISRAEL,Hardware,RAM 32GB,7,509.94,0.1349,3088.04,Frank Brown,Startup
+ORD-00589,2024-08-14,North America,Canada,Hardware,GPU Unit,23,2385.74,0.4075,32511.67,Iris Chen,SMB
+ORD-00476,2023-08-27,Asia pacific,Japan,Electronics,Webcam HD,9,423.83,0.262,2815.08,Eva Martinez,Startup
+ORD-00600,2024-12-10,EUROPE,italy,Accessories,Docking Station,16,1361.41,0.303,15182.44,Bob Smith,SMB
+ORD-00422,2024-02-14,Asia pacific,Japan,Hardware,Network Switch,49,$2927.17,0.1242,125617.16,Frank Brown,Government
+ORD-00183,2023-11-18,ASIA PACIFIC,Japan,Software,Cloud Storage,5,981.89,,3748.37,Carol White,Government
+ORD-00989,2024-02-06,middle east,Saudi Arabia,Electronics,USB Hub,10,687.12,,4657.99,Grace Kim,Enterprise
+ORD-01001,2024-08-30,Asia pacific,australia,Services,Training Bundle,37,891.22,0.0978,29750.17,Bob Smith,Enterprise
+ORD-00050,2024-07-13,north america,mexico,Hardware,RAM 32GB,2,2860.75,0.3364,,Jack Wilson,SMB
+ORD-01120,2024-10-15,EUROPE,France,Hardware,GPU Unit,28,70.11,0.0047,1953.85,Frank Brown,Government
+ORD-01030,2024-08-19,LATIN AMERICA,brazil,Accessories,Docking Station,5,1859.74,0.4013,5567.13,Henry Davis,Startup
+ORD-00530,2024-12-22,north america,canada,Accessories,Docking Station,5,1632.15,0.122,7165.14,Eva Martinez,Education
+ORD-00487,2024-08-19,middle east,uae,Services,Audit Report,7,432.62,0.0083,3003.2,Iris Chen,Enterprise
+ORD-00498,2024-05-29,LATIN AMERICA,brazil,Software,Analytics Dashboard,10,1084.18,0.2145,8516.23,Jack Wilson,Government
+ORD-00107,2023-05-14,LATIN AMERICA,Argentina,Hardware,Network Switch,55,1791.98,0.4428,54917.02,Iris Chen,Startup
+ORD-00444,2024-02-11,LATIN AMERICA,Argentina,Services,Consulting Package,11,2811.0,0.0242,30172.71,Iris Chen,Enterprise
+ORD-00647,2024-03-08,EUROPE,UK,Electronics,4K Monitor,1,$1619.86,0.296,1140.38,Jack Wilson,Education
+ORD-01037,2023-12-25,north america,United States,Software,CRM Suite,4,388.87,0.0197,,Jack Wilson,SMB
+ORD-00727,2023-02-11,Asia pacific,South Korea,Hardware,Server Rack,12,1231.76,0.2573,10977.94,Iris Chen,SMB
+ORD-00191,2024-10-18,middle east,UAE,Electronics,4K Monitor,8,330.82,0.1281,,Iris Chen,Education
+ORD-00283,2023-10-17,north america,Canada,Software,Cloud Storage,43,$2862.69,0.2093,97331.75,Eva Martinez,Startup
+ORD-00030,2023-05-14,ASIA PACIFIC,australia,Electronics,Laptop Pro 15,9,$2489.74,0.1501,19044.27,Eva Martinez,SMB
+ORD-00170,2024-05-10,middle east,turkey,Software,Project Manager,6,$228.18,,1098.28,Henry Davis,SMB
+ORD-01002,2023-10-18,ASIA PACIFIC,australia,Electronics,Webcam HD,25,$2503.98,,58718.33,Iris Chen,Education
+ORD-00101,2024-04-20,EUROPE,germany,Software,Project Manager,3487,2746.61,0.0284,9305430.08,Eva Martinez,Government
+ORD-00198,2024-06-24,ASIA PACIFIC,South Korea,Software,Analytics Dashboard,13,1791.48,0.2365,17781.33,Frank Brown,Enterprise
+ORD-00496,2023-01-31,North America,United States,Accessories,Docking Station,18,363.97,0.3958,3958.39,Frank Brown,Government
+ORD-00648,2024-08-09,europe,UK,Electronics,Webcam HD,11,2957.43,0.1756,26819.16,Bob Smith,Government
+ORD-00988,2023-02-24,ASIA PACIFIC,South Korea,Services,Consulting Package,24,1942.56,0.0988,42015.24,Alice Johnson,Education
+ORD-00045,2023-05-17,europe,France,Software,Cloud Storage,3,1676.63,0.0546,4755.26,Henry Davis,Education
+ORD-00711,2023-04-12,EUROPE,France,Hardware,Network Switch,14,2127.4,,23103.14,Carol White,Startup
+ORD-00374,2023-06-14,north america,canada,Electronics,Laptop Pro 15,26,$168.65,0.1201,3858.27,Eva Martinez,Startup
+ORD-00679,2024-01-05,Asia pacific,australia,Electronics,4K Monitor,25,392.33,0.3757,6123.29,Grace Kim,Startup
+ORD-00567,2023-01-20,EUROPE,italy,Hardware,Server Rack,2,220.52,0.3498,286.76,Henry Davis,SMB
+ORD-00848,2023-08-03,north america,mexico,Services,Support Plan,86,1331.22,0.4037,68267.36,David Lee,SMB
+ORD-00461,2023-12-22,North America,Canada,Accessories,Keyboard Mechanical,58,705.69,0.3549,26403.96,Henry Davis,SMB
+ORD-00040,2023-06-28,europe,germany,Hardware,GPU Unit,14,1267.12,0.3048,12332.63,Jack Wilson,Education
+ORD-00435,2024-04-06,Asia pacific,INDIA,Services,Support Plan,40,2259.06,0.1803,74070.06,Carol White,Education
+ORD-00974,2023-01-17,ASIA PACIFIC,australia,Software,Project Manager,7,1605.06,0.1518,9529.88,Bob Smith,Government
+ORD-01008,2024-08-02,EUROPE,France,Accessories,Desk Mat XL,20,1745.15,0.2794,25151.1,Eva Martinez,Enterprise
+ORD-00457,2024-07-16,LATIN AMERICA,colombia,Services,Training Bundle,11,484.24,0.3351,3541.68,Iris Chen,Enterprise
+ORD-00261,2023-04-06,europe,italy,Software,Cloud Storage,5,1887.15,0.034,9114.93,Grace Kim,Education
+ORD-00036,2024-02-14,LATIN AMERICA,colombia,Hardware,SSD 2TB,4,2900.99,0.2887,8253.9,Iris Chen,Startup
+ORD-00828,2024-11-19,middle east,UAE,Services,Consulting Package,8,1033.02,0.2151,6486.54,Bob Smith,Enterprise
+ORD-00310,2024-08-14,europe,France,Services,Integration Service,10,1060.17,0.373,6647.27,David Lee,SMB
+ORD-00277,2024-09-15,EUROPE,UK,Services,Support Plan,14,267.77,0.204,2984.03,Alice Johnson,Startup
+ORD-00637,2024-03-10,Asia pacific,Japan,Hardware,Network Switch,23,1788.92,0.0552,38873.95,Henry Davis,Startup
+ORD-00655,2023-08-30,North America,United States,Software,Project Manager,95,868.25,,56988.02,Grace Kim,SMB
+ORD-00623,2024-06-14,North America,mexico,Hardware,SSD 2TB,54,1744.33,0.0058,93647.5,Eva Martinez,Startup
+ORD-00845,2024-12-18,europe,Germany,Hardware,Network Switch,13,639.72,0.3647,5283.38,Alice Johnson,SMB
+ORD-00394,2024-11-02,EUROPE,UK,Electronics,Wireless Headphones,52,1466.69,0.0577,71867.22,David Lee,Enterprise
+ORD-00108,2023-05-10,Asia pacific,Japan,Electronics,Wireless Headphones,2749,$1770.66,0.1194,4286359.55,Grace Kim,Education
+ORD-00350,2023-04-18,europe,germany,Electronics,USB Hub,10,1820.84,0.3738,11402.1,Iris Chen,Education
+ORD-00525,2023-01-26,middle east,Saudi Arabia,Electronics,4K Monitor,6,2335.58,0.1997,11214.99,Henry Davis,Education
+ORD-00785,2024-08-04,LATIN AMERICA,colombia,Services,Integration Service,19,2074.64,0.2641,29007.82,Alice Johnson,SMB
+ORD-00048,2023-12-05,EUROPE,France,Software,Analytics Dashboard,28,466.88,0.1867,,Iris Chen,Government
+ORD-00204,2024-07-11,europe,SPAIN,Software,Analytics Dashboard,28,2270.97,0.2084,50335.6,Grace Kim,Education
+ORD-00022,2024-04-10,ASIA PACIFIC,INDIA,Software,Project Manager,10,$502.25,0.1757,4140.05,Eva Martinez,Government
+ORD-00403,2023-09-27,ASIA PACIFIC,Japan,Electronics,4K Monitor,12,2905.63,0.1231,30575.36,Jack Wilson,Education
+ORD-01108,2023-11-16,middle east,uae,Electronics,Wireless Headphones,5,1138.15,0.2135,4475.77,Iris Chen,Startup
+ORD-00990,2023-10-22,LATIN AMERICA,CHILE,Services,Support Plan,12,618.68,0.3176,5066.25,Alice Johnson,Enterprise
+ORD-00742,2024-09-27,Asia pacific,China,Accessories,Cable Kit,4,$1669.9,0.3657,4236.87,Eva Martinez,SMB
+ORD-01148,2023-02-20,LATIN AMERICA,brazil,Hardware,SSD 2TB,3,1622.07,0.3124,3346.01,Frank Brown,Education
+ORD-00034,2024-12-19,north america,Canada,Hardware,RAM 32GB,5,2593.54,0.1201,11410.28,Bob Smith,Government
+ORD-00788,2023-08-27,Asia pacific,Japan,Accessories,Cable Kit,2430,217.77,0.1277,461604.67,Eva Martinez,Education
+ORD-00924,2023-04-17,North America,UNITED STATES,Services,Support Plan,6,1120.71,0.1215,,Bob Smith,Startup
+ORD-01044,2023-09-26,middle east,UAE,Accessories,Desk Mat XL,11,2731.05,0.1513,25496.26,Jack Wilson,SMB
+ORD-00857,2024-06-15,North America,canada,Software,Project Manager,6,1977.89,,11620.5,Eva Martinez,Education
+ORD-00580,2023-06-28,middle east,turkey,Services,Support Plan,30,1923.07,0.1854,,Jack Wilson,Enterprise
+ORD-00482,2023-07-22,middle east,UAE,Services,Audit Report,5,2096.62,0.2164,8214.56,Henry Davis,Government
+ORD-00932,2024-04-10,north america,Canada,Hardware,GPU Unit,54,2394.17,,100260.66,Frank Brown,SMB
+ORD-00357,2024-05-09,Asia pacific,Japan,Software,CRM Suite,12,$2534.6,0.4101,17941.93,Jack Wilson,Government
+ORD-00760,2024-01-29,europe,Germany,Accessories,Cable Kit,21,1802.72,0.0048,37675.41,Henry Davis,Government
+ORD-00093,2024-04-12,Asia pacific,Japan,Services,Training Bundle,6,904.46,0.3106,3741.21,Eva Martinez,SMB
+ORD-00804,2023-01-13,europe,Germany,Software,Analytics Dashboard,8,$976.86,0.2943,5514.96,Grace Kim,SMB
+ORD-00746,2024-10-23,LATIN AMERICA,CHILE,Hardware,Network Switch,6,$1802.54,0.3113,7448.46,Alice Johnson,Education
+ORD-00280,2023-04-16,ASIA PACIFIC,South Korea,Hardware,Server Rack,8,1704.98,0.1148,12073.99,Jack Wilson,Enterprise
+ORD-00765,2023-07-13,north america,UNITED STATES,Hardware,Network Switch,30,1925.25,0.0308,55978.57,Henry Davis,Government
+ORD-00605,2023-10-19,Asia pacific,australia,Software,Project Manager,16,871.55,0.0668,13013.29,Henry Davis,SMB
+ORD-00808,2023-09-07,north america,Canada,Electronics,USB Hub,8,380.92,0.1928,2459.83,Jack Wilson,Enterprise
+ORD-00401,2023-05-30,Asia pacific,South Korea,Software,Project Manager,3,1703.4,0.3925,3104.45,Henry Davis,Startup
+ORD-00258,2023-07-31,LATIN AMERICA,Argentina,Accessories,Desk Mat XL,6,1834.67,0.2773,7955.5,David Lee,Enterprise
+ORD-00945,2023-07-12,north america,UNITED STATES,Software,Project Manager,53,$1739.34,,61247.73,Grace Kim,Education
+ORD-01097,2023-07-22,europe,germany,Electronics,Webcam HD,12,50.73,,575.46,Henry Davis,Enterprise
+ORD-00966,2023-07-30,Asia pacific,China,Hardware,RAM 32GB,38,2381.52,0.0745,83755.68,Henry Davis,Government
+ORD-00495,2024-11-02,LATIN AMERICA,Argentina,Hardware,GPU Unit,41,1295.88,0.3465,34721.16,Jack Wilson,SMB
+ORD-00773,2024-06-04,LATIN AMERICA,brazil,Hardware,Network Switch,20,169.23,0.3928,,Jack Wilson,Government
+ORD-00551,2024-08-10,middle east,uae,Electronics,4K Monitor,13,42.23,0.4077,325.17,Frank Brown,Government
+ORD-00202,2024-10-23,north america,United States,Services,Consulting Package,19,548.13,0.2887,7407.81,Grace Kim,Startup
+ORD-00313,2024-07-07,north america,United States,Hardware,Network Switch,23,1233.74,0.4165,16557.41,Eva Martinez,Startup
+ORD-00291,2023-09-12,EUROPE,France,Hardware,GPU Unit,10,2509.41,0.041,24065.24,Frank Brown,Government
+ORD-00764,2023-05-29,ASIA PACIFIC,australia,Accessories,Desk Mat XL,11,2911.1,0.296,22543.56,Alice Johnson,SMB
+ORD-01137,2023-06-04,ASIA PACIFIC,China,Electronics,Wireless Headphones,31,287.61,0.0809,8194.61,Eva Martinez,Startup
+ORD-00950,2024-07-11,EUROPE,Germany,Electronics,Laptop Pro 15,14,1239.72,0.3383,11484.52,Bob Smith,Government
+ORD-00184,2023-08-19,North America,canada,Hardware,SSD 2TB,17,584.86,,7446.03,Eva Martinez,Startup
+ORD-00198,2024-06-24,ASIA PACIFIC,South Korea,Software,Analytics Dashboard,13,1791.48,0.2365,17781.33,Frank Brown,Enterprise
+ORD-01069,2024-03-16,europe,UK,Software,Analytics Dashboard,8,2835.7,0.3289,15224.31,Iris Chen,Startup
+ORD-01031,2024-07-14,north america,United States,Hardware,RAM 32GB,9,1010.27,0.0627,8522.33,Frank Brown,Enterprise
+ORD-00251,2024-06-07,EUROPE,germany,Software,Security Suite,4,923.08,0.312,2540.32,Grace Kim,Government
+ORD-00824,2023-08-03,middle east,turkey,Electronics,Laptop Pro 15,9,2332.3,0.0642,19643.1,Grace Kim,Startup
+ORD-01100,2024-04-28,Asia pacific,australia,Accessories,Mouse Ergonomic,16,2856.46,0.272,33272.05,Henry Davis,SMB
+ORD-00941,2024-06-21,EUROPE,France,Electronics,4K Monitor,4,902.02,0.3921,2193.35,David Lee,Startup
+ORD-00392,2024-09-23,LATIN AMERICA,CHILE,Software,Project Manager,18,2555.85,0.0828,42196.06,Eva Martinez,SMB
+ORD-01093,2023-08-01,EUROPE,germany,Hardware,SSD 2TB,21,$1893.43,0.2524,29726.09,Henry Davis,Education
+ORD-00905,2024-05-06,north america,United States,Electronics,USB Hub,14,1021.78,0.091,13003.17,Jack Wilson,Government
+ORD-00731,2024-02-09,ASIA PACIFIC,INDIA,Software,Security Suite,14,1878.05,0.1743,21709.88,Frank Brown,Education
+ORD-00555,2023-02-03,Asia pacific,INDIA,Hardware,Network Switch,15,2105.31,0.3597,20220.45,Frank Brown,Enterprise
+ORD-00367,2023-09-18,North America,United States,Electronics,Wireless Headphones,14,2467.29,0.1841,28182.87,Jack Wilson,SMB
+ORD-00346,2024-12-04,EUROPE,Germany,Hardware,SSD 2TB,14,1565.65,0.1951,17642.68,Carol White,Startup
+ORD-00536,2024-08-11,EUROPE,italy,Electronics,4K Monitor,12,2538.83,0.1569,25685.85,Carol White,Education
+ORD-00920,2024-10-22,Asia pacific,INDIA,Software,Cloud Storage,14,905.52,0.1518,10752.87,Alice Johnson,Startup
+ORD-00212,2024-09-09,ASIA PACIFIC,australia,Electronics,USB Hub,30,579.53,0.3032,12114.5,Alice Johnson,Enterprise
+ORD-00503,2024-04-17,europe,SPAIN,Electronics,Wireless Headphones,3,1200.13,0.3724,2259.6,Carol White,Government
+ORD-00538,2024-03-21,LATIN AMERICA,brazil,Software,Project Manager,8,1028.73,0.2659,6041.53,Jack Wilson,Startup
+ORD-00176,2024-07-17,europe,Germany,Accessories,Docking Station,23,$1664.13,0.2269,29590.39,Eva Martinez,Education

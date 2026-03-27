@@ -1,0 +1,77 @@
+[
+  {
+    "operation": "fill_missing",
+    "column": "revenue",
+    "params": {
+      "strategy": "mean",
+      "fill_value": null
+    },
+    "timestamp": "2026-03-27T09:50:49.460644+00:00"
+  },
+  {
+    "operation": "fill_missing",
+    "column": "discount_pct",
+    "params": {
+      "strategy": "median",
+      "fill_value": null
+    },
+    "timestamp": "2026-03-27T09:50:49.460675+00:00"
+  },
+  {
+    "operation": "drop_duplicates",
+    "column": "all",
+    "params": {
+      "subset": null,
+      "keep": "first",
+      "rows_dropped": 50
+    },
+    "timestamp": "2026-03-27T09:50:49.460678+00:00"
+  },
+  {
+    "operation": "convert_type",
+    "column": "unit_price",
+    "params": {
+      "target_type": "float",
+      "datetime_format": null
+    },
+    "timestamp": "2026-03-27T09:50:49.460680+00:00"
+  },
+  {
+    "operation": "standardize_categorical",
+    "column": "region",
+    "params": {
+      "operations": [
+        "trim",
+        "lower"
+      ]
+    },
+    "timestamp": "2026-03-27T09:50:49.460681+00:00"
+  },
+  {
+    "operation": "cap_outliers_iqr",
+    "column": "units_sold",
+    "params": {
+      "lower_bound": -87.5,
+      "upper_bound": 237.5
+    },
+    "timestamp": "2026-03-27T09:50:49.460683+00:00"
+  },
+  {
+    "operation": "normalize_minmax",
+    "column": "units_sold",
+    "params": {
+      "min": 1.0,
+      "max": 237.5
+    },
+    "timestamp": "2026-03-27T09:50:49.460684+00:00"
+  },
+  {
+    "operation": "rename_column",
+    "column": "region",
+    "params": {
+      "old_name": "region",
+      "new_name": "Region"
+    },
+    "timestamp": "2026-03-27T09:50:49.460686+00:00"
+  }
+]

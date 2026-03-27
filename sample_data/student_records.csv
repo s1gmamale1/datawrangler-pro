@@ -1,0 +1,1101 @@
+student_id,name,age,gender,major,attendance_pct,hw_score,exam_score,final_grade,gpa,year,scholarship
+STU-36975,Thomas Jones,19,Female,computer science,51.58,59.17,90.83,B,1.55,2,True
+STU-69950,Jessica Davis,19,Non-binary,Physics,94.1,70.1,92.51,B,3.65,2,False
+STU-98841,Mary Lopez,24,non-binary,engineering,,45.64,73.33,D,3.14,4,True
+STU-35735,Barbara Martin,20,NON-BINARY,ENGINEERING,67.19,58.14,72.32,D,,2,False
+STU-60609,William Jackson,19,F,engineering,53.95,92.96,69.58,C,2.71,4,False
+STU-26741,Jennifer Williams,18,F,PHYSICS,96.16,78.41,74.33,C,1.47,3,False
+STU-57167,Sarah Rodriguez,24,Male,Computer Science,69.0,65.2,97.31,B,2.08,3,True
+STU-88541,Charles Hernandez,88,Male,mathematics,50.52,62.45,77.82,C,3.05,1,False
+STU-11953,Jennifer Davis,17,Male,COMPUTER SCIENCE,84.58,63.16,60.38,D,,4,False
+STU-57046,Barbara Moore,20,female,MATHEMATICS,70.9,74.07,49.66,F,1.59,4,True
+STU-79672,Linda Thomas,17,M,Mathematics,74.33,58.41,45.98,H,3.67,3,True
+STU-43607,Jessica Anderson,23,M,Engineering,77.67,88.55,97.53,A,,1,False
+STU-84059,Michael Garcia,20,Non-binary,ECONOMICS,53.76,77.28,80.02,C,3.86,2,False
+STU-18281,Sarah Thomas,18,Non-binary,MATHEMATICS,,75.67,70.13,C,1.13,1,False
+STU-97557,David Taylor,22,female,ECONOMICS,,72.6,36.62,F,3.49,1,False
+STU-76597,Linda Lopez,24,NON-BINARY,COMPUTER SCIENCE,,59.52,95.65,B,3.1,4,False
+STU-72026,Mary Lopez,20,FEMALE,COMPUTER SCIENCE,52.45,90.47,86.25,B,3.44,4,False
+STU-81700,James Moore,22,F,PSYCHOLOGY,51.57,50.18,47.98,F,1.58,2,False
+STU-10250,Susan Moore,23,NON-BINARY,mathematics,83.0,73.87,72.8,C,,4,False
+STU-20372,Jennifer Jackson,22,F,Computer Science,96.55,56.39,39.44,F,3.38,2,False
+STU-46057,Charles Miller,18,Female,Engineering,89.19,75.53,50.85,F,2.19,3,True
+STU-36975,Thomas Jones,19,Female,computer science,51.58,59.17,90.83,B,1.55,2,True
+STU-63887,Richard Taylor,24,non-binary,Physics,92.89,48.75,57.24,F,3.0,2,False
+STU-80286,Jennifer Brown,21,Non-binary,ENGINEERING,58.58,72.77,81.42,C,3.19,4,False
+STU-87417,Thomas Taylor,25,F,Physics,,66.59,82.32,C,,2,False
+STU-59291,Lisa Jackson,21,male,engineering,73.67,54.21,95.31,B,3.16,3,False
+STU-26706,Linda Jones,19,Male,physics,54.43,56.72,99.12,B,3.19,1,True
+STU-89578,Sarah Brown,19,M,Engineering,51.93,40.85,38.73,F,2.06,2,False
+STU-84725,John Hernandez,24,Male,PHYSICS,,80.05,49.17,F,3.5,2,False
+STU-23478,Jessica Williams,25,female,ENGINEERING,99.05,71.04,59.57,D,2.71,4,False
+STU-30058,William Hernandez,18,Non-binary,BUSINESS ADMINISTRATION,53.76,58.5,50.99,X,1.98,1,False
+STU-13924,Karen Jones,22,Non-binary,MATHEMATICS,,55.96,84.85,C,2.13,4,True
+STU-35030,Charles Miller,26,FEMALE,engineering,77.41,85.84,58.57,D,1.64,2,False
+STU-70630,Joseph Jones,18,F,Mathematics,51.37,52.21,87.88,C,2.08,3,False
+STU-13175,Michael Davis,25,male,COMPUTER SCIENCE,64.63,73.33,88.86,B,3.84,2,False
+STU-14906,Thomas Thomas,19,Non-binary,COMPUTER SCIENCE,67.63,50.45,68.03,D,,4,False
+STU-44617,Jennifer Wilson,19,Male,Physics,73.36,70.93,87.39,B,1.51,1,False
+STU-66280,Jessica Hernandez,21,Female,Engineering,86.27,98.24,51.38,D,1.43,4,False
+STU-91481,Mary Hernandez,17,Non-binary,ENGINEERING,73.37,42.65,33.42,F,3.66,4,True
+STU-56254,Jessica Anderson,22,female,engineering,93.43,67.86,40.69,F,2.16,1,False
+STU-58412,Karen Smith,18,Female,Mathematics,88.66,46.56,96.31,B,2.45,2,False
+STU-12919,John Jones,22,F,ECONOMICS,76.1,73.54,91.09,B,1.91,1,False
+STU-69245,William Gonzalez,26,MALE,ECONOMICS,83.18,67.68,72.73,C,2.63,4,False
+STU-52086,Michael Johnson,26,F,Computer Science,58.96,60.99,41.31,F,2.24,2,False
+STU-56846,John Wilson,21,FEMALE,Mathematics,57.7,93.51,90.31,A,,4,True
+STU-36335,William Thomas,21,male,Psychology,61.03,94.29,31.2,F,2.46,2,False
+STU-31381,Jennifer Williams,21,MALE,engineering,67.12,81.22,87.58,B,,2,False
+STU-93061,David Lopez,19,non-binary,mathematics,74.3,66.32,89.56,B,1.28,1,True
+STU-59701,Joseph Williams,17,female,ENGINEERING,98.62,80.11,59.55,D,1.04,4,True
+STU-89938,David Thomas,21,Female,PHYSICS,50.38,58.4,73.62,D,,1,True
+STU-52396,David Martin,24,male,ENGINEERING,66.14,76.2,64.72,D,2.65,2,False
+STU-22347,Robert Hernandez,21,NON-BINARY,PSYCHOLOGY,79.66,93.47,41.38,F,2.81,4,True
+STU-41361,Charles Brown,17,Non-binary,PSYCHOLOGY,78.59,86.69,99.95,A,1.36,1,True
+STU-64929,Jennifer Smith,19,F,BUSINESS ADMINISTRATION,67.69,51.19,47.91,F,3.67,2,True
+STU-38200,Susan Johnson,17,MALE,Mathematics,94.95,57.51,37.68,F,3.7,1,False
+STU-42927,James Hernandez,25,Male,MATHEMATICS,82.89,65.93,41.8,F,1.81,1,False
+STU-93660,Thomas Thomas,22,Non-binary,business administration,88.8,97.59,74.65,B,3.61,3,True
+STU-88142,Joseph Wilson,17,FEMALE,Physics,,84.27,58.8,D,2.42,4,False
+STU-66224,Jennifer Wilson,20,female,Engineering,91.49,71.06,46.82,Pass,3.43,4,True
+STU-75130,Richard Martin,24,non-binary,PHYSICS,82.4,51.92,71.32,D,3.44,4,False
+STU-78584,William Martin,18,FEMALE,Physics,80.16,84.76,98.32,A,1.46,2,False
+STU-37463,David Miller,17,F,BIOLOGY,99.22,45.77,88.61,C,1.3,4,True
+STU-60674,Lisa Davis,25,Non-binary,MATHEMATICS,63.34,93.63,53.17,D,,1,True
+STU-71637,Jessica Rodriguez,81,female,PSYCHOLOGY,72.32,71.26,86.65,B,3.57,3,True
+STU-19522,Susan Smith,26,female,mathematics,68.15,90.63,69.85,C,1.07,2,False
+STU-74417,James Lopez,26,FEMALE,PSYCHOLOGY,94.93,49.85,44.89,F,3.75,3,True
+STU-80657,John Taylor,19,non-binary,PHYSICS,75.67,75.79,83.69,B,1.45,4,False
+STU-20972,Robert Martin,22,NON-BINARY,mathematics,57.55,57.15,34.99,F,3.87,4,False
+STU-60960,Barbara Moore,22,FEMALE,Economics,61.14,66.22,41.95,F,3.45,2,True
+STU-24095,William Jackson,25,MALE,Economics,64.22,43.9,72.43,D,2.93,1,False
+STU-60635,Susan Moore,24,male,Psychology,81.45,60.37,91.05,B,1.47,1,False
+STU-30571,Karen Jackson,25,non-binary,COMPUTER SCIENCE,83.03,94.61,53.07,D,3.8,2,True
+STU-81302,Mary Taylor,17,Female,Biology,83.23,49.88,45.87,F,2.0,1,True
+STU-91375,Lisa Johnson,19,MALE,Physics,62.89,93.72,95.42,A,1.78,2,True
+STU-94122,Jessica Moore,18,MALE,Engineering,,89.25,84.3,B,1.11,3,False
+STU-71619,Richard Gonzalez,21,female,business administration,68.34,70.76,99.56,A,3.12,2,True
+STU-30416,James Miller,24,male,ENGINEERING,,48.78,66.29,D,2.62,3,False
+STU-52339,Mary Jones,21,Non-binary,computer science,98.65,45.67,49.28,F,1.71,2,True
+STU-98984,Robert Miller,18,Female,Engineering,87.29,89.37,70.06,C,2.73,4,False
+STU-68288,Robert Johnson,21,FEMALE,COMPUTER SCIENCE,85.89,63.68,58.01,F,1.04,2,False
+STU-26934,Linda Wilson,25,FEMALE,computer science,73.48,45.5,33.43,F,1.14,2,False
+STU-48401,John Smith,24,F,PHYSICS,84.18,66.62,46.93,F,2.38,1,False
+STU-44184,Jennifer Williams,19,NON-BINARY,BIOLOGY,77.0,57.23,66.56,D,1.45,3,False
+STU-58932,Karen Gonzalez,23,M,BIOLOGY,67.56,64.48,82.61,C,2.92,4,False
+STU-89594,Lisa Gonzalez,20,M,Business Administration,,40.96,73.05,D,1.48,3,False
+STU-25247,Barbara Smith,22,male,Engineering,91.33,62.31,88.65,H,2.8,3,False
+STU-45829,Charles Jones,21,Non-binary,Economics,64.08,57.12,53.06,F,1.37,1,False
+STU-84839,Barbara Gonzalez,25,M,Economics,90.1,90.82,37.88,F,1.87,4,False
+STU-29394,Karen Davis,20,M,engineering,95.26,95.56,78.82,B,2.24,4,False
+STU-30058,William Hernandez,18,Non-binary,BUSINESS ADMINISTRATION,53.76,58.5,50.99,X,1.98,1,False
+STU-90362,Lisa Williams,23,male,MATHEMATICS,74.05,49.62,98.05,B,3.94,4,False
+STU-24760,Charles Smith,18,Male,ENGINEERING,55.35,52.38,40.11,F,3.36,3,True
+STU-80827,Susan Williams,19,FEMALE,PHYSICS,,74.74,36.76,F,3.96,4,False
+STU-26366,Karen Martin,18,FEMALE,physics,97.47,42.46,88.66,C,2.88,4,False
+STU-36011,Richard Moore,18,FEMALE,ECONOMICS,87.5,89.15,84.35,B,3.23,4,False
+STU-31013,Susan Smith,21,male,computer science,73.0,82.64,67.9,C,,3,False
+STU-32821,Sarah Jackson,17,male,physics,58.23,67.13,46.74,F,1.66,2,False
+STU-46808,Barbara Thomas,21,Male,physics,98.16,51.28,78.28,C,3.99,1,False
+STU-69151,Robert Hernandez,26,FEMALE,engineering,,81.56,87.41,B,1.06,3,True
+STU-56128,Susan Davis,23,Female,PSYCHOLOGY,87.69,81.99,87.06,B,3.34,3,True
+STU-62907,Mary Martinez,23,MALE,business administration,63.45,43.12,34.81,F,2.76,1,False
+STU-94071,Robert Brown,17,MALE,PHYSICS,54.12,60.13,53.2,F,2.99,2,False
+STU-61796,David Garcia,26,non-binary,Biology,98.37,40.04,50.4,F,3.43,1,False
+STU-43393,Jennifer Jackson,19,non-binary,BIOLOGY,,48.97,85.25,C,3.57,1,True
+STU-31197,Thomas Brown,19,non-binary,Economics,54.17,43.21,65.24,F,2.86,2,True
+STU-62459,Patricia Wilson,17,F,ENGINEERING,93.52,63.46,45.29,F,3.82,1,True
+STU-21723,David Johnson,23,Female,MATHEMATICS,69.42,40.26,94.94,C,2.09,3,False
+STU-42773,Susan Anderson,19,F,Biology,93.97,53.43,50.08,F,3.89,4,True
+STU-62489,John Hernandez,25,F,Physics,68.96,64.12,94.05,B,3.07,4,False
+STU-22982,Jennifer Gonzalez,25,MALE,MATHEMATICS,83.35,91.47,40.18,F,2.43,1,False
+STU-11290,James Smith,21,Female,computer science,82.62,79.49,62.65,D,3.52,1,True
+STU-43514,Richard Johnson,26,MALE,ECONOMICS,74.33,99.1,35.82,F,2.59,3,True
+STU-41962,Jessica Martin,25,Male,BUSINESS ADMINISTRATION,51.19,83.44,51.39,D,,1,False
+STU-16045,Michael Davis,26,MALE,computer science,,62.23,78.38,N/A,1.14,3,False
+STU-23318,Richard Thomas,19,F,Psychology,83.36,50.22,43.07,H,2.92,4,False
+STU-98212,Patricia Garcia,25,male,business administration,92.62,56.1,42.78,F,2.38,4,False
+STU-46190,David Martinez,18,Non-binary,MATHEMATICS,58.41,85.24,41.38,F,2.65,3,False
+STU-15862,Richard Smith,22,Female,Biology,99.45,97.06,96.0,A,2.64,4,True
+STU-58600,Robert Martinez,22,FEMALE,engineering,65.4,73.8,83.39,Z,1.17,4,True
+STU-76417,Richard Jackson,18,FEMALE,business administration,79.42,98.73,86.25,G,2.84,2,True
+STU-94935,David Thomas,23,non-binary,COMPUTER SCIENCE,,77.5,40.91,F,3.03,4,False
+STU-29593,Patricia Miller,22,Female,COMPUTER SCIENCE,67.74,99.01,64.63,C,2.77,2,True
+STU-43123,Michael Taylor,25,Male,Psychology,65.93,50.01,75.46,D,,4,True
+STU-83832,Sarah Smith,18,female,MATHEMATICS,81.18,44.88,64.37,F,,3,True
+STU-41360,Mary Moore,20,F,computer science,,85.51,96.5,A,1.41,3,True
+STU-10800,Sarah Williams,21,FEMALE,BUSINESS ADMINISTRATION,60.91,49.97,88.02,C,,2,False
+STU-78790,John Moore,17,F,Physics,73.14,43.98,70.82,D,2.81,3,True
+STU-20193,Sarah Garcia,22,female,business administration,89.81,70.06,57.21,D,2.71,1,False
+STU-16089,Jennifer Garcia,22,Female,PHYSICS,80.98,56.77,67.95,D,2.75,2,False
+STU-73349,Linda Garcia,26,FEMALE,COMPUTER SCIENCE,63.4,63.01,98.01,N/A,1.22,3,False
+STU-68114,Robert Rodriguez,17,non-binary,Mathematics,76.03,71.45,84.02,B,,4,True
+STU-70940,Robert Anderson,25,male,Economics,72.21,58.85,95.58,B,,4,True
+STU-51414,John Hernandez,24,Female,ENGINEERING,66.34,79.65,94.86,A,2.45,1,True
+STU-87922,Jessica Gonzalez,22,M,Business Administration,58.85,44.93,86.51,C,3.45,4,True
+STU-72391,William Moore,17,F,Physics,89.79,93.25,37.01,F,1.69,3,True
+STU-82794,Jessica Williams,26,M,COMPUTER SCIENCE,63.05,61.63,50.88,F,1.98,4,False
+STU-42597,William Anderson,22,F,ECONOMICS,63.16,87.62,44.66,F,2.64,3,False
+STU-69208,Patricia Taylor,26,Male,Biology,52.96,62.39,41.8,F,2.59,1,True
+STU-27046,Thomas Moore,17,FEMALE,ECONOMICS,51.06,87.52,46.64,F,,1,False
+STU-60236,Michael Moore,19,MALE,BIOLOGY,87.02,98.72,48.88,D,1.29,4,False
+STU-93816,Linda Martinez,18,non-binary,Economics,78.54,62.82,45.44,F,3.41,2,True
+STU-53521,Lisa Martinez,22,male,Engineering,79.8,59.39,95.8,B,2.19,4,False
+STU-58816,Richard Jones,18,non-binary,Economics,87.88,91.02,37.97,F,2.6,2,False
+STU-81580,Charles Lopez,20,M,engineering,53.72,80.07,50.77,F,1.15,2,False
+STU-95046,Sarah Smith,23,NON-BINARY,computer science,93.65,42.82,71.03,D,3.34,2,False
+STU-95991,Charles Martinez,21,Non-binary,BIOLOGY,62.51,42.82,94.44,C,,3,False
+STU-16644,Karen Johnson,19,female,COMPUTER SCIENCE,69.21,47.94,36.93,F,,4,False
+STU-84778,John Smith,26,male,BIOLOGY,87.46,79.84,36.47,F,1.83,2,True
+STU-46235,Patricia Jackson,20,non-binary,PHYSICS,58.42,93.49,32.18,F,3.17,4,False
+STU-73393,Jessica Williams,18,non-binary,Biology,95.65,85.0,83.76,B,2.36,2,False
+STU-77093,Charles Brown,24,M,Business Administration,63.96,62.89,36.13,F,3.23,2,False
+STU-58066,Barbara Anderson,18,non-binary,business administration,93.04,89.22,46.76,F,1.56,3,True
+STU-52508,Joseph Rodriguez,20,M,MATHEMATICS,,49.68,79.84,G,3.26,3,True
+STU-60922,Linda Johnson,26,NON-BINARY,PSYCHOLOGY,63.87,53.15,60.42,F,3.17,2,False
+STU-45935,David Johnson,83,Male,MATHEMATICS,88.81,62.64,86.48,C,2.48,1,False
+STU-21118,Jennifer Miller,23,MALE,ENGINEERING,61.46,88.76,48.63,D,2.66,3,False
+STU-48198,Patricia Lopez,26,Non-binary,mathematics,95.01,69.86,72.25,C,3.76,4,False
+STU-70415,Jennifer Lopez,22,Non-binary,PHYSICS,61.25,55.64,44.16,F,3.43,2,True
+STU-50437,Lisa Williams,24,Female,physics,73.58,85.88,74.7,C,1.42,4,False
+STU-19932,Michael Garcia,20,male,Engineering,81.76,75.54,72.11,C,1.86,4,True
+STU-38355,Karen Hernandez,83,FEMALE,business administration,53.18,83.32,44.58,F,3.91,3,True
+STU-92470,Barbara Davis,20,non-binary,MATHEMATICS,90.54,62.71,36.74,F,2.66,1,True
+STU-33357,Lisa Hernandez,18,F,Mathematics,58.63,48.53,64.46,F,1.76,2,False
+STU-72581,Richard Moore,24,F,Economics,59.36,94.98,60.37,C,1.74,2,True
+STU-11827,Robert Brown,23,F,PHYSICS,89.73,76.98,30.45,F,2.0,4,True
+STU-32271,David Lopez,18,non-binary,PHYSICS,50.3,40.21,34.09,F,2.7,2,True
+STU-17724,Sarah Garcia,17,MALE,physics,76.82,65.42,63.74,D,3.13,2,False
+STU-83995,Karen Williams,21,MALE,PHYSICS,89.39,57.99,49.14,F,,1,False
+STU-32966,Barbara Martinez,25,male,MATHEMATICS,58.16,47.11,93.72,C,2.68,4,True
+STU-23277,Robert Moore,17,Non-binary,Physics,81.53,62.28,61.39,D,,3,False
+STU-75398,Jessica Wilson,22,Male,BUSINESS ADMINISTRATION,58.84,68.26,92.74,B,1.38,2,False
+STU-64397,Patricia Moore,26,Non-binary,Computer Science,62.22,62.64,63.06,D,1.79,3,False
+STU-22580,Patricia Jones,17,Male,Physics,93.74,43.32,91.95,C,2.19,1,True
+STU-61521,James Williams,21,F,engineering,96.74,73.04,87.48,B,2.26,3,True
+STU-44326,Jessica Johnson,20,Non-binary,BUSINESS ADMINISTRATION,84.42,68.51,73.37,C,,1,True
+STU-59448,John Johnson,23,F,PHYSICS,61.68,85.37,55.99,D,1.25,3,False
+STU-63631,Karen Martin,21,MALE,Psychology,56.78,48.44,63.02,F,2.5,1,True
+STU-88026,William Williams,24,FEMALE,Economics,99.3,45.87,39.27,F,1.23,2,True
+STU-69159,Richard Johnson,23,non-binary,engineering,50.04,95.1,50.56,D,1.4,3,True
+STU-35396,Charles Moore,21,Female,Biology,75.17,72.83,97.74,A,1.68,3,False
+STU-67920,John Thomas,25,NON-BINARY,Physics,79.91,58.0,30.67,F,3.71,4,False
+STU-78806,Lisa Martin,22,MALE,Mathematics,98.73,86.08,52.28,D,2.73,1,False
+STU-19269,Mary Rodriguez,19,FEMALE,Biology,83.2,64.2,77.92,C,3.68,2,True
+STU-95697,John Thomas,21,MALE,engineering,63.17,99.61,51.15,D,1.18,2,False
+STU-79165,Thomas Jones,26,Male,Business Administration,99.66,58.87,70.51,D,2.44,3,False
+STU-92128,Richard Rodriguez,26,non-binary,Biology,80.87,94.91,78.92,B,3.09,4,True
+STU-21471,Mary Garcia,22,MALE,computer science,99.82,44.94,32.77,H,3.37,4,False
+STU-12272,William Martinez,23,non-binary,COMPUTER SCIENCE,90.73,91.31,70.17,C,1.2,2,False
+STU-55084,Robert Lopez,22,non-binary,Physics,95.48,48.9,40.55,F,,2,False
+STU-97612,Patricia Thomas,26,M,MATHEMATICS,60.97,47.79,95.96,B,1.25,1,False
+STU-74619,Richard Brown,23,non-binary,BUSINESS ADMINISTRATION,91.28,50.02,74.44,D,2.57,3,False
+STU-44389,Jessica Williams,24,Female,business administration,79.75,78.74,44.62,F,1.65,4,False
+STU-59996,Susan Johnson,18,male,COMPUTER SCIENCE,80.77,73.17,47.53,F,1.77,2,True
+STU-28564,Jessica Rodriguez,19,M,ENGINEERING,,71.23,46.23,F,1.16,2,True
+STU-79250,Susan Taylor,18,Non-binary,Psychology,98.25,45.15,44.43,F,1.28,1,True
+STU-17115,Karen Miller,17,Female,Biology,74.45,88.65,78.02,B,2.51,4,True
+STU-16514,Richard Moore,20,FEMALE,ECONOMICS,,96.38,45.32,D,1.2,4,False
+STU-36350,Robert Taylor,26,M,Computer Science,56.81,48.07,58.09,F,1.65,1,False
+STU-72283,Lisa Johnson,17,Female,PSYCHOLOGY,95.93,71.4,57.54,D,1.53,3,True
+STU-82001,Richard Thomas,25,Non-binary,PHYSICS,78.63,58.04,82.85,C,1.2,3,True
+STU-50862,Patricia Moore,17,M,Economics,96.16,82.71,40.47,F,2.62,2,False
+STU-76123,Patricia Moore,22,FEMALE,Computer Science,97.58,69.38,48.4,F,,3,True
+STU-37033,Charles Moore,20,MALE,PHYSICS,97.88,58.15,99.27,B,1.06,3,True
+STU-88673,James Anderson,26,Female,ECONOMICS,74.3,68.93,33.23,H,1.24,1,True
+STU-25932,Jessica Davis,17,M,Biology,78.27,80.05,36.02,F,2.44,2,False
+STU-37969,Linda Brown,23,F,engineering,57.52,93.29,89.54,A,1.07,3,False
+STU-65096,Susan Davis,20,non-binary,BIOLOGY,95.01,81.9,51.61,D,,4,True
+STU-59332,Mary Martin,20,female,Computer Science,57.68,87.21,60.46,D,3.97,3,False
+STU-15602,Jessica Gonzalez,21,NON-BINARY,PSYCHOLOGY,51.35,80.13,53.77,D,3.17,2,False
+STU-71153,Michael Martinez,23,F,physics,69.44,83.63,54.18,D,2.07,3,True
+STU-49221,Thomas Moore,26,F,COMPUTER SCIENCE,73.11,95.57,82.54,B,3.75,3,True
+STU-26846,Patricia Davis,22,MALE,MATHEMATICS,78.6,54.22,36.12,F,3.17,3,False
+STU-40732,David Wilson,20,female,Economics,85.64,89.96,44.05,G,1.17,1,False
+STU-89102,Jessica Davis,20,NON-BINARY,Economics,66.8,44.43,82.13,C,1.93,1,True
+STU-54074,Lisa Anderson,20,M,business administration,64.45,70.02,44.49,F,1.27,2,True
+STU-43697,William Thomas,23,MALE,Economics,89.65,70.88,39.89,F,3.41,1,False
+STU-30180,Susan Moore,26,male,ECONOMICS,93.01,50.72,97.08,B,2.13,3,False
+STU-29080,Robert Davis,21,M,Business Administration,52.68,83.56,91.51,B,2.64,1,False
+STU-14772,Jennifer Williams,25,NON-BINARY,PHYSICS,51.13,53.32,54.1,F,2.68,1,False
+STU-19626,Barbara Hernandez,26,M,Psychology,71.77,47.36,75.1,D,2.66,3,False
+STU-35171,William Gonzalez,20,NON-BINARY,Business Administration,92.49,56.31,92.93,B,3.5,2,False
+STU-35945,Lisa Miller,26,M,ENGINEERING,69.01,52.5,30.94,F,2.95,3,False
+STU-31808,Karen Martin,18,M,Engineering,50.44,60.13,77.4,C,1.86,4,False
+STU-69433,Jessica Jones,17,female,mathematics,50.69,42.4,79.46,D,2.53,3,False
+STU-73074,Lisa Thomas,20,Non-binary,business administration,79.1,56.15,32.64,F,1.63,3,True
+STU-91748,Richard Smith,86,female,MATHEMATICS,62.94,53.37,77.22,C,2.37,2,False
+STU-31856,Susan Garcia,19,non-binary,ECONOMICS,,53.58,95.15,B,2.62,4,False
+STU-49774,Joseph Smith,25,Non-binary,ECONOMICS,54.41,45.52,39.28,F,3.55,3,True
+STU-82371,Barbara Brown,82,M,MATHEMATICS,83.19,87.47,44.08,F,2.83,1,False
+STU-12841,Sarah Gonzalez,25,Female,PHYSICS,59.5,76.41,64.94,D,3.55,4,True
+STU-62004,David Smith,24,FEMALE,Physics,81.44,89.02,70.4,C,1.64,3,False
+STU-72000,Charles Martinez,20,female,ENGINEERING,97.69,88.86,34.65,F,1.4,3,False
+STU-24790,Linda Smith,21,male,PHYSICS,68.4,83.04,99.11,A,,3,True
+STU-67113,William Garcia,26,F,business administration,75.61,44.47,33.74,F,3.99,3,True
+STU-20464,David Thomas,18,F,Mathematics,,48.11,79.38,D,1.93,1,False
+STU-57542,Barbara Martinez,19,NON-BINARY,ECONOMICS,65.24,82.78,77.13,C,,2,False
+STU-59449,Barbara Wilson,21,Non-binary,BIOLOGY,98.0,71.82,94.14,H,3.19,3,False
+STU-84261,David Martinez,19,NON-BINARY,Psychology,97.42,79.77,84.25,B,1.17,4,False
+STU-97579,Jennifer Gonzalez,17,Non-binary,Engineering,,82.22,57.12,D,3.1,4,False
+STU-94138,William Hernandez,24,Male,COMPUTER SCIENCE,58.93,84.15,50.67,D,2.97,3,False
+STU-82526,Susan Wilson,20,Male,MATHEMATICS,96.27,66.82,55.94,G,1.64,3,False
+STU-17198,Jennifer Smith,21,MALE,Biology,97.19,87.95,46.46,F,3.25,4,False
+STU-15039,James Lopez,26,FEMALE,business administration,50.14,68.97,87.7,B,1.63,3,False
+STU-14000,Joseph Garcia,21,Non-binary,PHYSICS,76.0,53.22,76.91,D,2.09,2,False
+STU-16887,Patricia Moore,24,male,Engineering,60.91,74.06,84.76,B,3.71,4,False
+STU-40408,Karen Taylor,21,non-binary,PHYSICS,90.59,81.84,84.8,B,3.47,1,False
+STU-48421,Robert Garcia,18,non-binary,Engineering,,60.54,45.03,F,3.27,2,True
+STU-18025,Jennifer Hernandez,25,FEMALE,Business Administration,71.32,98.1,30.31,F,3.45,1,False
+STU-58614,Joseph Jones,17,non-binary,PSYCHOLOGY,88.34,51.34,44.73,F,2.71,2,True
+STU-91062,Jennifer Lopez,26,Non-binary,business administration,76.17,62.68,94.83,B,3.61,4,False
+STU-19589,David Johnson,19,non-binary,PSYCHOLOGY,59.79,74.95,61.03,D,1.43,3,False
+STU-83737,Karen Moore,26,male,COMPUTER SCIENCE,58.55,84.22,83.97,B,2.19,2,False
+STU-60548,Susan Wilson,17,Female,business administration,51.65,64.4,54.71,F,2.41,1,False
+STU-59623,Joseph Garcia,18,MALE,business administration,64.64,41.46,49.97,F,3.69,2,True
+STU-72113,James Anderson,20,Female,Biology,68.26,87.66,85.61,B,3.51,3,True
+STU-98841,Mary Lopez,24,non-binary,engineering,,45.64,73.33,D,3.14,4,True
+STU-79602,Barbara Smith,18,FEMALE,BUSINESS ADMINISTRATION,95.26,66.75,91.92,B,2.4,4,True
+STU-86318,Joseph Smith,19,F,COMPUTER SCIENCE,58.1,59.87,76.67,C,3.28,4,True
+STU-19522,Susan Smith,26,female,mathematics,68.15,90.63,69.85,C,1.07,2,False
+STU-60788,Jessica Jones,19,M,business administration,,74.57,94.6,B,3.93,2,False
+STU-22960,William Miller,19,Non-binary,Engineering,99.1,46.29,42.76,F,1.09,3,False
+STU-33039,Michael Jones,23,MALE,BUSINESS ADMINISTRATION,54.48,41.76,93.31,C,3.15,1,False
+STU-94715,David Gonzalez,26,Male,ECONOMICS,64.15,73.94,69.8,C,1.17,2,False
+STU-76414,Charles Taylor,20,MALE,Psychology,,61.5,99.68,B,1.63,1,False
+STU-11906,Susan Hernandez,84,M,Computer Science,53.05,41.09,66.33,F,1.88,4,False
+STU-60910,Lisa Anderson,25,M,Biology,71.67,73.33,92.84,B,,4,False
+STU-75172,Robert Jones,26,M,Psychology,99.71,42.29,75.03,D,2.57,4,False
+STU-47990,Linda Smith,21,Female,BIOLOGY,90.54,86.5,72.78,C,1.54,4,False
+STU-84131,Lisa Wilson,23,NON-BINARY,mathematics,53.18,60.4,67.7,D,,2,True
+STU-89619,Barbara Gonzalez,20,Male,Physics,79.16,48.9,30.84,F,2.53,4,False
+STU-28596,William Miller,22,Non-binary,business administration,76.98,63.24,83.38,C,3.54,3,True
+STU-52984,Jessica Lopez,26,Male,Engineering,81.59,87.65,98.57,Pass,1.1,2,False
+STU-99760,William Jones,26,MALE,Business Administration,71.85,86.95,55.99,H,3.36,3,False
+STU-38155,Jessica Hernandez,18,Non-binary,PHYSICS,59.74,59.34,72.51,D,3.01,4,False
+STU-52978,Joseph Taylor,25,M,Physics,66.92,81.43,30.93,F,1.71,1,False
+STU-71645,Michael Jones,25,M,ENGINEERING,50.26,71.38,49.13,F,3.33,2,False
+STU-41816,Charles Thomas,23,non-binary,physics,55.2,86.86,79.6,B,3.51,4,False
+STU-63197,Karen Lopez,23,female,engineering,97.7,92.62,32.84,F,2.18,2,True
+STU-25146,Michael Garcia,24,female,engineering,,48.38,38.06,F,3.02,1,True
+STU-41787,Susan Rodriguez,23,male,ECONOMICS,59.22,65.12,79.04,C,2.19,3,False
+STU-52506,William Lopez,21,Male,computer science,83.79,65.75,51.39,F,2.96,3,False
+STU-45959,Barbara Smith,20,M,BUSINESS ADMINISTRATION,53.13,58.24,57.68,F,3.65,2,False
+STU-98871,Patricia Williams,17,female,Mathematics,60.94,65.31,87.76,B,1.95,4,False
+STU-49030,Susan Johnson,19,Non-binary,mathematics,89.27,54.25,47.24,F,2.09,3,False
+STU-82519,Lisa Davis,25,non-binary,ENGINEERING,83.07,76.45,61.79,Pass,,4,False
+STU-94936,Barbara Anderson,22,FEMALE,Computer Science,81.43,44.62,97.07,B,2.01,2,True
+STU-83396,Michael Miller,24,Female,Mathematics,53.72,49.63,80.6,C,2.78,1,False
+STU-91748,Richard Smith,86,female,MATHEMATICS,62.94,53.37,77.22,C,2.37,2,False
+STU-59535,David Anderson,21,male,MATHEMATICS,88.11,51.78,73.18,D,1.66,1,True
+STU-28446,Linda Garcia,19,Non-binary,MATHEMATICS,57.01,68.19,32.73,F,1.63,3,True
+STU-93449,David Williams,25,Female,PSYCHOLOGY,57.5,62.66,38.61,F,3.39,2,True
+STU-84754,Thomas Gonzalez,17,Female,BIOLOGY,64.35,85.78,47.83,F,2.32,4,False
+STU-73999,Barbara Gonzalez,18,MALE,Biology,83.65,90.09,68.6,C,2.83,4,False
+STU-95487,Mary Martinez,26,female,computer science,56.27,65.83,59.38,D,1.99,2,False
+STU-27187,Patricia Hernandez,18,M,Computer Science,,68.83,66.53,D,2.28,2,True
+STU-27778,Jennifer Garcia,24,NON-BINARY,ECONOMICS,,44.88,31.13,F,2.52,4,True
+STU-39005,Robert Lopez,20,MALE,PHYSICS,79.32,70.01,51.14,F,3.46,1,False
+STU-90226,Michael Smith,24,MALE,Physics,84.34,69.99,72.61,C,2.19,2,False
+STU-47212,Barbara Martinez,25,NON-BINARY,Engineering,69.29,77.2,80.17,C,3.89,2,False
+STU-88616,Susan Martinez,23,female,Engineering,64.98,41.43,64.11,F,1.65,2,False
+STU-26557,William Rodriguez,26,Male,engineering,89.0,85.08,57.5,D,,2,True
+STU-60680,Lisa Taylor,18,female,Physics,95.3,47.59,42.4,F,1.07,1,False
+STU-13154,David Hernandez,21,NON-BINARY,MATHEMATICS,56.95,47.08,61.88,F,3.57,4,True
+STU-58604,Mary Miller,19,M,business administration,53.65,52.22,44.47,F,1.05,4,False
+STU-96054,Michael Davis,18,FEMALE,physics,58.96,84.58,30.86,H,1.59,2,False
+STU-12966,Sarah Garcia,24,Non-binary,Computer Science,73.58,86.76,71.91,C,1.68,1,False
+STU-25761,John Lopez,24,MALE,Biology,64.04,49.39,55.39,F,,2,False
+STU-14927,Sarah Martinez,19,F,physics,50.93,78.88,60.4,D,2.1,2,False
+STU-63860,David Jones,24,F,engineering,56.6,65.8,77.74,C,1.58,1,True
+STU-44997,Jessica Jackson,20,Male,Engineering,74.15,66.4,44.77,F,2.41,1,False
+STU-85031,David Davis,20,Female,ENGINEERING,54.51,89.57,76.13,B,,2,False
+STU-66133,William Smith,18,NON-BINARY,Engineering,79.62,52.69,52.47,F,2.07,2,True
+STU-49595,Sarah Jones,26,MALE,ENGINEERING,65.89,41.89,43.53,F,1.08,4,False
+STU-18383,Mary Martinez,21,Non-binary,Physics,89.79,46.77,81.29,C,3.75,1,True
+STU-69559,Jennifer Garcia,21,male,MATHEMATICS,55.65,50.57,77.54,D,1.78,4,False
+STU-21387,David Wilson,26,FEMALE,mathematics,67.85,74.49,42.04,F,2.98,3,True
+STU-51089,Patricia Martin,22,non-binary,Biology,91.05,53.44,48.84,F,2.38,4,False
+STU-12134,James Williams,24,female,mathematics,56.87,51.59,71.41,D,3.75,4,True
+STU-38656,Sarah Taylor,18,FEMALE,BIOLOGY,97.25,61.96,79.45,C,,2,False
+STU-16158,Patricia Gonzalez,25,MALE,Biology,95.76,84.31,48.31,F,,2,False
+STU-47183,Charles Gonzalez,18,Female,Engineering,62.12,93.77,65.38,C,2.9,3,False
+STU-70864,Thomas Davis,25,Male,COMPUTER SCIENCE,51.19,58.01,73.54,D,3.14,3,False
+STU-44326,Jessica Johnson,20,Non-binary,BUSINESS ADMINISTRATION,84.42,68.51,73.37,C,,1,True
+STU-83964,Sarah Jones,17,non-binary,engineering,88.28,53.43,90.55,C,,4,False
+STU-97304,Lisa Brown,18,MALE,Mathematics,73.13,70.45,57.15,D,3.06,2,True
+STU-81442,Michael Smith,18,FEMALE,ECONOMICS,62.28,68.79,36.96,F,3.19,2,True
+STU-88412,Barbara Lopez,25,F,computer science,96.7,92.12,63.56,C,1.58,2,True
+STU-76918,Karen Smith,18,Non-binary,Physics,,92.43,34.81,F,3.48,2,False
+STU-66168,Mary Johnson,22,Male,Computer Science,85.92,51.02,48.88,F,1.54,4,False
+STU-89276,Thomas Gonzalez,23,NON-BINARY,Economics,56.44,63.03,57.87,F,3.85,4,False
+STU-29152,William Hernandez,22,NON-BINARY,Biology,60.0,88.64,43.17,F,2.82,3,True
+STU-63104,William Smith,18,MALE,computer science,59.09,49.66,91.47,C,2.97,3,True
+STU-84792,Robert Hernandez,24,NON-BINARY,computer science,77.88,72.06,77.73,C,2.87,3,False
+STU-72683,John Miller,20,Non-binary,Engineering,73.79,81.5,55.07,D,3.68,4,False
+STU-76137,Karen Smith,24,Male,business administration,59.76,80.4,31.4,F,,2,False
+STU-15510,Robert Jackson,26,female,PHYSICS,71.79,67.8,80.41,C,2.23,3,False
+STU-15925,Jennifer Miller,20,male,Business Administration,,79.7,45.79,F,1.35,2,True
+STU-15068,Sarah Williams,25,MALE,COMPUTER SCIENCE,,89.84,74.19,C,2.14,3,False
+STU-19838,Lisa Jones,24,female,Mathematics,73.03,70.19,37.75,F,2.26,2,False
+STU-31459,Patricia Williams,23,non-binary,PSYCHOLOGY,64.53,57.25,75.54,C,3.21,3,False
+STU-70485,Karen Smith,22,F,BIOLOGY,,92.63,56.15,D,1.87,1,False
+STU-83849,John Martinez,18,non-binary,COMPUTER SCIENCE,96.71,70.65,64.98,D,1.81,2,False
+STU-92196,Sarah Rodriguez,26,MALE,ENGINEERING,53.18,40.18,30.92,F,1.5,1,False
+STU-33242,Joseph Gonzalez,18,NON-BINARY,PSYCHOLOGY,73.64,43.61,81.28,D,2.43,3,True
+STU-82036,James Brown,21,male,Engineering,63.43,89.73,34.24,F,,4,False
+STU-55678,Michael Davis,17,male,PHYSICS,67.88,42.44,86.67,C,3.42,3,True
+STU-53534,John Johnson,21,FEMALE,PSYCHOLOGY,97.69,69.52,43.96,F,1.34,2,True
+STU-66373,John Anderson,92,non-binary,COMPUTER SCIENCE,65.92,86.28,94.01,A,2.82,1,False
+STU-44917,Robert Brown,22,non-binary,Business Administration,68.64,90.01,33.18,F,2.52,1,False
+STU-67325,William Lopez,22,Female,Psychology,57.9,53.15,70.98,D,2.59,2,True
+STU-30457,Jessica Martinez,17,M,Computer Science,75.66,72.37,66.23,D,3.88,1,False
+STU-25046,Michael Anderson,23,FEMALE,PSYCHOLOGY,85.35,63.5,53.15,F,3.03,4,True
+STU-87193,Lisa Anderson,21,female,Economics,,77.87,53.0,D,1.85,3,True
+STU-99180,Charles Martinez,21,female,Computer Science,70.79,64.82,49.47,F,3.45,4,True
+STU-16233,Barbara Garcia,17,male,PSYCHOLOGY,78.09,92.9,89.73,A,2.21,1,True
+STU-74324,Linda Gonzalez,19,female,Economics,97.44,47.41,57.7,F,1.33,3,False
+STU-56463,Linda Taylor,23,Non-binary,ECONOMICS,,67.71,32.05,N/A,1.62,2,False
+STU-56484,Charles Jones,19,M,Business Administration,59.08,41.57,72.13,D,3.34,3,True
+STU-64404,Karen Anderson,26,non-binary,Computer Science,65.57,68.17,93.2,B,2.97,3,False
+STU-12371,David Davis,24,non-binary,Computer Science,73.8,97.12,55.44,D,2.44,1,False
+STU-92564,David Miller,26,Non-binary,Biology,55.34,62.85,84.35,C,1.8,3,True
+STU-51331,Joseph Anderson,26,NON-BINARY,mathematics,81.21,73.89,59.08,D,3.25,3,False
+STU-28074,Karen Johnson,17,F,engineering,96.35,82.28,57.54,D,2.01,1,True
+STU-89084,Thomas Gonzalez,18,Male,Engineering,90.23,84.57,91.2,B,2.71,3,False
+STU-54433,Susan Rodriguez,18,NON-BINARY,Computer Science,62.06,86.88,48.18,F,2.43,4,False
+STU-94255,John Brown,26,F,Physics,,44.82,40.27,F,,4,False
+STU-18372,John Jones,25,male,PHYSICS,54.59,61.62,55.0,F,2.03,1,False
+STU-96271,Michael Brown,22,non-binary,computer science,84.07,86.06,60.8,D,2.07,1,False
+STU-22709,Robert Martin,19,F,mathematics,75.37,88.86,61.16,D,3.81,1,True
+STU-84630,Lisa Jackson,26,M,physics,63.79,67.05,45.85,F,3.63,3,True
+STU-41722,Joseph Martin,19,M,physics,55.37,54.33,51.59,F,2.8,4,False
+STU-35967,Richard Martin,19,Non-binary,Engineering,58.8,83.25,72.07,C,3.18,4,False
+STU-35598,James Moore,20,Female,Business Administration,65.1,92.63,88.35,B,3.52,4,False
+STU-31240,Linda Miller,20,MALE,ECONOMICS,78.04,63.07,92.05,Z,2.92,1,False
+STU-65130,William Jones,26,female,Mathematics,66.0,54.81,53.59,F,3.74,1,False
+STU-53025,William Hernandez,23,Male,engineering,66.18,74.1,72.65,C,2.65,2,True
+STU-65869,Joseph Hernandez,26,Female,MATHEMATICS,84.86,78.6,37.64,F,3.38,1,True
+STU-58952,James Jackson,17,Non-binary,business administration,89.51,69.52,70.24,C,3.2,1,False
+STU-22564,Barbara Lopez,23,Female,Psychology,54.54,55.63,44.04,F,2.94,1,True
+STU-63022,Jennifer Smith,21,female,Psychology,,75.07,41.78,F,1.65,3,True
+STU-53333,Michael Williams,18,MALE,MATHEMATICS,61.95,61.16,32.04,F,1.5,3,False
+STU-63739,Joseph Smith,25,M,Physics,66.43,76.0,32.3,F,1.32,3,False
+STU-80785,Susan Brown,19,MALE,Mathematics,78.75,46.63,96.86,B,3.77,1,False
+STU-44398,David Anderson,24,FEMALE,Psychology,65.01,69.35,68.21,D,,2,True
+STU-30884,Richard Jones,26,female,Biology,58.69,92.21,50.72,D,2.58,1,True
+STU-34164,Charles Brown,20,male,computer science,61.54,55.0,33.26,F,2.18,2,True
+STU-28551,Robert Lopez,17,NON-BINARY,Computer Science,96.9,42.99,74.25,D,3.11,3,False
+STU-16303,Joseph Moore,19,FEMALE,physics,97.4,50.49,38.95,F,3.08,2,False
+STU-86269,Patricia Martinez,17,Non-binary,engineering,74.26,75.48,74.64,C,2.82,2,True
+STU-89118,Linda Martin,24,male,Psychology,59.01,91.67,41.2,F,3.47,2,True
+STU-86717,John Jones,21,NON-BINARY,Psychology,98.39,91.32,76.66,B,3.25,3,False
+STU-24314,John Hernandez,18,Male,BUSINESS ADMINISTRATION,,89.02,85.58,B,2.71,2,True
+STU-49468,Linda Jackson,18,M,Engineering,76.45,77.65,36.08,F,3.73,2,True
+STU-98252,Sarah Wilson,25,FEMALE,business administration,51.04,70.45,57.15,D,,2,True
+STU-89289,Jennifer Taylor,17,FEMALE,mathematics,55.91,93.26,32.2,F,3.88,1,False
+STU-27600,John Hernandez,23,male,MATHEMATICS,79.49,74.45,69.33,C,1.98,3,False
+STU-24085,Karen Moore,18,non-binary,ENGINEERING,60.24,93.48,69.66,X,3.93,3,True
+STU-81954,Karen Wilson,25,M,physics,75.33,87.19,69.31,C,2.98,3,False
+STU-96053,David Jones,24,M,physics,54.86,78.52,35.18,F,2.47,2,True
+STU-82520,Karen Moore,17,F,BIOLOGY,76.15,54.68,85.81,C,3.81,2,False
+STU-38394,James Moore,23,MALE,MATHEMATICS,88.32,88.43,51.96,D,3.77,1,True
+STU-48806,Thomas Brown,25,male,ENGINEERING,77.17,72.15,99.4,A,1.03,1,False
+STU-63135,Thomas Hernandez,19,FEMALE,engineering,91.95,64.39,68.35,D,1.43,4,False
+STU-96954,Richard Miller,25,Female,MATHEMATICS,92.59,51.05,74.67,D,1.47,4,False
+STU-47963,Michael Gonzalez,26,male,Business Administration,55.16,68.49,40.97,F,,4,False
+STU-90653,Joseph Williams,17,non-binary,engineering,58.58,45.61,44.29,F,2.7,4,True
+STU-91958,Karen Davis,20,non-binary,Business Administration,70.54,59.71,82.44,C,2.73,4,True
+STU-48770,Patricia Anderson,26,Female,BIOLOGY,72.97,55.6,89.32,C,1.11,2,False
+STU-32447,Linda Thomas,26,Male,computer science,85.42,87.79,98.49,A,1.82,4,True
+STU-45452,Mary Miller,18,MALE,BUSINESS ADMINISTRATION,84.55,91.6,54.82,D,1.81,2,True
+STU-64086,Linda Anderson,17,Male,Biology,82.28,83.85,64.7,C,2.07,2,False
+STU-14414,Thomas Lopez,18,F,physics,84.44,94.29,62.73,C,2.08,2,False
+STU-39445,Robert Thomas,24,NON-BINARY,Business Administration,86.01,41.45,97.95,B,3.84,3,False
+STU-60430,Barbara Smith,26,NON-BINARY,BUSINESS ADMINISTRATION,92.97,97.34,43.19,F,1.55,2,True
+STU-29216,David Martin,26,NON-BINARY,COMPUTER SCIENCE,79.54,70.94,43.54,F,,2,True
+STU-35245,Susan Martin,21,Male,Computer Science,63.65,42.34,82.59,C,2.82,1,False
+STU-80648,Karen Williams,25,MALE,physics,63.06,72.93,87.97,Z,3.55,2,False
+STU-23643,Barbara Rodriguez,17,female,Business Administration,,77.9,40.97,F,2.12,3,True
+STU-80205,Karen Gonzalez,23,F,engineering,64.31,95.47,40.99,F,2.2,1,False
+STU-88660,James Gonzalez,24,male,PHYSICS,53.53,46.86,41.12,F,1.2,3,False
+STU-49202,John Williams,20,Female,Computer Science,90.39,72.5,37.04,F,3.77,3,False
+STU-98836,Karen Garcia,24,non-binary,ECONOMICS,71.74,82.45,48.35,F,3.34,4,False
+STU-31591,Linda Wilson,22,M,physics,,85.14,33.0,F,2.18,2,True
+STU-88918,Lisa Moore,22,Male,Economics,88.93,97.19,89.93,A,1.38,1,True
+STU-73542,Charles Thomas,21,FEMALE,MATHEMATICS,77.76,46.57,55.38,F,2.58,3,True
+STU-82030,James Johnson,23,female,ENGINEERING,51.05,81.29,41.77,G,2.04,2,False
+STU-24077,Robert Jackson,18,FEMALE,computer science,73.17,51.73,32.97,F,1.74,4,False
+STU-95904,Charles Garcia,17,FEMALE,mathematics,58.63,74.6,69.68,C,3.22,2,True
+STU-96941,Mary Thomas,20,Non-binary,Biology,64.38,46.95,46.44,F,2.68,3,False
+STU-70323,Patricia Jackson,18,non-binary,PSYCHOLOGY,81.86,71.89,60.43,D,1.9,4,False
+STU-34899,Susan Moore,20,F,BIOLOGY,76.01,47.03,80.59,C,1.74,3,False
+STU-61807,Jennifer Garcia,18,female,BIOLOGY,51.9,99.6,72.17,B,2.65,4,True
+STU-38569,Jennifer Lopez,18,F,Physics,99.27,58.79,39.1,F,1.86,4,False
+STU-53418,Jennifer Davis,18,Male,computer science,84.1,64.38,66.38,D,,4,True
+STU-51015,Lisa Thomas,23,M,physics,92.8,69.13,53.59,F,2.08,2,False
+STU-66335,Linda Davis,26,NON-BINARY,physics,96.39,61.21,46.55,99,1.95,2,False
+STU-21343,Sarah Martin,20,male,Business Administration,84.87,42.47,41.81,F,2.34,3,True
+STU-72083,Mary Rodriguez,23,MALE,COMPUTER SCIENCE,54.36,92.67,76.53,B,2.52,2,False
+STU-17656,John Thomas,25,male,mathematics,84.44,83.02,46.83,F,2.26,4,False
+STU-71879,Jennifer Wilson,17,Male,Mathematics,81.55,52.24,56.07,F,1.14,3,True
+STU-38468,Robert Davis,23,non-binary,ECONOMICS,73.44,94.96,67.41,C,1.99,3,False
+STU-15225,Susan Anderson,26,Non-binary,computer science,97.01,88.79,73.97,C,3.01,1,False
+STU-23272,Richard Martinez,26,Male,MATHEMATICS,91.92,94.66,63.01,C,1.08,2,False
+STU-59377,Mary Martinez,22,non-binary,BIOLOGY,92.28,53.72,61.13,F,3.73,1,False
+STU-34684,James Taylor,24,male,COMPUTER SCIENCE,84.75,58.39,82.91,C,1.63,1,False
+STU-38035,Joseph Gonzalez,17,Non-binary,PSYCHOLOGY,63.46,67.37,31.65,F,2.31,1,False
+STU-95180,Linda Williams,17,F,physics,71.06,85.06,89.94,B,1.58,3,False
+STU-85481,Patricia Miller,19,FEMALE,mathematics,75.85,97.32,38.17,F,1.73,3,True
+STU-52111,Charles Martin,93,Male,BIOLOGY,89.05,68.62,35.44,F,1.15,4,False
+STU-81720,Karen Brown,26,non-binary,Biology,76.15,63.22,75.9,C,2.53,2,True
+STU-41028,David Wilson,17,M,Economics,99.27,58.0,89.5,B,2.52,1,False
+STU-46357,Richard Rodriguez,22,Female,Biology,80.26,95.16,89.88,A,2.46,2,False
+STU-11741,Joseph Smith,21,F,PHYSICS,71.07,85.74,53.42,D,2.76,1,True
+STU-42941,Robert Jones,25,Non-binary,PHYSICS,85.41,55.26,85.85,C,3.8,1,False
+STU-46456,Charles Wilson,23,MALE,MATHEMATICS,86.18,53.41,33.82,Pass,3.62,1,False
+STU-75377,Joseph Jackson,17,Non-binary,PHYSICS,87.07,61.81,32.3,F,3.86,1,True
+STU-33632,Michael Anderson,86,MALE,Mathematics,94.11,75.05,35.64,F,2.93,3,True
+STU-27042,William Williams,26,F,ENGINEERING,92.62,66.52,89.94,B,2.87,4,False
+STU-59428,Joseph Anderson,23,female,ENGINEERING,71.78,44.68,39.77,F,2.18,2,True
+STU-65273,Robert Anderson,24,male,Economics,97.23,84.38,79.15,B,2.75,2,True
+STU-16553,John Anderson,24,Female,computer science,,95.95,71.88,C,2.76,3,True
+STU-50345,Patricia Hernandez,23,NON-BINARY,Mathematics,66.38,60.28,62.1,D,2.75,1,False
+STU-20313,Susan Taylor,17,FEMALE,physics,,68.01,80.94,C,2.69,3,False
+STU-52247,Jessica Garcia,25,non-binary,BIOLOGY,79.76,74.97,93.84,B,2.34,1,True
+STU-28245,Robert Martin,24,F,BUSINESS ADMINISTRATION,89.72,65.8,79.59,C,2.1,1,False
+STU-51054,Michael Anderson,26,male,Engineering,71.36,79.48,41.2,F,3.22,4,False
+STU-12321,Joseph Lopez,20,FEMALE,PHYSICS,95.51,94.15,74.37,B,2.43,3,False
+STU-66904,Barbara Davis,18,non-binary,ECONOMICS,90.51,92.56,31.11,F,3.19,3,True
+STU-74082,William Wilson,17,female,engineering,57.93,86.88,88.36,B,2.57,2,False
+STU-22492,Joseph Taylor,25,Non-binary,Computer Science,50.53,51.09,87.42,C,1.09,1,True
+STU-52630,Barbara Anderson,22,M,Mathematics,60.83,50.41,73.36,D,2.26,1,False
+STU-82910,Susan Taylor,20,NON-BINARY,physics,66.72,59.62,48.22,F,1.86,1,False
+STU-65468,Barbara Martin,24,NON-BINARY,BUSINESS ADMINISTRATION,68.6,65.51,42.07,F,2.44,1,False
+STU-45128,Jennifer Anderson,24,FEMALE,mathematics,58.0,61.52,40.75,F,3.66,3,False
+STU-76837,Lisa Gonzalez,25,M,PSYCHOLOGY,63.18,70.7,58.77,D,3.58,1,False
+STU-20240,Sarah Martinez,19,Female,Computer Science,63.25,93.4,75.2,B,2.26,1,False
+STU-58052,Mary Garcia,25,NON-BINARY,physics,71.11,60.3,61.39,D,3.62,2,False
+STU-24240,Karen Anderson,26,female,computer science,59.97,60.26,92.29,B,3.81,4,False
+STU-86500,Thomas Wilson,21,male,computer science,86.48,75.0,54.96,D,2.36,4,False
+STU-66374,Linda Martinez,19,FEMALE,mathematics,79.9,75.61,89.72,B,1.25,1,False
+STU-70519,Karen Jones,18,F,physics,,90.87,37.32,F,1.98,2,False
+STU-81688,James Lopez,17,male,PHYSICS,99.69,81.64,89.33,B,1.27,3,False
+STU-27654,Jessica Brown,19,Female,Physics,89.29,79.93,94.37,A,3.82,3,True
+STU-52350,James Moore,19,M,MATHEMATICS,95.05,50.45,51.1,G,1.82,4,False
+STU-13926,Mary Smith,17,Male,COMPUTER SCIENCE,,85.45,86.56,B,,2,False
+STU-34456,Richard Davis,22,FEMALE,Biology,84.16,57.63,97.15,B,1.07,1,False
+STU-87449,Linda Anderson,17,M,BIOLOGY,62.71,55.92,67.15,N/A,2.35,4,True
+STU-99468,Jennifer Smith,19,male,engineering,95.06,87.1,93.01,A,3.89,1,False
+STU-74595,Charles Moore,23,female,Mathematics,72.68,82.01,58.19,D,1.71,4,False
+STU-12879,Linda Miller,24,F,COMPUTER SCIENCE,86.7,47.37,93.06,C,2.1,1,False
+STU-69984,Robert Taylor,26,FEMALE,BIOLOGY,59.19,78.81,74.19,C,2.26,1,False
+STU-53648,Michael Rodriguez,17,male,Mathematics,82.11,65.64,86.42,B,3.5,1,False
+STU-16902,Lisa Jackson,17,Male,Mathematics,52.41,75.73,53.82,D,1.05,2,True
+STU-99600,Michael Lopez,22,male,PHYSICS,81.87,63.66,34.26,F,3.25,1,False
+STU-51984,Robert Anderson,21,non-binary,ENGINEERING,70.21,62.62,64.33,D,1.96,4,False
+STU-43442,Karen Miller,24,Female,Computer Science,86.8,47.71,86.73,C,2.61,3,False
+STU-84308,Jennifer Smith,22,MALE,Business Administration,96.03,88.11,81.03,B,1.76,3,True
+STU-63488,Joseph Lopez,18,Non-binary,MATHEMATICS,62.0,65.44,65.35,H,3.49,2,False
+STU-76807,Robert Brown,22,Non-binary,physics,84.5,56.31,76.08,C,3.24,1,True
+STU-24472,Barbara Jones,19,female,Computer Science,73.66,85.76,34.57,F,1.91,2,False
+STU-64166,Patricia Moore,20,male,Business Administration,56.66,82.09,30.78,F,3.36,1,False
+STU-22019,John Smith,20,M,computer science,85.85,63.21,73.78,C,3.45,4,False
+STU-53418,Jennifer Davis,18,Male,computer science,84.1,64.38,66.38,D,,4,True
+STU-56694,Charles Taylor,20,male,ENGINEERING,53.28,92.19,80.36,B,2.0,2,True
+STU-62456,Barbara Moore,17,Male,Biology,58.96,72.08,47.69,F,,1,False
+STU-22260,Jessica Hernandez,23,Female,Engineering,59.85,80.93,87.74,B,3.38,2,False
+STU-52317,Michael Davis,24,Male,Biology,71.14,89.83,72.75,C,2.76,2,True
+STU-91406,Robert Johnson,20,FEMALE,PHYSICS,51.55,95.95,99.53,A,3.83,1,False
+STU-27728,James Martin,19,M,engineering,87.85,74.11,78.73,C,3.57,2,False
+STU-65752,William Taylor,20,Male,PSYCHOLOGY,76.1,83.43,88.74,B,2.92,4,False
+STU-95713,David Martin,19,Non-binary,BUSINESS ADMINISTRATION,67.31,85.0,93.65,A,2.02,1,True
+STU-42925,Karen Taylor,17,Male,Biology,50.75,68.48,66.14,D,3.13,2,False
+STU-22347,Robert Hernandez,21,NON-BINARY,PSYCHOLOGY,79.66,93.47,41.38,F,2.81,4,True
+STU-73882,Mary Taylor,26,Non-binary,Psychology,99.62,42.55,41.77,F,3.15,1,False
+STU-54691,Michael Garcia,24,male,Psychology,87.7,65.8,69.21,D,1.77,1,True
+STU-94683,Jessica Gonzalez,20,FEMALE,COMPUTER SCIENCE,61.32,96.94,39.83,F,3.18,2,False
+STU-15536,Joseph Miller,23,F,Business Administration,99.39,98.42,30.99,F,2.92,2,False
+STU-88768,Richard Garcia,20,M,business administration,67.66,56.45,80.05,C,2.14,4,True
+STU-59291,Lisa Jackson,21,male,engineering,73.67,54.21,95.31,B,3.16,3,False
+STU-54663,Charles Hernandez,19,FEMALE,ECONOMICS,78.61,94.68,79.57,B,3.44,2,False
+STU-62621,Joseph Smith,20,male,computer science,88.13,64.13,41.4,F,3.03,1,False
+STU-44286,Karen Miller,21,MALE,engineering,95.94,45.09,76.64,D,2.53,1,True
+STU-19516,Patricia Moore,19,M,Physics,60.92,45.81,47.95,F,2.23,3,False
+STU-23582,Robert Martinez,18,Female,Computer Science,89.49,80.98,73.77,C,2.01,1,False
+STU-89128,Mary Smith,17,male,BIOLOGY,82.4,65.82,56.37,F,2.02,3,False
+STU-58908,James Thomas,22,Non-binary,ECONOMICS,84.9,96.93,36.4,F,3.92,2,False
+STU-23071,Robert Williams,17,MALE,PSYCHOLOGY,72.89,70.81,46.5,F,3.07,4,False
+STU-86459,William Martinez,24,F,mathematics,,41.36,77.21,D,2.88,3,True
+STU-50838,Jennifer Davis,24,Male,Computer Science,64.73,49.57,36.63,F,3.85,3,True
+STU-52920,David Davis,20,Female,mathematics,71.21,56.26,95.54,B,2.07,2,False
+STU-48455,Jennifer Johnson,22,female,Mathematics,84.34,98.11,35.38,F,1.75,4,False
+STU-83877,Karen Williams,94,F,BIOLOGY,82.24,56.95,73.12,D,3.24,4,False
+STU-81770,Linda Johnson,26,non-binary,Engineering,59.62,71.67,54.1,F,2.77,3,True
+STU-16094,Karen Gonzalez,25,male,mathematics,55.01,60.92,45.59,F,1.2,4,False
+STU-69826,Mary Martinez,23,NON-BINARY,ECONOMICS,98.25,43.77,88.07,C,2.39,2,True
+STU-65981,Susan Lopez,25,male,Computer Science,86.95,98.84,70.02,C,1.58,2,False
+STU-48384,Mary Martin,21,NON-BINARY,Engineering,69.19,54.92,48.54,F,1.08,4,False
+STU-49546,Thomas Hernandez,19,female,computer science,58.1,50.37,48.17,F,3.06,4,False
+STU-11511,Karen Garcia,17,Female,Biology,52.34,68.46,63.13,D,3.53,2,False
+STU-63191,Barbara Gonzalez,24,MALE,BIOLOGY,55.77,81.67,93.06,B,3.1,1,False
+STU-80851,Lisa Moore,26,Female,COMPUTER SCIENCE,60.63,80.08,30.85,F,2.91,4,False
+STU-11668,Mary Thomas,20,non-binary,mathematics,53.66,99.43,54.47,D,1.26,2,True
+STU-21382,Charles Davis,17,Male,ENGINEERING,98.25,95.91,40.05,F,1.11,4,True
+STU-19171,Robert Jackson,22,female,BUSINESS ADMINISTRATION,90.07,72.06,60.9,D,3.52,3,False
+STU-58932,Karen Gonzalez,23,M,BIOLOGY,67.56,64.48,82.61,C,2.92,4,False
+STU-65950,Robert Thomas,22,FEMALE,PHYSICS,94.93,43.4,49.46,F,1.17,2,False
+STU-65213,David Davis,19,MALE,PSYCHOLOGY,78.96,59.66,71.96,D,1.02,1,False
+STU-56212,Thomas Brown,24,Male,BUSINESS ADMINISTRATION,78.28,66.02,84.1,C,1.63,3,True
+STU-48345,David Williams,23,Male,Economics,91.19,77.55,70.92,C,1.24,3,True
+STU-17115,Karen Miller,17,Female,Biology,74.45,88.65,78.02,B,2.51,4,True
+STU-10452,Michael Moore,20,female,computer science,66.75,58.79,73.67,D,1.41,3,True
+STU-84978,Patricia Thomas,24,female,Biology,82.21,48.56,44.76,F,1.79,1,True
+STU-44389,Jessica Williams,24,Female,business administration,79.75,78.74,44.62,F,1.65,4,False
+STU-80015,Karen Smith,22,male,Economics,84.89,45.43,93.09,C,2.31,2,False
+STU-24723,Karen Garcia,18,NON-BINARY,engineering,80.5,99.58,82.63,B,2.29,3,False
+STU-30787,James Davis,21,Male,PHYSICS,52.93,41.01,55.42,F,3.87,4,True
+STU-69889,Joseph Lopez,26,MALE,Economics,76.86,47.92,34.97,H,3.97,1,False
+STU-87638,Patricia Martin,23,MALE,mathematics,89.99,64.37,39.27,F,2.59,1,False
+STU-18058,James Anderson,19,MALE,computer science,91.36,82.98,49.51,F,3.03,4,False
+STU-26569,Thomas Brown,17,male,MATHEMATICS,53.57,84.71,62.39,D,2.98,1,False
+STU-50302,John Miller,23,NON-BINARY,Engineering,73.14,73.99,61.77,99,2.42,1,False
+STU-49860,Karen Jones,18,F,BUSINESS ADMINISTRATION,,84.25,46.32,F,3.92,3,False
+STU-55683,Jennifer Thomas,22,FEMALE,Economics,76.91,88.31,97.61,A,1.92,1,False
+STU-15573,Sarah Lopez,18,Female,mathematics,,73.67,85.59,B,,1,True
+STU-73677,Jessica Thomas,18,Non-binary,Psychology,73.94,92.18,38.77,F,3.43,2,False
+STU-62354,Thomas Anderson,18,MALE,MATHEMATICS,92.35,85.48,70.59,C,3.17,3,False
+STU-79601,Karen Taylor,21,Non-binary,BUSINESS ADMINISTRATION,92.51,45.43,50.42,F,,2,False
+STU-85975,John Gonzalez,19,M,MATHEMATICS,84.28,52.09,61.97,F,3.02,4,False
+STU-73061,Sarah Brown,24,FEMALE,PHYSICS,52.02,92.7,69.18,C,3.71,2,True
+STU-34148,Jennifer Brown,22,M,Physics,96.59,78.85,50.64,F,,3,False
+STU-37155,Robert Rodriguez,26,non-binary,ECONOMICS,75.11,62.81,72.88,D,2.44,3,True
+STU-50837,Michael Smith,20,F,business administration,88.65,54.74,82.66,C,3.09,2,True
+STU-48591,Robert Wilson,25,Male,ENGINEERING,81.11,41.38,69.05,D,2.92,4,False
+STU-44212,Karen Martin,26,Non-binary,computer science,,91.44,58.16,D,1.01,4,True
+STU-71742,Lisa Anderson,23,NON-BINARY,Economics,79.7,76.78,70.28,C,2.96,2,True
+STU-89682,Robert Miller,20,Female,Biology,63.45,66.22,61.43,D,2.51,1,False
+STU-15375,Joseph Moore,21,M,BUSINESS ADMINISTRATION,70.59,92.94,32.33,F,1.68,2,False
+STU-54181,John Thomas,25,Non-binary,Economics,81.57,55.1,48.77,F,1.87,2,True
+STU-98430,Barbara Hernandez,25,female,MATHEMATICS,88.32,98.81,71.08,C,3.91,1,True
+STU-62502,Karen Johnson,23,male,Biology,91.14,88.86,61.39,D,3.73,3,False
+STU-87817,Karen Davis,18,FEMALE,engineering,60.89,67.63,84.46,C,1.08,2,False
+STU-80800,Michael Hernandez,21,Female,ENGINEERING,,83.49,62.41,D,2.48,2,False
+STU-28894,Charles Garcia,21,FEMALE,Engineering,60.26,88.96,71.85,C,3.24,3,True
+STU-86873,Linda Lopez,26,non-binary,mathematics,99.93,92.39,80.03,B,1.64,4,True
+STU-65241,Susan Jackson,20,Male,MATHEMATICS,86.79,84.09,38.93,F,3.94,3,False
+STU-59756,William Jackson,19,non-binary,PSYCHOLOGY,,40.09,95.76,C,1.34,1,False
+STU-43827,Charles Moore,22,non-binary,business administration,76.34,80.07,88.48,B,3.05,2,False
+STU-24058,James Smith,17,Female,Computer Science,65.17,62.89,69.77,D,1.16,2,False
+STU-20811,Patricia Taylor,22,MALE,Economics,77.76,62.16,48.14,F,3.28,3,False
+STU-93792,Charles Martinez,21,M,PHYSICS,69.85,68.64,88.66,B,3.27,4,False
+STU-30357,John Jones,25,Female,ECONOMICS,75.63,64.85,93.81,B,1.86,2,False
+STU-63045,Barbara Thomas,21,MALE,PHYSICS,85.87,76.3,73.59,C,3.85,2,False
+STU-95467,Linda Johnson,26,MALE,Physics,65.03,41.0,66.16,F,1.96,4,False
+STU-70902,Lisa Garcia,21,female,ENGINEERING,51.18,45.12,69.31,D,2.37,1,True
+STU-93558,William Rodriguez,88,F,engineering,79.94,63.44,34.07,F,3.66,4,False
+STU-67460,Richard Miller,21,non-binary,ECONOMICS,83.93,49.98,41.88,F,3.5,4,False
+STU-15301,Mary Rodriguez,20,male,COMPUTER SCIENCE,90.95,45.02,89.54,C,3.49,1,True
+STU-38902,John Taylor,24,MALE,ENGINEERING,86.05,72.8,81.64,C,1.49,3,True
+STU-65615,James Taylor,18,Non-binary,ECONOMICS,72.1,49.59,71.24,D,2.27,2,True
+STU-40843,William Smith,17,non-binary,PSYCHOLOGY,97.18,76.24,40.14,F,,1,True
+STU-79755,Linda Hernandez,25,Non-binary,Business Administration,81.3,46.69,82.96,C,1.02,4,False
+STU-42204,Robert Thomas,26,Non-binary,ECONOMICS,93.8,80.57,85.09,B,1.03,1,True
+STU-38577,Thomas Hernandez,17,female,Psychology,87.57,74.36,44.3,F,1.51,4,False
+STU-82540,Susan Garcia,19,M,Computer Science,66.27,50.31,49.06,F,2.5,1,False
+STU-59541,John Lopez,21,NON-BINARY,Physics,,45.57,48.25,F,,4,False
+STU-54294,Lisa Martinez,20,MALE,business administration,82.0,95.3,39.75,F,1.14,1,False
+STU-67061,Karen Thomas,17,Female,BUSINESS ADMINISTRATION,54.42,62.04,87.45,C,2.12,3,False
+STU-92860,David Jackson,22,FEMALE,Economics,64.4,70.12,51.32,F,,1,False
+STU-44800,Sarah Williams,19,non-binary,Psychology,55.71,80.17,86.82,B,3.18,3,False
+STU-42597,William Anderson,22,F,ECONOMICS,63.16,87.62,44.66,F,2.64,3,False
+STU-67741,John Davis,21,Non-binary,mathematics,57.17,97.85,33.97,F,2.23,1,False
+STU-84642,Jennifer Moore,18,F,Computer Science,72.74,58.38,58.49,F,,2,True
+STU-35380,Linda Miller,21,M,Engineering,95.96,75.53,39.26,F,1.08,2,True
+STU-32626,Jennifer Hernandez,24,Non-binary,Psychology,53.21,70.8,65.08,D,,2,False
+STU-17514,Thomas Hernandez,22,Non-binary,PSYCHOLOGY,59.61,84.33,42.03,F,3.1,4,False
+STU-61558,Susan Smith,25,F,Mathematics,84.34,64.3,40.52,F,2.95,2,True
+STU-80729,Charles Moore,17,FEMALE,Psychology,65.26,88.89,68.57,C,,3,True
+STU-72970,Charles Brown,18,non-binary,ECONOMICS,,71.64,70.26,C,2.18,2,True
+STU-56171,Thomas Johnson,26,non-binary,Computer Science,55.16,64.2,95.2,B,2.34,4,False
+STU-50265,Thomas Martinez,25,F,Mathematics,84.24,95.65,44.72,F,1.97,2,False
+STU-81947,William Johnson,26,Male,MATHEMATICS,94.43,87.42,75.99,C,2.82,2,False
+STU-72259,James Johnson,21,female,ENGINEERING,71.28,58.64,53.12,F,,1,True
+STU-12118,Jennifer Jones,17,FEMALE,computer science,97.57,81.51,46.09,F,2.3,3,False
+STU-21804,Patricia Martin,24,MALE,Biology,52.42,98.54,46.88,D,3.04,4,False
+STU-18286,James Smith,20,Non-binary,business administration,81.29,58.78,81.93,C,,3,False
+STU-50470,Michael Smith,26,non-binary,business administration,59.08,47.48,33.2,F,1.21,1,True
+STU-18573,William Jackson,17,NON-BINARY,Psychology,71.54,85.86,39.33,F,2.99,3,False
+STU-94218,Karen Davis,25,FEMALE,business administration,77.71,50.26,70.91,D,3.04,3,False
+STU-47876,Barbara Jackson,22,M,Computer Science,50.14,69.45,56.39,D,1.47,3,True
+STU-42592,Michael Martinez,19,Female,ENGINEERING,60.4,46.47,51.09,F,3.14,4,False
+STU-67389,William Taylor,20,FEMALE,MATHEMATICS,71.03,43.63,90.34,C,2.31,4,False
+STU-60961,Barbara Thomas,21,non-binary,computer science,76.38,42.5,96.27,B,2.76,2,True
+STU-52800,Barbara Lopez,25,NON-BINARY,Mathematics,94.18,85.51,60.34,D,3.0,1,False
+STU-50216,Jessica Jones,23,NON-BINARY,MATHEMATICS,98.53,65.13,56.82,F,3.58,2,True
+STU-19538,Sarah Lopez,25,Male,COMPUTER SCIENCE,80.34,63.22,47.29,X,,2,True
+STU-54428,Joseph Thomas,17,Male,Mathematics,74.75,48.19,96.87,B,1.04,4,False
+STU-54884,Barbara Anderson,24,Female,BIOLOGY,63.76,42.14,39.8,F,1.08,3,False
+STU-42244,James Anderson,23,MALE,PSYCHOLOGY,,59.99,63.62,D,2.95,3,True
+STU-46746,Michael Thomas,26,NON-BINARY,mathematics,82.01,90.93,50.7,D,3.32,4,False
+STU-89116,Sarah Johnson,25,F,Physics,80.69,45.7,77.87,D,3.03,1,False
+STU-33636,James Martinez,24,F,computer science,71.57,78.04,88.07,B,1.63,2,False
+STU-37227,Linda Davis,26,F,engineering,54.91,92.9,33.58,F,1.22,4,True
+STU-16303,Joseph Moore,19,FEMALE,physics,97.4,50.49,38.95,F,3.08,2,False
+STU-80618,Patricia Wilson,17,female,ECONOMICS,68.85,78.45,76.43,C,2.03,1,True
+STU-74463,Robert Rodriguez,25,female,COMPUTER SCIENCE,74.56,64.59,41.84,F,3.27,2,False
+STU-10190,Susan Lopez,18,MALE,business administration,,67.11,48.99,F,2.18,3,False
+STU-13609,Patricia Gonzalez,20,NON-BINARY,Economics,63.61,75.11,83.3,B,1.68,3,True
+STU-48296,Thomas Rodriguez,21,Non-binary,Physics,,85.16,59.6,D,2.73,1,False
+STU-13080,James Smith,20,male,COMPUTER SCIENCE,53.35,67.16,38.33,F,2.98,1,False
+STU-72700,Sarah Martinez,22,NON-BINARY,COMPUTER SCIENCE,69.51,46.22,42.38,F,1.3,3,False
+STU-38707,Robert Jones,24,FEMALE,MATHEMATICS,84.77,46.19,56.11,F,3.7,2,False
+STU-92199,Barbara Wilson,18,male,Psychology,68.9,50.28,32.46,F,3.53,4,True
+STU-36382,James Jones,22,Male,BIOLOGY,86.3,75.11,79.5,C,2.67,2,False
+STU-72083,Mary Rodriguez,23,MALE,COMPUTER SCIENCE,54.36,92.67,76.53,B,2.52,2,False
+STU-44407,Linda Anderson,18,M,ENGINEERING,69.7,72.03,74.99,C,3.43,2,False
+STU-46556,Barbara Jones,21,F,COMPUTER SCIENCE,,71.52,92.26,Pass,2.45,3,True
+STU-99435,Linda Lopez,21,Male,BUSINESS ADMINISTRATION,87.78,63.41,80.94,C,2.37,1,True
+STU-21867,Lisa Gonzalez,19,FEMALE,Biology,67.69,47.98,56.97,F,3.21,3,False
+STU-22513,Robert Williams,24,FEMALE,ENGINEERING,85.96,85.75,82.3,B,1.77,1,False
+STU-82001,Richard Thomas,25,Non-binary,PHYSICS,78.63,58.04,82.85,C,1.2,3,True
+STU-20007,Barbara Williams,24,Male,ECONOMICS,95.99,46.14,40.67,F,2.94,3,True
+STU-52304,James Brown,21,Non-binary,ECONOMICS,78.02,85.41,67.68,C,3.09,2,True
+STU-21726,William Johnson,20,Female,Psychology,90.66,54.44,82.51,C,,4,False
+STU-68914,Richard Miller,21,male,BUSINESS ADMINISTRATION,92.39,43.54,47.26,F,1.98,4,False
+STU-63188,Jessica Wilson,24,F,Engineering,73.18,60.27,76.58,C,2.59,2,False
+STU-66362,Mary Williams,21,Non-binary,Biology,,40.98,90.8,C,3.3,3,False
+STU-27443,James Moore,23,Female,BIOLOGY,85.76,43.12,90.7,C,2.86,1,False
+STU-38673,Barbara Gonzalez,17,MALE,Economics,54.41,54.2,55.62,F,3.4,2,True
+STU-53300,Charles Brown,25,Female,BIOLOGY,80.94,98.49,43.61,D,,2,False
+STU-21190,Jessica Wilson,17,female,PHYSICS,,91.6,67.17,C,,3,True
+STU-98974,Richard Brown,26,FEMALE,ECONOMICS,,94.67,96.52,A,1.29,3,False
+STU-95736,Richard Moore,20,male,engineering,68.45,92.48,42.26,F,3.76,3,False
+STU-15460,Mary Martin,23,Male,MATHEMATICS,93.15,67.81,94.21,B,3.8,3,True
+STU-89234,Barbara Taylor,26,M,computer science,51.53,46.36,99.33,B,2.02,4,True
+STU-22306,David Wilson,25,F,BIOLOGY,53.09,47.74,47.9,F,1.74,3,True
+STU-90990,Joseph Moore,19,M,ECONOMICS,98.68,88.26,73.93,C,2.54,3,False
+STU-94645,Robert Anderson,17,M,Physics,83.1,55.36,88.28,Z,3.37,3,False
+STU-62956,Thomas Williams,19,male,BUSINESS ADMINISTRATION,74.0,59.25,82.28,C,2.88,4,False
+STU-19979,Robert Brown,17,M,PSYCHOLOGY,62.56,84.12,91.91,B,2.29,4,False
+STU-14302,Joseph Williams,26,FEMALE,Computer Science,50.23,69.03,93.42,B,2.96,3,False
+STU-38080,Sarah Hernandez,25,Non-binary,PHYSICS,56.53,41.68,77.27,D,1.4,3,False
+STU-31365,Richard Davis,18,MALE,Economics,,41.94,99.59,B,3.02,2,False
+STU-12913,Jessica Thomas,25,Female,Psychology,98.64,99.48,33.59,F,3.41,3,True
+STU-13860,James Gonzalez,20,M,MATHEMATICS,59.22,85.5,99.5,A,1.45,2,False
+STU-67978,Charles Rodriguez,23,Female,BUSINESS ADMINISTRATION,,80.8,52.39,D,3.75,1,True
+STU-49489,John Martin,19,Non-binary,Mathematics,96.49,55.76,62.87,D,2.36,2,False
+STU-43619,Richard Martinez,21,NON-BINARY,physics,55.42,47.16,87.6,C,3.85,4,False
+STU-18926,Charles Smith,19,male,MATHEMATICS,64.63,92.86,34.09,F,3.17,3,False
+STU-79039,Linda Hernandez,21,MALE,business administration,77.19,96.6,82.92,B,1.15,2,True
+STU-30191,Jessica Thomas,22,FEMALE,Mathematics,65.4,69.19,99.85,A,2.19,2,False
+STU-81952,Patricia Wilson,19,non-binary,business administration,67.3,41.07,76.59,D,1.34,1,True
+STU-18387,Thomas Lopez,26,Female,Computer Science,86.35,74.76,73.52,C,1.68,3,True
+STU-76730,Patricia Rodriguez,21,F,Mathematics,76.44,74.74,71.44,C,3.78,4,False
+STU-22631,Charles Anderson,24,Female,Biology,71.84,61.75,55.57,F,2.97,1,False
+STU-78022,Richard Johnson,26,non-binary,Mathematics,78.78,47.05,83.48,C,3.02,4,False
+STU-46178,Barbara Brown,20,F,mathematics,73.2,79.51,57.19,D,3.85,1,False
+STU-68252,John Taylor,21,NON-BINARY,Engineering,90.07,72.14,80.7,C,,4,False
+STU-94120,David Davis,18,male,Biology,72.82,70.14,76.27,C,3.21,4,False
+STU-60793,Richard Smith,21,F,Computer Science,83.48,81.83,68.5,99,1.11,2,False
+STU-96941,Mary Thomas,20,Non-binary,Biology,64.38,46.95,46.44,F,2.68,3,False
+STU-68316,Patricia Williams,19,M,Biology,50.31,51.34,79.03,C,2.94,2,True
+STU-34791,Susan Gonzalez,26,NON-BINARY,MATHEMATICS,79.4,84.23,85.38,B,1.74,3,False
+STU-12284,Charles Wilson,25,Non-binary,BUSINESS ADMINISTRATION,72.34,82.2,71.73,C,1.61,1,True
+STU-84308,Jennifer Smith,22,MALE,Business Administration,96.03,88.11,81.03,B,1.76,3,True
+STU-27093,Jessica Johnson,19,non-binary,Mathematics,64.77,43.19,62.56,F,2.96,4,True
+STU-55003,Richard Garcia,19,female,BIOLOGY,,81.68,54.03,D,3.06,1,False
+STU-62220,Sarah Smith,24,non-binary,BUSINESS ADMINISTRATION,53.31,77.18,38.29,F,3.95,3,False
+STU-62099,Charles Williams,20,M,Engineering,56.83,76.28,47.99,F,3.38,3,True
+STU-46271,Charles Moore,22,male,Economics,73.59,53.92,58.33,F,2.0,2,False
+STU-34387,Sarah Martinez,26,Male,engineering,59.25,40.38,42.31,F,1.43,2,True
+STU-63965,Barbara Hernandez,21,male,PSYCHOLOGY,69.99,86.35,50.86,D,3.38,2,True
+STU-49774,Joseph Smith,25,Non-binary,ECONOMICS,54.41,45.52,39.28,F,3.55,3,True
+STU-56029,Jennifer Jones,25,male,mathematics,58.75,49.3,30.92,F,1.98,2,False
+STU-98403,Richard Lopez,24,NON-BINARY,Physics,,50.94,88.65,C,3.28,2,False
+STU-97817,Lisa Anderson,24,male,Biology,95.54,62.26,84.26,C,2.91,3,False
+STU-90546,John Johnson,18,NON-BINARY,PHYSICS,62.28,85.78,67.71,C,1.48,4,True
+STU-67460,Richard Miller,21,non-binary,ECONOMICS,83.93,49.98,41.88,F,3.5,4,False
+STU-67392,Charles Martin,17,Non-binary,Computer Science,77.66,75.72,51.49,F,1.76,3,False
+STU-92716,William Jackson,84,non-binary,COMPUTER SCIENCE,65.83,50.33,47.89,F,1.11,3,False
+STU-47001,Lisa Brown,21,male,Business Administration,,98.44,76.78,B,2.73,3,False
+STU-52412,Joseph Jones,23,non-binary,business administration,97.9,85.09,90.77,B,3.61,2,True
+STU-79602,Barbara Smith,18,FEMALE,BUSINESS ADMINISTRATION,95.26,66.75,91.92,B,2.4,4,True
+STU-41859,Richard Rodriguez,25,Non-binary,MATHEMATICS,55.94,92.46,69.9,C,1.75,3,True
+STU-20462,James Davis,25,male,BIOLOGY,,58.44,75.24,C,1.36,4,True
+STU-39325,James Smith,25,female,Economics,69.53,93.11,34.38,F,3.5,4,False
+STU-53785,Joseph Garcia,18,female,BIOLOGY,82.66,98.45,58.72,C,2.86,2,False
+STU-96174,Jessica Davis,22,Female,Business Administration,87.27,58.44,48.02,F,,1,False
+STU-18136,John Wilson,20,Male,COMPUTER SCIENCE,99.7,94.52,36.38,F,3.93,1,True
+STU-78921,Michael Garcia,18,male,Physics,91.82,47.58,72.46,D,2.94,3,False
+STU-98000,Robert Martin,17,Non-binary,COMPUTER SCIENCE,87.29,69.53,73.78,C,,1,False
+STU-28156,Karen Smith,21,Male,BUSINESS ADMINISTRATION,98.0,93.24,38.25,F,3.09,4,True
+STU-60150,Richard Garcia,17,M,PSYCHOLOGY,68.59,89.25,68.83,C,1.84,1,False
+STU-60631,Robert Anderson,20,MALE,mathematics,88.38,55.24,53.84,F,2.29,2,False
+STU-81122,Karen Jones,90,M,physics,76.73,71.96,65.13,D,3.64,2,True
+STU-91768,Karen Jackson,20,NON-BINARY,computer science,79.62,99.31,34.11,F,2.92,2,True
+STU-10365,Jessica Thomas,23,Male,mathematics,,40.61,80.04,D,3.88,2,False
+STU-99301,David Moore,23,female,Biology,,92.14,30.3,F,1.61,2,False
+STU-50130,Barbara Moore,23,F,Engineering,,66.87,61.51,D,3.82,4,False
+STU-82772,James Moore,26,Male,Engineering,87.81,59.51,34.26,F,2.85,3,True
+STU-62044,Jennifer Miller,17,NON-BINARY,computer science,,60.0,83.6,C,2.48,3,True
+STU-58705,Mary Gonzalez,24,M,COMPUTER SCIENCE,92.75,46.88,33.88,F,3.38,3,True
+STU-95119,Sarah Brown,18,female,BIOLOGY,,81.12,86.34,B,2.42,3,False
+STU-74595,Charles Moore,23,female,Mathematics,72.68,82.01,58.19,D,1.71,4,False
+STU-46493,Mary Gonzalez,25,female,Psychology,,48.17,95.67,X,3.13,3,False
+STU-46059,Mary Anderson,19,Female,Psychology,99.59,70.19,94.37,B,3.66,3,True
+STU-88265,Susan Jones,26,F,computer science,65.74,64.44,30.85,F,,4,False
+STU-13318,Robert Thomas,19,male,COMPUTER SCIENCE,65.46,59.19,76.38,C,1.36,1,False
+STU-58929,Patricia Johnson,25,Non-binary,Computer Science,56.77,98.81,30.58,F,2.26,4,False
+STU-94866,Sarah Lopez,24,Female,BIOLOGY,72.95,60.48,47.83,F,1.37,4,False
+STU-63454,Susan Wilson,21,male,business administration,96.24,78.73,61.55,D,3.04,1,True
+STU-77163,Richard Miller,26,non-binary,Psychology,88.67,84.86,34.68,F,1.68,4,False
+STU-50579,Karen Wilson,17,Female,engineering,93.18,49.26,59.51,F,1.05,2,True
+STU-28594,James Martin,24,M,Computer Science,50.23,75.59,76.19,C,3.71,3,False
+STU-73738,Richard Rodriguez,26,non-binary,engineering,89.98,57.05,30.48,H,2.26,4,False
+STU-60145,Richard Brown,19,Male,Mathematics,80.88,41.92,39.52,F,3.23,4,False
+STU-92968,Susan Martinez,18,F,BIOLOGY,77.14,82.29,49.31,F,3.73,4,False
+STU-59664,Robert Jackson,22,male,Economics,54.51,89.0,89.84,B,2.15,2,True
+STU-16870,Thomas Martin,18,Non-binary,engineering,76.05,83.63,86.67,B,,1,False
+STU-58893,Patricia Brown,22,non-binary,Computer Science,,96.74,52.01,D,3.34,4,False
+STU-16285,Karen Smith,21,female,Physics,67.59,72.27,87.66,B,2.3,2,False
+STU-10974,David Anderson,18,NON-BINARY,PSYCHOLOGY,78.07,46.99,39.5,F,,3,True
+STU-68062,James Miller,19,Female,BIOLOGY,88.46,78.47,70.25,C,1.45,3,False
+STU-78750,Sarah Smith,26,Female,PHYSICS,57.95,93.03,58.6,D,2.68,3,True
+STU-58859,Thomas Martin,17,male,engineering,73.77,81.75,70.38,C,3.33,3,True
+STU-84261,David Martinez,19,NON-BINARY,Psychology,97.42,79.77,84.25,B,1.17,4,False
+STU-35796,John Brown,20,male,engineering,64.27,72.24,83.57,B,2.47,1,False
+STU-38001,John Lopez,25,MALE,engineering,77.04,48.97,84.53,C,,3,False
+STU-63787,Patricia Smith,26,Female,Business Administration,85.63,97.9,50.98,D,3.15,4,True
+STU-39994,Jessica Thomas,19,non-binary,Mathematics,97.26,40.89,85.89,C,2.37,1,False
+STU-44398,David Anderson,24,FEMALE,Psychology,65.01,69.35,68.21,D,,2,True
+STU-90398,Jessica Wilson,17,FEMALE,ENGINEERING,,40.86,85.34,C,2.27,3,False
+STU-80430,Patricia Martin,25,Male,engineering,74.04,83.56,50.51,D,3.47,1,True
+STU-96196,Susan Miller,17,NON-BINARY,COMPUTER SCIENCE,96.94,49.37,45.6,F,1.03,3,False
+STU-76368,Robert Martin,19,NON-BINARY,MATHEMATICS,98.86,87.54,87.73,B,3.47,1,False
+STU-82947,Barbara Brown,23,MALE,MATHEMATICS,60.81,57.2,33.44,F,1.8,2,False
+STU-27919,Sarah Williams,26,M,ENGINEERING,73.82,70.6,64.36,D,2.29,1,False
+STU-97962,Karen Rodriguez,24,NON-BINARY,business administration,85.16,44.24,85.37,C,,2,False
+STU-98854,Barbara Garcia,21,female,Business Administration,57.93,54.56,59.39,F,2.1,4,False
+STU-35120,Charles Jackson,25,NON-BINARY,COMPUTER SCIENCE,83.65,74.0,67.56,D,1.36,2,False
+STU-97516,William Moore,20,male,ENGINEERING,90.83,58.06,52.17,F,3.16,1,False
+STU-53703,Sarah Davis,25,Male,COMPUTER SCIENCE,55.16,93.76,46.19,D,1.61,4,False
+STU-58439,Mary Lopez,19,NON-BINARY,Engineering,86.48,73.15,32.76,F,2.22,2,False
+STU-46163,John Martin,19,male,BIOLOGY,54.06,92.12,95.72,A,1.04,1,True
+STU-27656,Richard Hernandez,17,female,computer science,,97.37,94.27,A,2.51,3,False
+STU-71160,Thomas Lopez,26,female,physics,76.17,64.46,65.22,D,3.41,2,True
+STU-45841,Thomas Gonzalez,26,NON-BINARY,Economics,59.83,86.18,81.19,Pass,2.77,3,False
+STU-90680,Charles Moore,19,non-binary,ENGINEERING,72.04,80.6,37.0,F,3.28,3,False
+STU-12533,Michael Williams,20,F,computer science,94.41,81.12,95.9,A,1.59,2,False
+STU-39723,Linda Garcia,23,FEMALE,COMPUTER SCIENCE,77.5,77.61,47.8,F,2.3,4,True
+STU-12070,Jessica Jones,18,non-binary,engineering,80.25,63.39,84.76,C,1.19,4,False
+STU-87180,Susan Davis,21,MALE,BIOLOGY,71.18,61.28,33.08,F,2.93,2,False
+STU-98277,Robert Brown,25,non-binary,computer science,76.69,69.58,99.04,A,2.85,4,False
+STU-94129,Thomas Gonzalez,17,M,mathematics,53.12,81.93,37.35,F,3.48,1,True
+STU-92593,Linda Jones,25,female,Physics,50.22,44.04,39.68,F,1.45,1,False
+STU-93454,James Thomas,18,MALE,PHYSICS,72.76,93.19,78.64,B,1.07,4,True
+STU-97304,Lisa Brown,18,MALE,Mathematics,73.13,70.45,57.15,D,3.06,2,True
+STU-24357,Charles Johnson,26,NON-BINARY,MATHEMATICS,54.29,58.05,33.52,F,3.18,2,False
+STU-99474,John Thomas,26,Male,mathematics,79.1,97.35,45.27,D,1.09,2,False
+STU-18363,Thomas Gonzalez,17,F,physics,58.55,85.25,31.61,F,2.8,2,False
+STU-28939,Sarah Garcia,22,FEMALE,PHYSICS,98.11,94.58,64.23,C,3.02,3,False
+STU-81589,Charles Brown,19,Female,COMPUTER SCIENCE,84.22,94.96,43.06,F,,4,False
+STU-66924,David Davis,25,NON-BINARY,ENGINEERING,56.36,78.03,83.61,B,2.02,2,False
+STU-12605,Linda Wilson,26,Female,physics,57.69,52.73,75.01,D,1.14,3,True
+STU-78925,Karen Thomas,25,Female,COMPUTER SCIENCE,69.4,42.97,78.83,D,1.6,3,False
+STU-30469,James Jones,17,female,Mathematics,68.09,49.72,46.16,F,1.18,1,False
+STU-47239,Karen Moore,23,FEMALE,Mathematics,88.95,67.61,85.85,B,3.01,4,False
+STU-10766,Charles Lopez,18,F,BUSINESS ADMINISTRATION,66.78,58.86,97.01,B,2.37,1,False
+STU-70903,Karen Jackson,19,MALE,PHYSICS,91.2,77.23,93.34,B,3.79,2,False
+STU-65465,Susan Williams,17,Female,computer science,94.93,58.12,48.39,F,3.66,2,True
+STU-36078,Michael Martin,24,Female,ENGINEERING,94.48,66.21,40.42,F,1.19,2,False
+STU-97282,William Jackson,21,male,business administration,,91.64,86.09,B,,4,False
+STU-89588,Lisa Rodriguez,21,female,ENGINEERING,72.08,82.97,36.68,F,1.8,1,False
+STU-12381,Michael Rodriguez,17,MALE,BUSINESS ADMINISTRATION,60.17,85.76,49.44,D,2.34,4,False
+STU-39600,Joseph Miller,21,M,Computer Science,92.88,69.0,60.73,D,4.0,2,False
+STU-38210,Richard Jackson,18,non-binary,Mathematics,59.08,64.82,93.77,B,2.7,1,False
+STU-66343,Karen Gonzalez,21,NON-BINARY,Biology,94.24,55.32,68.92,D,3.72,4,False
+STU-32920,Karen Rodriguez,19,Male,computer science,72.89,56.82,94.24,B,3.28,1,False
+STU-56855,David Davis,17,female,MATHEMATICS,73.7,72.63,37.54,F,,3,False
+STU-62990,Susan Hernandez,18,Female,Psychology,88.2,63.41,41.04,F,3.62,1,False
+STU-60966,Joseph Brown,18,FEMALE,PHYSICS,,54.37,87.23,C,2.21,3,True
+STU-20505,Charles Gonzalez,19,male,mathematics,93.48,40.52,37.44,F,3.19,4,False
+STU-46971,Michael Brown,20,NON-BINARY,MATHEMATICS,64.43,91.32,65.24,C,,1,False
+STU-84110,Lisa Williams,21,Male,Engineering,96.83,80.48,48.4,F,1.6,4,False
+STU-29850,Mary Johnson,20,female,ENGINEERING,86.07,44.2,55.23,F,2.63,1,True
+STU-69695,Michael Garcia,19,male,ECONOMICS,57.36,46.2,83.31,C,3.49,4,False
+STU-54521,Linda Thomas,26,M,COMPUTER SCIENCE,,62.53,95.98,B,2.75,2,False
+STU-88733,John Smith,20,Male,MATHEMATICS,55.05,94.7,56.39,D,3.29,4,True
+STU-99979,Charles Davis,18,F,Computer Science,69.44,60.71,56.67,F,3.17,4,True
+STU-42873,Jennifer Lopez,17,female,Engineering,,57.51,34.46,F,1.58,4,True
+STU-99471,Robert Miller,23,Female,physics,52.0,92.11,94.51,A,3.29,4,False
+STU-18242,Susan Taylor,18,FEMALE,Physics,84.04,44.07,46.13,F,3.85,4,False
+STU-57386,David Rodriguez,19,non-binary,COMPUTER SCIENCE,68.41,65.69,80.43,C,2.7,3,True
+STU-82542,Linda Johnson,18,female,BIOLOGY,50.39,75.07,86.45,B,3.7,4,False
+STU-68365,Joseph Jackson,22,male,Biology,93.07,95.48,70.96,C,3.37,1,True
+STU-14582,Patricia Martin,24,FEMALE,ECONOMICS,94.58,60.09,91.05,B,1.9,3,True
+STU-52812,Sarah Williams,21,Female,Engineering,97.3,97.66,55.72,D,3.33,4,True
+STU-25951,James Moore,21,M,BUSINESS ADMINISTRATION,69.19,45.58,34.32,F,,3,True
+STU-29821,Mary Wilson,26,Male,Mathematics,78.82,78.58,44.82,F,2.47,4,True
+STU-51513,Richard Jones,17,female,mathematics,57.55,96.76,45.19,Z,,3,False
+STU-86662,Charles Garcia,17,F,BIOLOGY,67.19,60.39,35.95,F,1.53,3,False
+STU-25830,Karen Martin,22,Non-binary,Physics,64.17,90.34,49.81,D,3.94,2,False
+STU-95863,Richard Thomas,18,Male,physics,65.81,95.32,84.14,B,3.38,4,True
+STU-61550,Karen Jones,24,NON-BINARY,ECONOMICS,61.82,76.51,92.26,B,2.97,4,True
+STU-55579,Michael Martinez,23,FEMALE,business administration,73.63,75.14,90.14,B,1.73,1,True
+STU-54791,Jennifer Davis,21,FEMALE,Biology,75.55,64.04,84.58,C,3.73,3,True
+STU-44298,Jennifer Gonzalez,23,male,physics,,74.45,55.44,D,3.38,3,True
+STU-30855,Richard Moore,20,female,Economics,63.94,86.23,74.12,C,3.06,3,False
+STU-22879,Joseph Moore,17,non-binary,Economics,51.29,48.99,54.73,F,1.35,3,True
+STU-50202,Linda Hernandez,21,Non-binary,PSYCHOLOGY,90.31,83.44,66.98,C,3.4,1,False
+STU-18609,James Thomas,18,NON-BINARY,COMPUTER SCIENCE,89.32,77.79,98.42,A,3.56,3,True
+STU-36484,John Williams,26,FEMALE,Computer Science,52.4,43.97,66.95,D,1.84,3,False
+STU-21789,David Lopez,19,M,Business Administration,92.03,61.78,93.65,B,3.48,4,True
+STU-46693,Jennifer Anderson,24,Female,PSYCHOLOGY,60.49,90.96,61.04,C,2.15,2,False
+STU-68240,Barbara Jones,26,Male,engineering,63.41,68.51,83.54,C,2.77,3,True
+STU-29821,Mary Wilson,26,Male,Mathematics,78.82,78.58,44.82,F,2.47,4,True
+STU-77350,Joseph Thomas,91,Female,BUSINESS ADMINISTRATION,92.52,84.43,88.83,B,,1,True
+STU-95830,Joseph Williams,19,M,Biology,70.08,63.43,43.72,F,2.97,1,False
+STU-87388,Robert Martinez,19,Male,PHYSICS,95.18,55.18,57.95,F,2.11,2,False
+STU-31784,Karen Martinez,20,NON-BINARY,Psychology,63.24,84.94,71.05,Pass,1.0,4,True
+STU-49178,Susan Thomas,17,male,Engineering,68.84,81.76,87.54,B,3.29,3,False
+STU-91254,Thomas Williams,23,Male,business administration,80.49,49.99,73.78,D,3.86,1,False
+STU-66169,Sarah Williams,19,Male,Computer Science,73.56,41.96,50.4,F,3.04,3,False
+STU-54989,Richard Gonzalez,21,Female,PSYCHOLOGY,,48.85,47.32,F,1.56,1,False
+STU-54536,Mary Anderson,24,MALE,engineering,85.21,90.67,62.46,C,3.79,3,True
+STU-12565,David Moore,22,Male,Psychology,59.67,46.51,51.44,F,1.75,3,False
+STU-78920,Karen Garcia,17,NON-BINARY,business administration,,47.7,80.61,C,,3,True
+STU-34917,Thomas Martin,17,Female,BUSINESS ADMINISTRATION,92.64,81.47,87.98,B,1.67,3,False
+STU-80999,William Martin,21,NON-BINARY,PSYCHOLOGY,71.36,75.36,73.42,C,1.94,3,False
+STU-65884,Sarah Thomas,26,male,MATHEMATICS,71.89,63.36,83.52,C,2.02,4,False
+STU-30390,Patricia Smith,18,Female,mathematics,,67.08,38.5,F,3.34,4,False
+STU-86247,Karen Rodriguez,19,M,Computer Science,60.84,83.0,96.55,A,1.38,3,False
+STU-65274,Robert Hernandez,22,MALE,BUSINESS ADMINISTRATION,51.92,47.96,78.8,X,1.07,2,False
+STU-30630,Lisa Moore,20,F,ENGINEERING,,90.2,61.16,D,2.82,1,False
+STU-16089,Jennifer Garcia,22,Female,PHYSICS,80.98,56.77,67.95,D,2.75,2,False
+STU-52890,Barbara Davis,19,NON-BINARY,PSYCHOLOGY,,75.59,70.12,C,2.24,2,False
+STU-89723,Susan Davis,17,non-binary,ENGINEERING,,51.2,42.24,F,3.89,4,False
+STU-88153,Charles Smith,22,Non-binary,business administration,97.89,94.9,84.9,B,1.92,1,False
+STU-34386,Thomas Jackson,26,female,physics,85.34,98.91,86.24,A,2.11,2,True
+STU-20553,Jennifer Jackson,20,FEMALE,Computer Science,51.82,98.5,37.62,F,,4,True
+STU-99204,Linda Smith,22,Non-binary,Economics,89.0,73.77,67.14,99,2.09,2,False
+STU-69753,Patricia Brown,25,Female,MATHEMATICS,,81.6,63.65,D,2.17,1,False
+STU-77463,John Gonzalez,25,Female,PSYCHOLOGY,95.25,90.55,54.17,D,1.76,3,True
+STU-81819,Sarah Wilson,20,Male,Physics,80.13,44.62,84.1,C,3.35,1,False
+STU-63261,William Hernandez,25,female,business administration,66.39,85.52,92.19,A,3.97,2,True
+STU-88509,Thomas Martinez,18,female,Economics,51.55,43.98,35.94,F,1.44,1,True
+STU-21689,Robert Hernandez,19,M,BUSINESS ADMINISTRATION,95.79,64.08,62.7,D,2.39,2,False
+STU-25861,James Garcia,19,non-binary,Physics,72.31,99.79,56.13,D,,2,False
+STU-22348,Barbara Miller,18,male,engineering,79.83,86.31,78.07,B,3.47,4,False
+STU-50976,Patricia Gonzalez,25,FEMALE,Psychology,68.41,45.04,34.66,F,1.16,1,True
+STU-49349,David Gonzalez,21,female,Economics,79.48,68.71,73.04,Z,3.93,4,True
+STU-28564,Jessica Rodriguez,19,M,ENGINEERING,,71.23,46.23,F,1.16,2,True
+STU-87471,Jessica Williams,19,Male,Biology,72.42,79.02,92.71,B,3.12,1,True
+STU-79601,Karen Taylor,21,Non-binary,BUSINESS ADMINISTRATION,92.51,45.43,50.42,F,,2,False
+STU-30092,Michael Williams,23,Male,computer science,74.87,89.83,58.87,D,2.73,1,True
+STU-86997,Patricia Williams,25,female,mathematics,86.63,54.93,72.11,D,1.54,2,True
+STU-69096,Jennifer Moore,21,Male,engineering,70.83,55.04,30.72,F,,2,False
+STU-87759,Barbara Lopez,20,NON-BINARY,physics,60.84,41.43,30.87,F,3.58,2,False
+STU-60930,David Anderson,26,male,Psychology,74.01,75.8,85.65,B,3.81,1,False
+STU-91508,Mary Johnson,23,Non-binary,ENGINEERING,54.96,62.89,33.52,99,2.2,2,True
+STU-61798,Sarah Jones,25,F,Economics,78.79,65.49,73.63,C,1.9,2,True
+STU-32792,Mary Jones,19,male,PHYSICS,63.43,75.3,32.77,F,1.63,4,False
+STU-51930,Susan Brown,20,FEMALE,Biology,87.43,67.22,89.21,B,1.8,2,True
+STU-19225,Robert Jackson,24,non-binary,business administration,89.31,46.35,38.54,F,1.6,1,False
+STU-40974,James Thomas,20,Non-binary,Business Administration,,79.19,52.68,Pass,1.22,4,False
+STU-49716,William Jones,17,female,Psychology,63.71,60.58,59.54,F,2.2,3,False
+STU-98447,Richard Moore,17,Non-binary,ECONOMICS,65.69,82.47,39.86,F,2.14,1,False
+STU-68077,David Moore,26,F,Business Administration,88.4,97.89,43.46,F,,4,False
+STU-25453,Robert Davis,23,M,COMPUTER SCIENCE,74.06,58.54,56.02,F,3.72,4,False
+STU-42912,Joseph Wilson,81,Non-binary,computer science,88.46,87.84,65.99,G,3.42,4,False
+STU-42660,Jennifer Brown,26,F,MATHEMATICS,,50.4,90.23,C,2.44,3,False
+STU-37319,William Martin,26,Male,physics,94.0,88.53,63.14,C,1.3,4,True
+STU-10783,Patricia Jackson,17,NON-BINARY,BUSINESS ADMINISTRATION,71.62,54.51,43.28,F,3.07,4,False
+STU-41732,Barbara Moore,89,F,Physics,67.13,54.25,90.4,C,3.21,2,False
+STU-42688,Patricia Jones,18,Male,MATHEMATICS,94.01,68.37,63.38,D,2.76,3,False
+STU-80303,Patricia Williams,26,F,Biology,53.99,96.72,53.56,N/A,,2,True
+STU-89527,Patricia Thomas,19,Male,Business Administration,57.88,92.98,56.04,D,3.51,4,False
+STU-93481,Jessica Smith,19,female,MATHEMATICS,67.43,87.25,97.89,A,1.2,2,False
+STU-50699,William Anderson,26,Male,physics,74.67,41.54,82.49,C,3.6,2,True
+STU-76255,Joseph Rodriguez,24,Male,Mathematics,74.86,78.57,41.45,F,,1,False
+STU-21428,Barbara Jackson,26,Male,Computer Science,80.27,79.31,57.61,D,2.33,2,False
+STU-14187,Charles Johnson,23,non-binary,computer science,67.81,40.34,83.5,C,3.74,3,False
+STU-68851,Joseph Martinez,19,Male,MATHEMATICS,,70.92,81.71,C,,2,True
+STU-32515,Jennifer Martin,22,Non-binary,Psychology,82.67,87.32,84.58,B,3.8,4,True
+STU-10647,Robert Miller,23,Non-binary,ENGINEERING,50.85,86.53,88.55,B,3.6,1,False
+STU-95026,Linda Jackson,25,M,PHYSICS,78.4,46.19,98.31,B,2.98,4,True
+STU-62598,Mary Taylor,23,M,BIOLOGY,91.41,68.41,55.58,F,3.19,4,True
+STU-35551,Thomas Taylor,23,female,Computer Science,64.91,52.25,50.73,Pass,3.29,1,True
+STU-64598,Jessica Martinez,24,FEMALE,PHYSICS,62.46,90.94,78.86,B,,3,False
+STU-68567,Linda Thomas,26,FEMALE,physics,,95.33,76.69,B,1.01,1,True
+STU-90425,Sarah Wilson,24,Non-binary,Business Administration,79.43,49.58,49.51,F,1.86,3,True
+STU-72081,Sarah Davis,23,M,PSYCHOLOGY,82.39,63.98,46.96,F,1.42,4,False
+STU-49305,Joseph Garcia,20,NON-BINARY,physics,94.04,78.77,36.34,F,3.38,2,True
+STU-17425,Patricia Rodriguez,21,Female,ECONOMICS,,65.18,88.54,B,1.25,1,False
+STU-62437,Jessica Jones,19,M,ENGINEERING,51.92,64.19,62.45,D,,4,True
+STU-82120,Karen Williams,22,NON-BINARY,engineering,,68.23,79.28,C,,1,True
+STU-28396,Susan Martin,20,non-binary,MATHEMATICS,84.18,84.36,89.27,B,3.49,2,False
+STU-96748,Michael Jones,23,Female,Physics,56.38,84.72,98.28,A,2.14,2,True
+STU-18653,James Miller,26,NON-BINARY,BUSINESS ADMINISTRATION,56.41,81.67,64.76,G,1.69,4,True
+STU-94205,Susan Gonzalez,26,NON-BINARY,Biology,98.62,98.11,57.4,D,1.97,4,False
+STU-32360,Jennifer Miller,25,male,COMPUTER SCIENCE,,56.5,53.64,F,,1,True
+STU-16125,Robert Davis,17,NON-BINARY,Mathematics,62.57,99.49,34.57,F,1.68,2,False
+STU-16432,William Martinez,25,Non-binary,COMPUTER SCIENCE,90.58,72.94,70.42,C,1.89,3,True
+STU-68216,Jessica Williams,23,non-binary,Biology,53.46,75.26,68.63,C,1.66,1,False
+STU-36144,Richard Martin,22,MALE,Engineering,73.59,51.78,47.14,X,2.07,2,False
+STU-62915,Jessica Thomas,22,MALE,physics,65.99,75.33,39.92,F,3.58,4,False
+STU-81661,Richard Anderson,17,M,Psychology,75.05,81.66,38.77,F,1.65,2,False
+STU-86132,John Martinez,19,Male,engineering,99.59,74.97,41.59,F,3.12,4,False
+STU-98392,Jessica Taylor,26,Female,engineering,94.71,98.88,83.84,B,3.62,2,True
+STU-73438,Richard Smith,18,FEMALE,PHYSICS,65.47,53.46,49.48,F,3.37,2,True
+STU-21570,Mary Lopez,20,non-binary,PHYSICS,50.42,76.77,64.8,D,2.34,3,False
+STU-15302,William Anderson,22,Non-binary,computer science,,98.69,73.69,B,1.06,4,False
+STU-21094,John Davis,25,FEMALE,computer science,94.25,57.8,42.85,F,1.47,2,True
+STU-54378,Barbara Martin,18,NON-BINARY,MATHEMATICS,76.48,60.47,56.13,F,1.38,4,True
+STU-26136,Richard Smith,20,female,computer science,72.34,63.95,44.39,F,,1,False
+STU-70140,Jennifer Rodriguez,23,NON-BINARY,PHYSICS,92.64,91.78,60.84,C,3.35,4,False
+STU-35111,Joseph Moore,21,female,engineering,78.47,70.16,63.59,D,1.06,1,False
+STU-63860,David Jones,24,F,engineering,56.6,65.8,77.74,C,1.58,1,True
+STU-42157,Michael Lopez,26,Male,Computer Science,,72.67,98.28,A,3.52,4,True
+STU-62989,Linda Davis,26,FEMALE,PHYSICS,65.49,45.44,30.22,G,3.64,3,False
+STU-70629,Patricia Thomas,24,FEMALE,physics,70.7,77.34,88.27,B,1.55,3,True
+STU-25689,Jessica Smith,20,female,BUSINESS ADMINISTRATION,80.49,60.75,92.01,B,2.81,1,False
+STU-74341,Karen Miller,24,female,business administration,,92.94,53.86,D,2.57,1,True
+STU-95643,Susan Gonzalez,21,female,Computer Science,73.82,79.8,35.81,F,,3,True
+STU-88091,Jessica Jones,19,MALE,Economics,57.05,95.81,86.61,B,1.58,1,True
+STU-74392,Susan Anderson,20,non-binary,Computer Science,88.7,75.38,31.26,F,3.63,3,True
+STU-50590,Susan Johnson,22,Non-binary,Engineering,72.63,63.8,46.64,F,1.82,2,True
+STU-40818,Barbara Hernandez,24,male,MATHEMATICS,51.84,43.52,91.26,C,3.99,2,False
+STU-46363,Susan Jones,20,female,computer science,75.32,81.92,83.22,B,2.63,1,False
+STU-41302,Michael Miller,22,M,PSYCHOLOGY,62.89,58.9,79.62,C,1.67,2,True
+STU-81566,John Anderson,22,MALE,MATHEMATICS,61.71,62.33,69.4,D,2.02,3,False
+STU-85231,Mary Taylor,25,MALE,PSYCHOLOGY,85.86,42.56,52.94,F,1.9,4,False
+STU-73837,Linda Rodriguez,26,female,computer science,55.07,78.38,49.32,F,3.77,1,False
+STU-64387,Mary Brown,23,male,BUSINESS ADMINISTRATION,84.19,77.01,82.59,B,2.52,1,False
+STU-22733,Linda Davis,86,M,COMPUTER SCIENCE,80.57,83.69,72.65,C,2.26,3,False
+STU-94296,Thomas Jackson,17,female,Business Administration,55.88,82.01,76.54,C,2.67,1,False
+STU-56316,Patricia Williams,24,NON-BINARY,Business Administration,57.07,71.13,64.6,D,2.47,3,False
+STU-48657,Joseph Gonzalez,19,male,ECONOMICS,51.19,83.03,55.97,D,3.45,3,True
+STU-19656,Karen Martinez,86,F,Biology,95.36,40.36,93.48,C,1.15,1,False
+STU-61445,Mary Moore,24,MALE,ECONOMICS,73.44,43.8,78.12,D,3.36,2,False
+STU-49283,Linda Williams,26,Female,PSYCHOLOGY,81.04,73.58,69.89,C,2.18,3,False
+STU-74341,Karen Miller,24,female,business administration,,92.94,53.86,D,2.57,1,True
+STU-89493,Linda Martinez,22,non-binary,mathematics,84.75,88.62,55.11,D,1.88,4,False
+STU-65839,Linda Moore,18,Non-binary,mathematics,77.18,99.75,58.59,C,,4,True
+STU-35967,Richard Martin,19,Non-binary,Engineering,58.8,83.25,72.07,C,3.18,4,False
+STU-66060,Sarah Martin,23,female,business administration,55.97,50.87,55.29,F,1.16,1,True
+STU-97962,Karen Rodriguez,24,NON-BINARY,business administration,85.16,44.24,85.37,C,,2,False
+STU-88941,Patricia Gonzalez,24,F,Computer Science,52.53,40.68,47.21,F,1.04,3,True
+STU-14868,Patricia Johnson,19,female,Computer Science,51.54,41.96,58.09,F,3.15,3,False
+STU-70011,Richard Hernandez,20,Male,computer science,,40.22,54.88,F,3.8,3,False
+STU-68961,Michael Williams,20,NON-BINARY,Mathematics,54.68,55.02,71.88,D,3.81,2,True
+STU-82578,Linda Wilson,26,Male,Mathematics,73.72,67.14,35.05,F,1.91,4,True
+STU-14347,Charles Martin,22,non-binary,Engineering,64.86,84.54,76.7,C,1.89,1,True
+STU-40957,Jessica Moore,22,Male,COMPUTER SCIENCE,86.44,63.79,84.32,C,2.38,4,False
+STU-46471,Jennifer Jackson,17,female,Economics,,73.99,33.42,F,3.68,4,True
+STU-90944,Jessica Garcia,19,Non-binary,MATHEMATICS,87.1,88.62,42.71,F,1.33,2,True
+STU-16394,Michael Taylor,26,non-binary,computer science,64.29,78.28,34.29,F,,3,False
+STU-27688,Jennifer Johnson,19,M,Economics,91.71,74.43,49.55,F,1.53,1,False
+STU-26661,Thomas Johnson,18,MALE,PHYSICS,51.9,63.28,35.85,F,1.2,4,False
+STU-32079,Sarah Martinez,18,MALE,Economics,,91.91,46.89,D,2.48,4,False
+STU-40999,Mary Gonzalez,23,Male,BUSINESS ADMINISTRATION,52.2,83.86,92.1,B,2.9,3,True
+STU-69777,Jennifer Johnson,21,Non-binary,physics,54.57,51.4,88.15,C,,3,True
+STU-46746,Michael Thomas,26,NON-BINARY,mathematics,82.01,90.93,50.7,D,3.32,4,False
+STU-62044,Jennifer Miller,17,NON-BINARY,computer science,,60.0,83.6,C,2.48,3,True
+STU-46524,Mary Johnson,22,male,engineering,96.62,43.77,94.93,C,,1,True
+STU-48255,Robert Martinez,22,NON-BINARY,PSYCHOLOGY,77.68,43.96,35.88,F,2.88,4,True
+STU-53554,James Jones,17,Male,computer science,57.8,58.41,74.74,D,3.64,1,False
+STU-22302,Barbara Davis,25,Female,physics,,43.07,80.94,D,,3,False
+STU-42640,Lisa Brown,21,non-binary,Economics,74.88,98.67,58.39,C,1.76,2,False
+STU-73126,Susan Davis,19,female,physics,73.67,49.07,89.71,C,2.2,4,True
+STU-64746,Mary Williams,22,M,mathematics,95.33,60.82,85.86,C,2.76,4,False
+STU-21799,Susan Taylor,19,FEMALE,PSYCHOLOGY,64.02,90.49,31.23,F,1.94,1,False
+STU-49588,John Wilson,19,MALE,BUSINESS ADMINISTRATION,84.22,75.42,92.99,B,1.63,1,False
+STU-85246,Thomas Wilson,23,male,MATHEMATICS,85.72,40.58,34.61,F,3.23,4,False
+STU-62244,John Jones,23,non-binary,Mathematics,59.02,96.14,85.04,B,2.9,3,True
+STU-40225,John Johnson,87,Female,Economics,60.81,58.24,80.5,C,3.69,1,True
+STU-24879,Lisa Davis,21,FEMALE,computer science,,64.29,65.3,D,,2,False
+STU-60457,Thomas Hernandez,20,FEMALE,Physics,76.12,79.27,49.21,F,2.43,4,True
+STU-31816,Sarah Jones,17,Male,MATHEMATICS,51.04,63.47,33.47,F,3.24,1,True
+STU-87610,Jennifer Garcia,23,F,PSYCHOLOGY,91.54,70.89,69.89,C,2.34,4,True
+STU-80879,Robert Hernandez,22,female,mathematics,79.01,62.33,98.85,B,1.44,4,False
+STU-97152,David Jones,21,female,MATHEMATICS,50.86,89.39,43.56,F,,3,False
+STU-49437,Mary Gonzalez,19,MALE,business administration,95.51,76.68,60.53,D,1.95,4,False
+STU-40608,Patricia Taylor,25,M,computer science,,89.79,53.2,D,3.12,3,False
+STU-72710,Lisa Martin,20,Non-binary,physics,85.55,56.81,33.13,F,,2,True
+STU-66588,David Hernandez,17,non-binary,business administration,,48.29,50.18,F,1.87,2,True
+STU-34850,William Lopez,18,NON-BINARY,BUSINESS ADMINISTRATION,71.1,66.38,40.5,F,2.09,2,False
+STU-18707,Jessica Moore,22,FEMALE,mathematics,99.92,50.53,75.92,D,3.68,1,False
+STU-50948,Jessica Martin,17,female,MATHEMATICS,61.78,67.61,40.11,F,1.36,1,False
+STU-22892,William Smith,22,male,ENGINEERING,69.65,51.04,61.16,F,1.66,3,True
+STU-72542,James Jones,83,female,mathematics,83.33,44.27,90.68,C,1.41,1,False
+STU-98847,Charles Jackson,18,female,BUSINESS ADMINISTRATION,85.49,66.07,84.03,C,2.37,3,True
+STU-80178,Karen Garcia,20,male,computer science,88.55,84.41,77.96,C,3.26,4,False
+STU-42601,Jessica Martin,18,Male,ECONOMICS,92.79,79.87,70.97,C,3.03,1,True
+STU-23865,Jessica Smith,25,MALE,Economics,73.5,90.09,39.08,F,2.79,4,True
+STU-85066,Richard Martinez,26,NON-BINARY,engineering,54.48,71.33,40.16,F,2.74,2,False
+STU-34443,Linda Smith,23,Male,Business Administration,80.57,97.06,59.67,C,1.72,2,True
+STU-56071,James Rodriguez,23,Non-binary,Mathematics,71.14,75.23,91.64,B,3.05,1,False
+STU-78921,Michael Garcia,18,male,Physics,91.82,47.58,72.46,D,2.94,3,False
+STU-12919,John Jones,22,F,ECONOMICS,76.1,73.54,91.09,B,1.91,1,False
+STU-72620,Susan Davis,23,Male,BUSINESS ADMINISTRATION,55.67,68.47,59.57,D,1.68,4,False
+STU-92059,Karen Anderson,24,non-binary,ENGINEERING,60.22,54.76,40.58,F,1.37,3,False
+STU-64499,John Thomas,22,male,computer science,94.21,54.4,72.27,D,3.72,2,False
+STU-26003,Sarah Martin,18,FEMALE,COMPUTER SCIENCE,67.66,63.27,43.25,F,3.18,1,True
+STU-97872,Jessica Moore,19,F,Engineering,78.93,99.94,95.12,A,2.91,3,True
+STU-31245,Lisa Johnson,23,male,Computer Science,64.36,71.73,64.3,D,2.65,4,False
+STU-21274,Charles Smith,22,Female,Physics,91.2,69.73,38.02,F,,1,False
+STU-82887,Thomas Taylor,21,FEMALE,MATHEMATICS,73.28,89.91,34.31,F,1.11,1,True
+STU-60992,Sarah Moore,86,FEMALE,BUSINESS ADMINISTRATION,91.13,49.11,89.8,C,2.6,2,False
+STU-29207,James Lopez,23,Non-binary,MATHEMATICS,,90.44,42.63,F,1.98,2,True
+STU-32612,John Johnson,22,MALE,PHYSICS,62.23,62.52,37.04,F,,1,False
+STU-82628,John Johnson,24,Female,Economics,98.53,79.46,56.53,D,4.0,2,False
+STU-50946,Robert Williams,19,Non-binary,business administration,55.11,48.54,98.69,B,3.28,4,True
+STU-22407,Karen Jackson,21,male,ENGINEERING,80.32,68.46,58.57,D,2.94,1,False
+STU-84338,Patricia Davis,21,M,Biology,92.79,74.46,94.71,B,,1,False
+STU-68580,Charles Thomas,18,Female,computer science,50.98,79.31,70.99,C,3.82,1,False
+STU-31351,Charles Jones,17,MALE,computer science,93.39,73.15,55.82,D,3.16,1,False
+STU-87162,David Brown,20,Male,engineering,91.77,64.26,42.77,F,3.45,3,False
+STU-91727,William Jackson,23,M,Biology,62.07,40.22,73.46,D,,4,True
+STU-46313,Karen Anderson,25,F,MATHEMATICS,87.22,98.98,90.59,A,1.61,2,True
+STU-52488,Linda Jackson,21,M,business administration,75.88,64.69,48.47,F,2.98,2,True
+STU-22137,Mary Gonzalez,18,Non-binary,PHYSICS,70.77,69.37,44.28,F,2.04,2,False
+STU-91912,Mary Hernandez,25,female,Business Administration,51.95,46.39,95.73,B,4.0,3,False
+STU-91906,Patricia Anderson,19,female,Physics,83.63,92.94,49.64,D,3.41,4,False
+STU-99263,Robert Rodriguez,17,MALE,Economics,77.02,97.81,79.73,B,1.4,2,False
+STU-50582,Linda Martinez,18,male,business administration,61.28,44.35,43.59,F,,4,True
+STU-61219,Joseph Martin,20,male,Psychology,80.74,87.43,92.21,A,3.27,2,False
+STU-60548,Susan Wilson,17,Female,business administration,51.65,64.4,54.71,F,2.41,1,False
+STU-48759,Robert Lopez,23,Non-binary,COMPUTER SCIENCE,98.31,98.3,42.78,F,3.66,2,False
+STU-71529,Mary Taylor,22,Non-binary,Physics,71.49,72.89,50.59,F,2.6,4,False
+STU-65980,David Jackson,21,M,Biology,77.53,54.19,41.66,F,3.11,2,False
+STU-47740,Linda Anderson,92,MALE,Economics,64.79,85.42,43.71,F,3.74,1,False
+STU-75215,Michael Martinez,22,Female,Economics,66.05,87.0,53.21,D,1.1,2,False
+STU-39161,James Gonzalez,23,male,physics,52.03,82.03,61.16,D,3.63,1,False
+STU-24674,John Anderson,25,Non-binary,ECONOMICS,79.38,57.39,76.3,N/A,3.55,4,True
+STU-62232,James Rodriguez,22,Male,BIOLOGY,68.07,51.65,34.67,F,,1,False
+STU-55188,Linda Taylor,95,non-binary,physics,64.07,49.68,34.31,F,3.71,1,False
+STU-11587,Robert Miller,20,female,MATHEMATICS,71.35,74.09,99.33,A,3.97,2,True
+STU-72825,Richard Jackson,19,Male,PSYCHOLOGY,58.99,92.55,85.93,B,1.15,1,False
+STU-70387,William Jones,23,male,BUSINESS ADMINISTRATION,55.55,43.07,55.44,F,1.58,3,True
+STU-15885,Jessica Thomas,26,non-binary,Computer Science,78.48,50.39,67.56,D,3.82,4,True
+STU-51525,Michael Williams,17,Female,Computer Science,79.16,57.12,60.86,F,2.27,2,True
+STU-87449,Linda Anderson,17,M,BIOLOGY,62.71,55.92,67.15,N/A,2.35,4,True
+STU-68903,Joseph Anderson,18,female,PSYCHOLOGY,84.99,42.03,57.89,F,3.19,1,False
+STU-89311,Jessica Gonzalez,26,NON-BINARY,COMPUTER SCIENCE,,45.95,50.68,F,1.42,2,True
+STU-60845,John Johnson,24,NON-BINARY,BIOLOGY,50.65,41.15,69.98,D,3.73,1,True
+STU-98055,William Wilson,23,M,mathematics,68.07,85.91,50.21,D,3.07,1,True
+STU-89128,Mary Smith,17,male,BIOLOGY,82.4,65.82,56.37,F,2.02,3,False
+STU-85825,Charles Taylor,19,female,Engineering,82.97,45.66,93.38,C,2.01,1,True
+STU-87189,Charles Moore,18,FEMALE,Economics,97.14,49.96,62.71,F,1.87,4,True
+STU-27009,Linda Taylor,22,female,mathematics,94.51,96.11,69.02,C,3.33,4,True
+STU-31271,Robert Hernandez,25,M,Psychology,99.56,85.44,54.6,D,2.17,4,True
+STU-52823,William Moore,23,Female,Business Administration,87.5,90.23,77.16,Z,1.53,4,False
+STU-61366,Jennifer Jackson,19,Non-binary,PSYCHOLOGY,96.21,82.7,68.99,C,1.44,1,True
+STU-80679,David Miller,20,MALE,Computer Science,66.09,42.78,86.67,C,3.66,2,False
+STU-38238,Sarah Wilson,20,non-binary,physics,76.67,46.02,33.19,F,3.39,3,True
+STU-67653,Patricia Rodriguez,25,FEMALE,business administration,99.83,51.18,53.87,F,3.32,4,True
+STU-53361,Joseph Gonzalez,21,non-binary,business administration,97.35,61.63,46.8,F,,3,False
+STU-21140,Lisa Johnson,22,F,engineering,56.7,56.11,49.56,Pass,3.07,3,True
+STU-52526,Charles Taylor,24,Non-binary,engineering,63.98,91.76,39.68,F,2.53,3,False
+STU-40127,Patricia Anderson,18,F,mathematics,,42.56,30.92,F,3.18,3,False
