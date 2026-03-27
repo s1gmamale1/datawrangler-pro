@@ -80,7 +80,7 @@ else:
             "Timestamp": entry.get("timestamp", ""),
             "Operation": entry.get("operation", ""),
             "Column": entry.get("column", ""),
-            "Parameters": json.dumps(entry.get("params", {})),
+            "Parameters": json.dumps(entry.get("params", {}), default=str),
         })
     report_df = pd.DataFrame(report_rows).astype(str)
     st.dataframe(report_df, use_container_width=True, hide_index=True)
