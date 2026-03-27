@@ -2,6 +2,9 @@
 
 A Streamlit-based data preparation studio for the 5COSC038C Data Wrangling & Visualization module.
 
+## Live App
+**https://datawrangler-progit-ktvnbhshzvfekirot4vrfp.streamlit.app/**
+
 ## Features
 - Upload CSV, Excel, JSON datasets
 - Interactive data profiling and quality scoring
