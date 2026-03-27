@@ -246,7 +246,7 @@ with right:
             st.session_state["last_fig"] = fig
 
     if "last_fig" in st.session_state and st.session_state["last_fig"] is not None:
-        st.plotly_chart(st.session_state["last_fig"], use_container_width=True, key="main_chart")
+        st.plotly_chart(st.session_state["last_fig"], use_container_width=True, key=f"main_{chart_type}")
 
         if st.button("Save Chart", use_container_width=True):
             st.session_state.saved_charts.append(

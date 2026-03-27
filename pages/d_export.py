@@ -245,7 +245,7 @@ st.download_button(
 st.header("4. Session Summary")
 
 total_ops = len(transform_log)
-cols_modified = len({e.get("column", "") for e in transform_log if e.get("column", "")})
+cols_modified = len({str(e.get("column", "")) for e in transform_log if e.get("column", "")})
 
 null_before = int(original_df.isnull().sum().sum())
 null_after = int(df.isnull().sum().sum())
