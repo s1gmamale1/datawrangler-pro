@@ -82,7 +82,7 @@ else:
             "Column": entry.get("column", ""),
             "Parameters": json.dumps(entry.get("params", {})),
         })
-    report_df = pd.DataFrame(report_rows)
+    report_df = pd.DataFrame(report_rows).astype(str)
     st.dataframe(report_df, use_container_width=True, hide_index=True)
 
     report_csv = report_df.to_csv(index=False).encode("utf-8")
