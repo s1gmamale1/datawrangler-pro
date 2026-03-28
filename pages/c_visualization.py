@@ -1,6 +1,11 @@
 import streamlit as st
 import pandas as pd
 import plotly.express as px
+import matplotlib.pyplot as plt
+import matplotlib
+matplotlib.use("Agg")
+import seaborn as sns
+import numpy as np
 
 st.title("C — Visualization")
 
@@ -108,6 +113,147 @@ def build_chart(df, cfg):
     except Exception as e:
         st.error(f"Chart error: {e}")
         return None
+
+
+def build_chart_mpl(df, cfg):
+    """Build chart using matplotlib. Returns a Figure or None."""
+    ctype = cfg["chart_type"]
+    try:
+        fig, ax = plt.subplots(figsize=(10, 6))
+
+        if ctype == "Histogram":
+            col = cfg["x"]
+            bins = cfg.get("bins", 30)
+            if cfg.get("color"):
+                groups = df.groupby(cfg["color"])[col]
+                for name, group in groups:
+                    ax.hist(group.dropna(), bins=bins, alpha=0.6, label=str(name))
+                ax.legend()
+            else:
+                ax.hist(df[col].dropna(), bins=bins, edgecolor="black", alpha=0.7)
+            ax.set_xlabel(col)
+            ax.set_ylabel("Count")
+            ax.set_title(f"Histogram of {col}")
+
+        elif ctype == "Box Plot":
+            y_col = cfg["y"]
+            if cfg.get("x"):
+                groups = df.groupby(cfg["x"])[y_col].apply(lambda g: g.dropna().tolist())
+                labels = [str(l) for l in groups.index]
+                ax.boxplot(groups.values, labels=labels)
+                ax.set_xlabel(cfg["x"])
+            else:
+                ax.boxplot(df[y_col].dropna())
+            ax.set_ylabel(y_col)
+            ax.set_title(f"Box Plot of {y_col}")
+            plt.xticks(rotation=45, ha="right")
+
+        elif ctype == "Scatter Plot":
+            x_col, y_col = cfg["x"], cfg["y"]
+            if cfg.get("color"):
+                groups = df.groupby(cfg["color"])
+                for name, group in groups:
+                    ax.scatter(group[x_col], group[y_col], alpha=0.6, label=str(name),
+                               s=group[cfg["size"]] if cfg.get("size") else 30)
+                ax.legend()
+            else:
+                s = df[cfg["size"]] if cfg.get("size") else 30
+                ax.scatter(df[x_col], df[y_col], alpha=0.6, s=s)
+            if cfg.get("trendline"):
+                mask = df[[x_col, y_col]].dropna()
+                if len(mask) > 1:
+                    z = np.polyfit(mask[x_col], mask[y_col], 1)
+                    p = np.poly1d(z)
+                    x_line = np.linspace(mask[x_col].min(), mask[x_col].max(), 100)
+                    ax.plot(x_line, p(x_line), "r--", linewidth=2, label="OLS trendline")
+                    ax.legend()
+            ax.set_xlabel(x_col)
+            ax.set_ylabel(y_col)
+            ax.set_title(f"Scatter: {x_col} vs {y_col}")
+
+        elif ctype == "Line Chart":
+            x_col = cfg["x"]
+            y_cols = cfg.get("y_cols", [])
+            for yc in y_cols:
+                ax.plot(df[x_col], df[yc], label=yc, marker="." if len(df) < 200 else None)
+            if len(y_cols) > 1:
+                ax.legend()
+            ax.set_xlabel(x_col)
+            ax.set_ylabel(", ".join(y_cols))
+            ax.set_title("Line Chart")
+            plt.xticks(rotation=45, ha="right")
+
+        elif ctype == "Bar Chart":
+            agg_fn = cfg.get("bar_agg", "sum")
+            x_col, y_col = cfg["x"], cfg["y"]
+            agg_map = {"sum": "sum", "mean": "mean", "count": "count"}
+            grp_cols = [c for c in [x_col, cfg.get("color")] if c]
+            if y_col in grp_cols:
+                grp_cols = [x_col]
+            dfa = df.groupby(grp_cols, dropna=False)[y_col].agg(agg_map[agg_fn]).reset_index()
+
+            if cfg.get("color") and cfg["color"] in dfa.columns:
+                pivot = dfa.pivot_table(index=x_col, columns=cfg["color"], values=y_col, fill_value=0)
+                pivot.plot(kind="barh" if cfg.get("orientation") == "h" else "bar", ax=ax, edgecolor="black")
+            else:
+                if cfg.get("orientation") == "h":
+                    ax.barh(dfa[x_col].astype(str), dfa[y_col], edgecolor="black")
+                    ax.set_xlabel(y_col)
+                    ax.set_ylabel(x_col)
+                else:
+                    ax.bar(dfa[x_col].astype(str), dfa[y_col], edgecolor="black")
+                    ax.set_xlabel(x_col)
+                    ax.set_ylabel(y_col)
+            ax.set_title(f"Bar Chart — {agg_fn}({y_col})")
+            plt.xticks(rotation=45, ha="right")
+
+        elif ctype == "Heatmap":
+            plt.close(fig)
+            if cfg.get("corr_matrix"):
+                num_df = df.select_dtypes("number")
+                corr = num_df.corr()
+                fig, ax = plt.subplots(figsize=(10, 8))
+                sns.heatmap(corr, annot=True, fmt=".2f", cmap="RdBu_r", vmin=-1, vmax=1, ax=ax)
+                ax.set_title("Correlation Matrix")
+            else:
+                pivot = df.pivot_table(index=cfg["y"], columns=cfg["x"], values=cfg["z"], aggfunc="mean")
+                fig, ax = plt.subplots(figsize=(10, 8))
+                sns.heatmap(pivot, annot=True, fmt=".1f", cmap="viridis", ax=ax)
+                ax.set_title("Heatmap")
+
+        elif ctype == "Violin Plot":
+            y_col = cfg["y"]
+            x_col = cfg.get("x")
+            if x_col:
+                categories = df[x_col].dropna().unique()
+                data = [df[df[x_col] == cat][y_col].dropna().values for cat in categories]
+                parts = ax.violinplot(data, showmeans=True, showmedians=True)
+                ax.set_xticks(range(1, len(categories) + 1))
+                ax.set_xticklabels([str(c) for c in categories], rotation=45, ha="right")
+                ax.set_xlabel(x_col)
+            else:
+                ax.violinplot(df[y_col].dropna().values, showmeans=True, showmedians=True)
+            ax.set_ylabel(y_col)
+            ax.set_title(f"Violin Plot of {y_col}")
+
+        elif ctype == "Pie Chart":
+            top_n = cfg.get("top_n", 10)
+            dfa = df.groupby(cfg["names"])[cfg["values"]].sum().nlargest(top_n)
+            ax.pie(dfa.values, labels=dfa.index, autopct="%1.1f%%", startangle=90)
+            ax.set_title(f"Pie Chart — Top {top_n}")
+
+        fig.tight_layout()
+        return fig
+
+    except Exception as e:
+        plt.close(fig)
+        st.error(f"Matplotlib chart error: {e}")
+        return None
+
+
+# ── sidebar rendering engine ──────────────────────────────────────────────────
+st.sidebar.header("Rendering Engine")
+render_engine = st.sidebar.radio("Library", ["Plotly (interactive)", "Matplotlib (static)"], key="render_engine")
 
 # ── sidebar filters ───────────────────────────────────────────────────────────
 st.sidebar.header("Column Filters")
@@ -243,13 +389,20 @@ with right:
 
     active_cfg = st.session_state.get("last_cfg")
     if active_cfg:
-        fig = build_chart(chart_df, active_cfg)
-        if fig:
-            st.plotly_chart(fig, use_container_width=True, key=f"main_{active_cfg.get('chart_type','chart')}")
+        use_mpl = render_engine.startswith("Matplotlib")
+        if use_mpl:
+            fig = build_chart_mpl(chart_df, active_cfg)
+            if fig:
+                st.pyplot(fig, use_container_width=True)
+                plt.close(fig)
+        else:
+            fig = build_chart(chart_df, active_cfg)
+            if fig:
+                st.plotly_chart(fig, use_container_width=True, key=f"main_{active_cfg.get('chart_type','chart')}")
 
         if st.button("Save Chart", use_container_width=True):
             st.session_state.saved_charts.append(
-                {"cfg": dict(cfg), "chart_df": chart_df.copy()}
+                {"cfg": dict(cfg), "chart_df": chart_df.copy(), "engine": render_engine}
             )
             st.success(f"Chart saved! ({len(st.session_state.saved_charts)} total)")
 
@@ -275,10 +428,17 @@ if st.session_state.saved_charts:
         if i % cols_per_row == 0:
             gallery_cols = st.columns(cols_per_row)
         with gallery_cols[i % cols_per_row]:
-            st.caption(f"Chart {i + 1} — {saved['cfg']['chart_type']}")
-            fig_saved = build_chart(saved["chart_df"], saved["cfg"])
-            if fig_saved:
-                st.plotly_chart(fig_saved, use_container_width=True, key=f"saved_chart_{i}")
+            saved_engine = saved.get("engine", "Plotly (interactive)")
+            st.caption(f"Chart {i + 1} — {saved['cfg']['chart_type']} ({saved_engine.split(' ')[0]})")
+            if saved_engine.startswith("Matplotlib"):
+                fig_saved = build_chart_mpl(saved["chart_df"], saved["cfg"])
+                if fig_saved:
+                    st.pyplot(fig_saved, use_container_width=True)
+                    plt.close(fig_saved)
+            else:
+                fig_saved = build_chart(saved["chart_df"], saved["cfg"])
+                if fig_saved:
+                    st.plotly_chart(fig_saved, use_container_width=True, key=f"saved_chart_{i}")
 
     if st.button("Clear saved charts"):
         st.session_state.saved_charts = []
