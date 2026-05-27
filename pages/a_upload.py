@@ -17,6 +17,11 @@ def read_file(file_bytes: bytes, filename: str) -> pd.DataFrame:
         return pd.read_json(pd.io.common.BytesIO(file_bytes))
     else:
         raise ValueError(f"Unsupported file type: {ext}")
+    
+
+@st.cache_data
+def cached_profile_dataframe(df: pd.DataFrame):
+    return profile_dataframe(df)
 
 
 # ── Upload Section ────────────────────────────────────────────────────────────
@@ -60,7 +65,7 @@ if df is not None:
     st.divider()
     st.subheader("Dataset Overview")
 
-    profile = profile_dataframe(df)
+    profile = cached_profile_dataframe(df)
     n_rows, n_cols = profile["shape"]
     n_duplicates = profile["duplicates"]
     total_cells = n_rows * n_cols

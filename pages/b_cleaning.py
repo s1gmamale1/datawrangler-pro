@@ -22,6 +22,10 @@ from utils.cleaners import (
 from utils.profiler import get_outliers_iqr, get_outliers_zscore, profile_dataframe
 from utils.validators import run_all_validations
 
+@st.cache_data
+def cached_profile_dataframe(df: pd.DataFrame):
+    return profile_dataframe(df)
+
 st.title("Data Cleaning")
 
 # ---------------------------------------------------------------------------
@@ -68,7 +72,7 @@ st.divider()
 # ---------------------------------------------------------------------------
 with st.expander("1. Missing Values", expanded=False):
     df = st.session_state.df
-    profile = profile_dataframe(df)
+    profile = cached_profile_dataframe(df)
     missing_data = [
         {"Column": c, "Missing Count": v["count"], "Missing %": v["pct"]}
         for c, v in profile["missing"].items()

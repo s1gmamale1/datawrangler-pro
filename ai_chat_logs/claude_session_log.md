@@ -6,7 +6,7 @@
 ## Prompt 1 — Project Architecture
 
 **User:**
-> I have a Streamlit coursework project for 5COSC038C Data Wrangling & Visualization. I need to build a data preparation studio app with 4 pages: Upload & Overview, Cleaning Studio, Visualization Builder, and Export & Report. What's the best way to structure this?
+> I have a Streamlit coursework project for Data Wrangling & Visualization. I need to build a data preparation studio app with 4 pages: Upload & Overview, Cleaning Studio, Visualization Builder, and Export & Report. What's the best way to structure this?
 
 **Claude:**
 > The cleanest approach is to separate concerns into three layers:
