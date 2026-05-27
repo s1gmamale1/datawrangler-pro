@@ -80,7 +80,12 @@ def build_chart(df, cfg):
             grp_cols = [c for c in [cfg["x"], cfg.get("color")] if c]
             if cfg["y"] in grp_cols:
                 grp_cols = [cfg["x"]]
-            agg_map = {"sum": "sum", "mean": "mean", "count": "count"}
+            agg_map = {
+                        "sum": "sum",
+                        "mean": "mean",
+                        "count": "count",
+                        "median": "median",
+                    }
             dfa = df.groupby(grp_cols, dropna=False)[cfg["y"]].agg(agg_map[agg_fn]).reset_index()
             kw = dict(x=cfg["x"], y=cfg["y"])
             if cfg.get("color") and cfg["color"] in dfa.columns:
@@ -186,7 +191,12 @@ def build_chart_mpl(df, cfg):
         elif ctype == "Bar Chart":
             agg_fn = cfg.get("bar_agg", "sum")
             x_col, y_col = cfg["x"], cfg["y"]
-            agg_map = {"sum": "sum", "mean": "mean", "count": "count"}
+            agg_map = {
+                        "sum": "sum",
+                        "mean": "mean",
+                        "count": "count",
+                        "median": "median",
+                    }
             grp_cols = [c for c in [x_col, cfg.get("color")] if c]
             if y_col in grp_cols:
                 grp_cols = [x_col]
@@ -293,7 +303,7 @@ st.sidebar.caption(f"Rows after filtering: **{len(df):,}** / {len(df_orig):,}")
 # ── sidebar aggregation ───────────────────────────────────────────────────────
 st.sidebar.header("Aggregation")
 groupby_col = st.sidebar.selectbox("Group by", ["(none)"] + all_cols, key="groupby_col")
-agg_fn = st.sidebar.selectbox("Aggregation function", ["sum", "mean", "count", "min", "max"], key="agg_fn")
+agg_fn = st.sidebar.selectbox("Aggregation function", ["sum", "mean", "count", "min", "max", "median"], key="agg_fn")
 
 if groupby_col != "(none)":
     num_cols = df.select_dtypes("number").columns.tolist()
@@ -361,7 +371,7 @@ with left:
         color_opt = st.selectbox("Color (optional)", ["(none)"] + cat_chart_cols, key="bc_color")
         cfg["color"] = None if color_opt == "(none)" else color_opt
         cfg["orientation"] = st.radio("Orientation", ["v", "h"], key="bc_orient")
-        cfg["bar_agg"] = st.selectbox("Aggregation", ["sum", "mean", "count"], key="bc_agg")
+        cfg["bar_agg"] = st.selectbox("Aggregation", ["sum", "mean", "count", "median"], key="bc_agg")
 
     elif chart_type == "Heatmap":
         cfg["corr_matrix"] = st.checkbox("Correlation matrix (numeric cols)", value=True, key="hm_corr")
