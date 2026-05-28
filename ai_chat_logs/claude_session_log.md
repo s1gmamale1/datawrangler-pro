@@ -1,6 +1,4 @@
 # AI Chat Log — Claude Code (claude-opus-4-6)
-### Tool: Claude Code CLI | Date: 2026-03-27 | Project: DataWrangler Pro
-
 ---
 
 ## Prompt 1 — Project Architecture
@@ -138,6 +136,17 @@
 | 7 | Page D — Export | CSV/Excel/JSON + report + recipe |
 | 8 | Bug fixes | Session state + recipe param keys |
 | 9 | Sample data | 2 datasets with intentional quality issues |
+
+## Manual Verification
+- Tested CSV upload with sales_data.csv
+- Tested JSON upload with sample JSON
+- Tested Excel upload with .xlsx file
+- Tested missing value fill using median/mode
+- Tested duplicate removal with subset columns
+- Tested categorical mapping and rare grouping
+- Tested Min-Max and Z-score scaling
+- Tested visualization builder with histogram, scatter, bar, box, line, heatmap
+- Tested export of cleaned dataset and transformation report
 
 **Total AI interactions:** 9 major prompts + iterative debugging
 **All generated code was reviewed, tested, and validated manually.**

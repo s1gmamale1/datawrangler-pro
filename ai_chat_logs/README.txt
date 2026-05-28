@@ -1,15 +1,15 @@
-AI Chat Logs
-============
-This folder contains the prompts and conversations used during development
-of this project with Claude Code (Anthropic).
+# AI Chat Logs
 
-The primary AI tool used was Claude Code CLI (claude-opus-4-6).
+This folder contains AI-assisted development records used during the project.
 
-Key prompt categories:
-- Architecture planning (multi-page Streamlit structure)
-- Utility function generation (cleaners.py, profiler.py, validators.py)
-- Page UI generation (a_upload, b_cleaning, c_visualization, d_export)
-- Sample data generation
-- Bug fixing (session state persistence, recipe generator param keys)
+## Files
 
-Full session transcripts are available in the Claude Code session logs.
+- claude_session_log.md  
+  Contains Claude Code prompts, planning notes, debugging steps, and implementation assistance used during development.
+
+- gpt_session_log.md  
+  Contains ChatGPT review, verification, coursework requirement checks, and final improvement guidance.
+
+## Note
+
+These logs are included for transparency. All code was manually reviewed, tested, and understood by the team before submission.
